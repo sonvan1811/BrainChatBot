@@ -2818,5 +2818,23 @@
             "gì"
         ],
         "bot_response": "\nMan in the middle (MITM) là một loại tấn công bảo mật mà bị tấn công giữa hai thực thể hoặc hệ thống mà không có sự biết thực của bất kỳ thực thể nào khác. Tấn công này cho phép tấn công giữa kết nối để theo dõi, thay đổi hoặc thay thế dữ liệu giữa hai thực thể."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "evilginx2",
+            "là",
+            "công",
+            "cụ",
+            "gì"
+        ],
+        "required_words": [
+            "evilginx2",
+            "là",
+            "công",
+            "cụ",
+            "gì"
+        ],
+        "bot_response": "\nEvilginx2 là công cụ phát hiện lỗ hổng bảo mật của tập tin phần mềm web. Nó cung cấp các công cụ để phát hiện các lỗ hổng bảo mật liên quan đến phần mềm web, như SQL Injection, XSS, và các lỗ hổng khác. Ngoài ra, nó cũng cung cấp các công cụ để phát hiện các lỗ hổng bảo mật được gây ra bởi cấu hình không an toàn của phần mềm web."
     }
 ]
