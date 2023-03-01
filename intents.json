@@ -2780,5 +2780,23 @@
             "gì"
         ],
         "bot_response": "\nDDoS (tấn công từ nhiều nguồn): là một hình thức tấn công mạng mà kẻ tấn công sử dụng một hoặc nhiều máy tính để gửi lượng lớn các yêu cầu đến một máy chủ mạng hoặc một hệ thống mạng cụ thể. Tấn công này có thể gây ra sự cố trong việc truy cập vào hệ thống mạng, đặc biệt là khi các yêu cầu đến từ các nguồn khác nhau."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "evil",
+            "twin",
+            "attack",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "evil",
+            "twin",
+            "attack",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nEvil Twin Attack là một loại tấn công bảo mật mạng mà các kẻ tấn công sử dụng một điểm truy cập Wi-Fi giả để gây rối mạng và lừa đảo người dùng. Kẻ tấn công sẽ tạo ra một điểm truy cập Wi-Fi giả mạo có tên giống với điểm truy cập Wi-Fi thực sự của bạn và sau đó lừa đảo người dùng để kết nối với điểm truy cập Wi-Fi giả mạo. Khi người dùng kết nối với điểm truy cập Wi-Fi giả mạo này, kẻ tấn công sẽ có thể theo dõi lưu lượng dữ liệu của họ và lấy thông tin của họ, bao gồm cả tài khoản ngân hàng và mật khẩu."
     }
 ]
