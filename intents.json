@@ -2798,25 +2798,5 @@
             "gì"
         ],
         "bot_response": "\nEvil Twin Attack là một loại tấn công bảo mật mạng mà các kẻ tấn công sử dụng một điểm truy cập Wi-Fi giả để gây rối mạng và lừa đảo người dùng. Kẻ tấn công sẽ tạo ra một điểm truy cập Wi-Fi giả mạo có tên giống với điểm truy cập Wi-Fi thực sự của bạn và sau đó lừa đảo người dùng để kết nối với điểm truy cập Wi-Fi giả mạo. Khi người dùng kết nối với điểm truy cập Wi-Fi giả mạo này, kẻ tấn công sẽ có thể theo dõi lưu lượng dữ liệu của họ và lấy thông tin của họ, bao gồm cả tài khoản ngân hàng và mật khẩu."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "Man",
-            "In",
-            "The",
-            "Middle",
-            "là",
-            "gì"
-        ],
-        "required_words": [
-            "Man",
-            "In",
-            "The",
-            "Middle",
-            "là",
-            "gì"
-        ],
-        "bot_response": "\nMan In The Middle (MITM) là một loại tấn công bảo mật mà một kẻ tấn công cố gắng trở thành một nhân vật trung gian giữa hai bên trong một cuộc trao đổi thông tin. Kẻ tấn công có thể sử dụng những phương pháp này để lấy thông tin bí mật, thay đổi thông tin được trao đổi giữa hai bên hoặc thậm chí cảm thấy cuộc trao đổi."
     }
 ]
