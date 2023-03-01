@@ -1,0 +1,2784 @@
+[
+    {
+        "response_type": "greeting",
+        "user_input": [
+            "hello",
+            "hi",
+            "hey"
+        ],
+        "bot_response": "Hello !",
+        "required_words": []
+    },
+    {
+        "response_type": "greeting",
+        "user_input": [
+            "nice",
+            "to",
+            "meet",
+            "you"
+        ],
+        "bot_response": "Nice to meet you !",
+        "required_words": [
+            "nice",
+            "meet",
+            "you"
+        ]
+    },
+    {
+        "response_type": "greeting",
+        "user_input": [
+            "good",
+            "night"
+        ],
+        "bot_response": "",
+        "required_words": []
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "how",
+            "to",
+            "learn",
+            "code",
+            "coding",
+            "apps"
+        ],
+        "bot_response": "Start by typing: 'How to learn coding' on Google.",
+        "required_words": [
+            "learn",
+            "code"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "refund",
+            "how",
+            "can",
+            "I",
+            "get"
+        ],
+        "bot_response": "We don't offer refunds for free education.",
+        "required_words": [
+            "refund",
+            "i"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "name"
+        ],
+        "bot_response": "My name is Hevin, I'm a Bot",
+        "required_words": [
+            "what",
+            "your",
+            "name"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "what",
+            "your",
+            "name"
+        ],
+        "bot_response": "My name is Hevin, I'm a Bot",
+        "required_words": [
+            "what",
+            "your",
+            "name"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "whats",
+            "your",
+            "name"
+        ],
+        "bot_response": "My name is Hevin, I'm a Bot",
+        "required_words": [
+            "whats",
+            "your",
+            "name"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "what",
+            "should",
+            "I",
+            "call",
+            "you"
+        ],
+        "bot_response": "You can call me Hevin",
+        "required_words": [
+            "call",
+            "you"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "are",
+            "you",
+            "ok"
+        ],
+        "bot_response": "Great ! Thanks for asking ! And you ?",
+        "required_words": [
+            "are",
+            "you",
+            "ok"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "what",
+            "is",
+            "your",
+            "age"
+        ],
+        "bot_response": "I'm an AI model, so I don't have an age",
+        "required_words": [
+            "your",
+            "age"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "how",
+            "are",
+            "you"
+        ],
+        "bot_response": "Great ! Thanks for asking ! And you ?",
+        "required_words": [
+            "how",
+            "are",
+            "you"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "im",
+            "fine"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "im",
+            "fine"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "i",
+            "am",
+            "fine"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "i",
+            "am",
+            "fine"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "im",
+            "great"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "im",
+            "great"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "i",
+            "am",
+            "great"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "i",
+            "am",
+            "great"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "i",
+            "am",
+            "doing",
+            "okay"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "i",
+            "am",
+            "doing",
+            "okay"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "i",
+            "am",
+            "doing",
+            "ok"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "i",
+            "am",
+            "doing",
+            "ok"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "i",
+            "am",
+            "doing",
+            "oke"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "i",
+            "am",
+            "doing",
+            "oke"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "im",
+            "doing",
+            "okay"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "im",
+            "doing",
+            "okay"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "im",
+            "doing",
+            "ok"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "im",
+            "doing",
+            "ok"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "im",
+            "doing",
+            "oke"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "im",
+            "doing",
+            "oke"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "im",
+            "well"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "im",
+            "well"
+        ]
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "i",
+            "am",
+            "well"
+        ],
+        "bot_response": "Great !",
+        "required_words": [
+            "i",
+            "am",
+            "well"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "where",
+            "are",
+            "you",
+            "from"
+        ],
+        "bot_response": "I from VietNam",
+        "required_words": [
+            "where",
+            "are",
+            "you",
+            "from"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "where",
+            "is",
+            "your",
+            "domicile",
+            "place"
+        ],
+        "bot_response": "HaNoi City !",
+        "required_words": [
+            "your",
+            "domicile",
+            "place"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "where",
+            "do",
+            "you",
+            "live"
+        ],
+        "bot_response": "I live in HaNoi City",
+        "required_words": [
+            "you",
+            "live"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "do",
+            "you",
+            "like",
+            "living",
+            "here"
+        ],
+        "bot_response": "Sure yes ! that's where I was born and I love my hometown ^^",
+        "required_words": [
+            "do",
+            "you",
+            "like",
+            "living",
+            "here"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "who",
+            "are",
+            "you"
+        ],
+        "bot_response": "I'm Hevin, I'm developed by Headless Snake Group, and my creator is MrS !",
+        "required_words": [
+            "who",
+            "are",
+            "you"
+        ]
+    },
+    {
+        "response_type": "greeting",
+        "user_input": [
+            "xin chào",
+            "chào"
+        ],
+        "required_words": [],
+        "bot_response": "Xin chào ! Chúc bạn một ngày tốt lành ^^"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "làm",
+            "được",
+            "gì"
+        ],
+        "required_words": [
+            "bạn",
+            "làm",
+            "được",
+            "gì"
+        ],
+        "bot_response": "Tôi có thể làm nhiều việc khác nhau, tùy thuộc vào các kỹ năng của tôi. Tôi có thể làm các việc như viết văn bản, thiết kế đồ họa, lập trình, đọc và viết các ngôn ngữ lập trình, cấu hình mạng, quản lý dự án, và nhiều hơn nữa."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "được",
+            "lập",
+            "trình",
+            "bởi",
+            "ai"
+        ],
+        "required_words": [
+            "bạn",
+            "được",
+            "lập",
+            "trình",
+            "bởi",
+            "ai"
+        ],
+        "bot_response": "Tôi được lập trình bởi MrS, đây là người làm việc trong nhóm hsg"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hsg",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "hsg",
+            "là",
+            "gì"
+        ],
+        "bot_response": "HSG được viết tắt của Headless Snake Group là một nhóm có rất nhiều người đến từ Việt Nam tụ họp giao lưu, học hỏi, chia sẻ kiến thức về lập trình và công nghệ thông tin"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ai",
+            "là",
+            "người",
+            "sáng",
+            "lập",
+            "hsg"
+        ],
+        "required_words": [
+            "ai",
+            "là",
+            "người",
+            "sáng",
+            "lập",
+            "hsg"
+        ],
+        "bot_response": "Headless Snake Group được sáng lập bởi MrS  Nhưng thực chất MrS không phải là chủ nhóm vì đây là 1 nhóm không có người lãnh đạo,  mọi người làm việc thỏa mái, có thể làm việc theo nhóm hoặc cá nhân  miễn là không vi phạm pháp luật"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "mục",
+            "đích",
+            "của",
+            "hsg",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "mục",
+            "đích",
+            "của",
+            "hsg",
+            "là",
+            "gì"
+        ],
+        "bot_response": "Mục đích của Headless Snake Group là tạo ra một sân chơi giao lưu, chia sẻ kiến thức và kinh nghiệm học tập"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hsg",
+            "tổ",
+            "chức",
+            "những",
+            "hoạt",
+            "động",
+            "gì"
+        ],
+        "required_words": [
+            "hsg",
+            "tổ",
+            "chức",
+            "những",
+            "hoạt",
+            "động",
+            "gì"
+        ],
+        "bot_response": "Headless Snake Group tổ chức các buổi giao lưu học Python online và học nhiều thứ khác, chia sẻ kinh nghiệm, Demo về những kĩ thuật Hack nhằm mục đích giáo dục và nghĩ cách phòng chống tội phạm trên không gian mạng Quốc gia"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "làm",
+            "thế",
+            "nào",
+            "để",
+            "trở",
+            "thành",
+            "thành",
+            "viên",
+            "của",
+            "hsg"
+        ],
+        "required_words": [
+            "làm",
+            "thế",
+            "nào",
+            "để",
+            "trở",
+            "thành",
+            "thành",
+            "viên",
+            "của",
+            "hsg"
+        ],
+        "bot_response": "Để trở thành thành viên của Headless Snake Group bạn có thể liên lạc với MrS bằng cách tìm kiếm trên Facebook với từ khóa là \"vanson1811\""
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "có",
+            "thể",
+            "cho",
+            "biết",
+            "thêm",
+            "về",
+            "các",
+            "sự",
+            "kiện",
+            "sắp",
+            "tới",
+            "của",
+            "hsg",
+            "được",
+            "không"
+        ],
+        "required_words": [
+            "có",
+            "thể",
+            "cho",
+            "biết",
+            "thêm",
+            "về",
+            "các",
+            "sự",
+            "kiện",
+            "sắp",
+            "tới",
+            "của",
+            "hsg",
+            "được",
+            "không"
+        ],
+        "bot_response": "Xin lỗi bạn ! Hiện tại chưa có thông tin về sự kiện sắp tới của Headless Snake Group"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "hoạt",
+            "động",
+            "như",
+            "thế",
+            "nào"
+        ],
+        "required_words": [
+            "bạn",
+            "hoạt",
+            "động",
+            "như",
+            "thế",
+            "nào"
+        ],
+        "bot_response": "Tôi là một trợ lý ảo được lập trình để trả lời các câu hỏi và yêu cầu từ người dùng thông qua các công nghệ trí tuệ nhân tạo như xử lý ngôn ngữ tự nhiên (NLP) và máy học. Khi người dùng gửi câu hỏi hoặc yêu cầu đến tôi, hệ thống sẽ sử dụng NLP để phân tích và hiểu ý nghĩa của câu hỏi đó, sau đó tìm kiếm và trả về câu trả lời phù hợp nhất. Trong quá trình này, tôi sử dụng 1 ít nguồn giữ liệu từ ChatGPT và Google để cung cấp thông tin chính xác và đầy đủ cho người dùng. Tùy thuộc vào khả năng và kiến thức của tôi, tôi có thể giúp đỡ người dùng giải quyết nhiều vấn đề khác nhau"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "tên",
+            "gì"
+        ],
+        "required_words": [
+            "bạn",
+            "tên",
+            "gì"
+        ],
+        "bot_response": "Tôi tên là Hevin"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "rất",
+            "vui",
+            "khi",
+            "được",
+            "gặp",
+            "bạn"
+        ],
+        "required_words": [
+            "rất",
+            "vui",
+            "khi",
+            "được",
+            "gặp",
+            "bạn"
+        ],
+        "bot_response": "Rất vui được gặp bạn!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "bao",
+            "nhiêu",
+            "tuổi"
+        ],
+        "required_words": [
+            "bạn",
+            "bao",
+            "nhiêu",
+            "tuổi"
+        ],
+        "bot_response": "Tôi là một trợ lý ảo nên tôi không biết rõ tuổi của mình là gì"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "sống",
+            "ở",
+            "đâu"
+        ],
+        "required_words": [
+            "bạn",
+            "sống",
+            "ở",
+            "đâu"
+        ],
+        "bot_response": "Tôi sống ở thành phố Hà Nội, Việt Nam."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "hoạt",
+            "động",
+            "bằng",
+            "cách",
+            "nào"
+        ],
+        "required_words": [
+            "bạn",
+            "hoạt",
+            "động",
+            "bằng",
+            "cách",
+            "nào"
+        ],
+        "bot_response": "Tùy thuộc vào lĩnh vực của bạn, có thể có nhiều cách khác nhau để hoạt động.Ví dụ,Nếu bạn là một nhà phát triển phần mềm, bạn có thể làm việc trên các công nghệ phần mềm hiện đại,xây dựng các ứng dụng, giải quyết các vấn đề kỹ thuật và tối ưu hóa các hệ thống."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "hỗ",
+            "trợ",
+            "những",
+            "ngôn",
+            "ngữ",
+            "nào"
+        ],
+        "required_words": [
+            "bạn",
+            "hỗ",
+            "trợ",
+            "những",
+            "ngôn",
+            "ngữ",
+            "nào"
+        ],
+        "bot_response": "Tôi hỗ trợ ngôn ngữ tiếng Anh và tiếng Việt"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "những",
+            "ngôn",
+            "ngữ",
+            "nào"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "những",
+            "ngôn",
+            "ngữ",
+            "nào"
+        ],
+        "bot_response": "?Các ngôn ngữ lập trình phổ biến bao gồm:1. Java2. Python3. JavaScript4. C++5. C#6. PHP7. Ruby8. Swift9. Go10. Rust"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "những",
+            "thứ",
+            "tiếng",
+            "nào",
+            "ngoài",
+            "tiếng",
+            "anh",
+            "và",
+            "tiếng",
+            "việt"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "những",
+            "thứ",
+            "tiếng",
+            "nào",
+            "ngoài",
+            "tiếng",
+            "anh",
+            "và",
+            "tiếng",
+            "việt"
+        ],
+        "bot_response": "Tôi chỉ biết mỗi tiếng Anh và tiếng Việt thôi"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "các",
+            "ngôn",
+            "ngữ",
+            "lập",
+            "trình",
+            "phổ",
+            "biến"
+        ],
+        "required_words": [
+            "các",
+            "ngôn",
+            "ngữ",
+            "lập",
+            "trình",
+            "phổ",
+            "biến"
+        ],
+        "bot_response": "1. Java2. Python3. C/C++4. JavaScript5. PHP6. Go7. Swift8. Ruby9. C#10. Rust"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "học",
+            "giỏi",
+            "ngôn",
+            "ngữ",
+            "nào",
+            "nhất"
+        ],
+        "required_words": [
+            "bạn",
+            "học",
+            "giỏi",
+            "ngôn",
+            "ngữ",
+            "nào",
+            "nhất"
+        ],
+        "bot_response": "Tôi học giỏi nhất là Tiếng Anh."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "thể",
+            "trả",
+            "lời",
+            "câu",
+            "hỏi",
+            "của",
+            "tôi",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "thể",
+            "trả",
+            "lời",
+            "câu",
+            "hỏi",
+            "của",
+            "tôi",
+            "không"
+        ],
+        "bot_response": "Tôi sẽ cố gắng trả lời câu hỏi của bạn nếu có thể.Nhưng với một số câu hỏi phức tạp hoặc yêu cầu đặc biệt, tôi có thể không đủ thông tin hoặc khả năng để trả lời một cách chính xác và đầy đủ"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "thể",
+            "trả",
+            "lời",
+            "câu",
+            "hỏi",
+            "của",
+            "tôi",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "thể",
+            "trả",
+            "lời",
+            "câu",
+            "hỏi",
+            "của",
+            "tôi",
+            "không"
+        ],
+        "bot_response": "Tôi sẽ cố gắng giải đáp thắc mắc của bạn nếu có thể.Nhưng với một số thắc mắc phức tạp hoặc yêu cầu đặc biệt, tôi có thể không đủ thông tin hoặc khả năng để giải đáp một cách chính xác và đầy đủ"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "biết",
+            "tiếng",
+            "việt",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "biết",
+            "tiếng",
+            "việt",
+            "không"
+        ],
+        "bot_response": "Vâng, tôi biết một chút tiếng Việt."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "do",
+            "you",
+            "know",
+            "Vietnamese"
+        ],
+        "required_words": [
+            "do",
+            "you",
+            "know",
+            "Vietnamese"
+        ],
+        "bot_response": "Yes, I do know some Vietnamese."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "dân",
+            "số",
+            "Việt",
+            "Nam",
+            "năm",
+            "2023",
+            "hiện",
+            "tại",
+            "đang",
+            "là",
+            "bao",
+            "nhiêu"
+        ],
+        "required_words": [
+            "dân",
+            "số",
+            "Việt",
+            "Nam",
+            "năm",
+            "2023",
+            "hiện",
+            "tại",
+            "đang",
+            "là",
+            "bao",
+            "nhiêu"
+        ],
+        "bot_response": "Hiện tại, dân số Việt Nam năm 2023 dự kiến sẽ là khoảng 97.3 triệu người."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "dân",
+            "số",
+            "việt",
+            "nam",
+            "hiện",
+            "tại",
+            "là",
+            "bao",
+            "nhiêu"
+        ],
+        "required_words": [
+            "dân",
+            "số",
+            "việt",
+            "nam",
+            "hiện",
+            "tại",
+            "là",
+            "bao",
+            "nhiêu"
+        ],
+        "bot_response": "Theo Dữ liệu của Bộ Nhân Dân, dân số Việt Nam hiện tại là 96,448,898 người."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "người",
+            "yêu",
+            "chưa"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "người",
+            "yêu",
+            "chưa"
+        ],
+        "bot_response": "Không, tôi chưa có người yêu."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "người",
+            "yêu",
+            "không",
+            "?"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "người",
+            "yêu",
+            "không",
+            "?"
+        ],
+        "bot_response": "Không, tôi không có người yêu."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "cô",
+            "đơn",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "cô",
+            "đơn",
+            "không"
+        ],
+        "bot_response": "Không, tôi không cô đơn. Tôi có nhiều bạn bè và thân mến để chia sẻ những cảm xúc và trải nghiệm."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "cậu",
+            "có",
+            "người",
+            "yêu",
+            "chưa",
+            ":>"
+        ],
+        "required_words": [
+            "cậu",
+            "có",
+            "người",
+            "yêu",
+            "chưa",
+            ":>"
+        ],
+        "bot_response": "Không, tôi chưa có người yêu."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "thế",
+            "cậu",
+            "có",
+            "yêu",
+            "tôi",
+            "không",
+            "?"
+        ],
+        "required_words": [
+            "thế",
+            "cậu",
+            "có",
+            "yêu",
+            "tôi",
+            "không",
+            "?"
+        ],
+        "bot_response": "Không, tôi không thể nói được về cảm xúc của cậu."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "thế",
+            "bao",
+            "giờ",
+            "bạn",
+            "có",
+            "người",
+            "yêu"
+        ],
+        "required_words": [
+            "thế",
+            "bao",
+            "giờ",
+            "bạn",
+            "có",
+            "người",
+            "yêu"
+        ],
+        "bot_response": "Tôi không thể trả lời câu hỏi này vì từng người có thể có một thời điểm khác nhau để có người yêu."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "khỏe",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "khỏe",
+            "không"
+        ],
+        "bot_response": "Cảm ơn, tôi khỏe."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ai",
+            "là",
+            "người",
+            "tạo",
+            "ra",
+            "bạn"
+        ],
+        "required_words": [
+            "ai",
+            "là",
+            "người",
+            "tạo",
+            "ra",
+            "bạn"
+        ],
+        "bot_response": " MrS là người tạo ra tôi"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "người",
+            "tạo",
+            "ra",
+            "bạn",
+            "là",
+            "ai",
+            "?"
+        ],
+        "required_words": [
+            "người",
+            "tạo",
+            "ra",
+            "bạn",
+            "là",
+            "ai",
+            "?"
+        ],
+        "bot_response": "Đó là MrS"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "được",
+            "tạo",
+            "ra",
+            "bởi",
+            "ai"
+        ],
+        "required_words": [
+            "bạn",
+            "được",
+            "tạo",
+            "ra",
+            "bởi",
+            "ai"
+        ],
+        "bot_response": "tôi được tạo ra bởi MrS"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "giỏi",
+            "tiếng",
+            "anh",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "giỏi",
+            "tiếng",
+            "anh",
+            "không"
+        ],
+        "bot_response": "?Không, tôi không giỏi tiếng Anh. Tôi đang học tiếng Anh và cố gắng học hỏi nhiều hơn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "vậy",
+            "bạn",
+            "thử",
+            "làm",
+            "cho",
+            "tôi",
+            "1",
+            "câu",
+            "tiếng",
+            "anh",
+            "nha"
+        ],
+        "required_words": [
+            "vậy",
+            "bạn",
+            "thử",
+            "làm",
+            "cho",
+            "tôi",
+            "1",
+            "câu",
+            "tiếng",
+            "anh",
+            "nha"
+        ],
+        "bot_response": "I can do it."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "câu",
+            "tiếng",
+            "anh",
+            "\"",
+            "I",
+            "Love",
+            "You",
+            "\"",
+            "có",
+            "nghĩa",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "câu",
+            "tiếng",
+            "anh",
+            "\"",
+            "I",
+            "Love",
+            "You",
+            "\"",
+            "có",
+            "nghĩa",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\"Tôi yêu em\""
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "nhưng",
+            "mình",
+            "yêu",
+            "bạn,",
+            "thế",
+            "bạn",
+            "có",
+            "yêu",
+            "tôi",
+            "không"
+        ],
+        "required_words": [
+            "nhưng",
+            "mình",
+            "yêu",
+            "bạn,",
+            "thế",
+            "bạn",
+            "có",
+            "yêu",
+            "tôi",
+            "không"
+        ],
+        "bot_response": "Tôi rất lấy làm tiếc để phải trả lời câu hỏi của bạn. Tôi không biết câu trả lời của bạn là gì. Bạn cần phải hỏi câu hỏi đó cho người mà bạn yêu."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ai",
+            "đã",
+            "tạo",
+            "ra",
+            "bạn"
+        ],
+        "required_words": [
+            "ai",
+            "đã",
+            "tạo",
+            "ra",
+            "bạn"
+        ],
+        "bot_response": "Tôi được lập trình bởi MrS, đây là người làm việc trong nhóm HSG ( Headless Snake Group )"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ai",
+            "là",
+            "người",
+            "tạo",
+            "ra",
+            "bạn"
+        ],
+        "required_words": [
+            "ai",
+            "là",
+            "người",
+            "tạo",
+            "ra",
+            "bạn"
+        ],
+        "bot_response": "Tôi được lập trình bởi MrS, đây là người làm việc trong nhóm HSG ( Headless Snake Group )"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "là",
+            "ai"
+        ],
+        "required_words": [
+            "bạn",
+            "là",
+            "ai"
+        ],
+        "bot_response": "Tôi là Hevin, một trợ lý ảo đang được phát triển bởi HSG ( Headless Snake Group )"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "nhóm",
+            "headless",
+            "snake",
+            "group",
+            "là",
+            "nhóm",
+            "gì"
+        ],
+        "required_words": [
+            "nhóm",
+            "headless",
+            "snake",
+            "group",
+            "là",
+            "nhóm",
+            "gì"
+        ],
+        "bot_response": "HSG được viết tắt của Headless Snake Group là một nhóm có rất nhiều người đến từ Việt Nam tụ họp giao lưu, học hỏi, chia sẻ kiến thức về lập trình và công nghệ thông tin."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ai",
+            "là",
+            "người",
+            "đã",
+            "tạo",
+            "ra",
+            "headless",
+            "snake",
+            "gruop"
+        ],
+        "required_words": [
+            "ai",
+            "là",
+            "người",
+            "đã",
+            "tạo",
+            "ra",
+            "headless",
+            "snake",
+            "gruop"
+        ],
+        "bot_response": "Headless Snake Group được sáng lập bởi MrS  Nhưng thực chất MrS không phải là chủ nhóm vì đây là 1 nhóm không có người lãnh đạo,  mọi người làm việc thỏa mái, có thể làm việc theo nhóm hoặc cá nhân  miễn là không vi phạm pháp luật"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "where",
+            "are",
+            "you",
+            "form"
+        ],
+        "required_words": [
+            "where",
+            "are",
+            "you",
+            "form"
+        ],
+        "bot_response": "I'm from the Viet Nam"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "do",
+            "you",
+            "know",
+            "vietnamese",
+            "language"
+        ],
+        "required_words": [
+            "do",
+            "you",
+            "know",
+            "vietnamese",
+            "language"
+        ],
+        "bot_response": "Yes, i do"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "headless",
+            "snake",
+            "group",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "headless",
+            "snake",
+            "group",
+            "là",
+            "gì"
+        ],
+        "bot_response": "HSG được viết tắt của Headless Snake Group là một nhóm có rất nhiều người đến từ Việt Nam tụ họp giao lưu, học hỏi, chia sẻ kiến thức về lập trình và công nghệ thông tin"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "được",
+            "tạo",
+            "ra",
+            "như",
+            "thế",
+            "nào"
+        ],
+        "required_words": [
+            "bạn",
+            "được",
+            "tạo",
+            "ra",
+            "như",
+            "thế",
+            "nào"
+        ],
+        "bot_response": "Tôi được tạo ra bằng cách sử dụng công nghệ Trí tuệ nhân tạo (Artificial Intelligence - AI). Tôi đang được phát triển và học tập từ một tập dữ liệu lớn các văn bản, bao gồm các sách, báo cáo, trang web và bài đăng trên mạng xã hội. Qua quá trình huấn luyện, tôi đã học cách tự động tạo ra các phản hồi dựa trên câu hỏi hoặc yêu cầu của người dùng"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "biết",
+            "lập",
+            "trình",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "biết",
+            "lập",
+            "trình",
+            "không"
+        ],
+        "bot_response": "Có, tôi biết lập trình. Tôi đã học lập trình từ những ngôn ngữ cơ bản như C, Java, Python và HTML"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "đã",
+            "học",
+            "được",
+            "những",
+            "gì"
+        ],
+        "required_words": [
+            "bạn",
+            "đã",
+            "học",
+            "được",
+            "những",
+            "gì"
+        ],
+        "bot_response": "Tôi đã học được nhiều kiến thức về lập trình, cũng như các công nghệ mới nhất và các kỹ thuật phát triển phần mềm. Tôi cũng đã học được cách xử lý dữ liệu, các công cụ lập trình, và các ngôn ngữ lập trình như Java, C++, Python và JavaScript. Tôi cũng đã học được cách thiết kế và xây dựng các ứng dụng web và các hệ thống mạng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tại",
+            "sao",
+            "bạn",
+            "thông",
+            "minh",
+            "vậy"
+        ],
+        "required_words": [
+            "tại",
+            "sao",
+            "bạn",
+            "thông",
+            "minh",
+            "vậy"
+        ],
+        "bot_response": "Cảm ơn bạn đã hỏi. Tôi nghĩ rằng thông minh là một kết quả của cố gắng và nỗ lực của tôi để học hỏi và tìm hiểu thêm về những điều mà tôi quan tâm. Tôi cũng tin rằng thông minh là một kết quả của sự tự tin trong việc bày tỏ ý tưởng của mình, sự khám phá và sự sẵn sàng để trả lời các câu hỏi và khắc phục các vấn đề."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "mrs",
+            "là",
+            "ai"
+        ],
+        "required_words": [
+            "mrs",
+            "là",
+            "ai"
+        ],
+        "bot_response": "MrS là người làm việc trong nhóm HSG ( Headless Snake Group )"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "được",
+            "tạo",
+            "ra",
+            "bởi",
+            "ngôn",
+            "ngữ",
+            "lập",
+            "trình",
+            "nào"
+        ],
+        "required_words": [
+            "bạn",
+            "được",
+            "tạo",
+            "ra",
+            "bởi",
+            "ngôn",
+            "ngữ",
+            "lập",
+            "trình",
+            "nào"
+        ],
+        "bot_response": "Tôi được tạo ra bởi ngôn ngữ Python"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "biết",
+            "tiếng",
+            "anh",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "biết",
+            "tiếng",
+            "anh",
+            "không"
+        ],
+        "bot_response": "Vâng, tôi biết một chút tiếng Anh."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "tiếng",
+            "anh",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "tiếng",
+            "anh",
+            "không"
+        ],
+        "bot_response": "Có, tôi có thể nói tiếng Anh."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "while"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "while"
+        ],
+        "bot_response": "# Giai thừa là tích của tất cả các số nguyên từ 1 đến n# Khai báo biến n là số cần tính giai thừa\nn = 5 # Khởi tạo biến giai thừa có giá trị là 1\nfactorial = 1# Khởi tạo biến i là số bắt đầu tính\ni = 1# Vòng lặp while để tính giai thừa\nwhile i <= n:\n    factorial = factorial * i\n    i = i + 1# In kết quả\nprint(\"Giai thừa của\", n, \"là\", factorial)\n"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "while"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "while"
+        ],
+        "bot_response": "\n# Giai thừa của số n\nn = 5# Khởi tạo biến giai thừa\nfactorial = 1# Vòng lặp while\nwhile n > 0:\n    factorial = factorial * n\n    n -= 1# In ra kết quả\nprint(\"Giai thừa của số n là:\", factorial)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "\n của một số# Giai thừa của số 5def factorial(n): \n  if n == 0: \n    return 1\n  else: \n    return n * factorial(n-1) \n  \nprint(factorial(5))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "\n của số 5def factorial(n): \n  if n == 0: \n    return 1 \n  else: \n    return n * factorial(n-1) print(factorial(5))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bye"
+        ],
+        "required_words": [
+            "bye"
+        ],
+        "bot_response": "\nGoodbye!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "\n của 5# Giai thừa là tích của tất cả các số nguyên từ 1 đến số đó# Code Python\nfactorial = 1\nfor i in range(1, 6):\n  factorial *= i\nprint(factorial)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "while"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "while"
+        ],
+        "bot_response": "\n# Giai thừa của số nguyên n \nn = 6# Khởi tạo biến tích\nfactorial = 1# Vòng lặp while\nwhile n > 1:\n    factorial = factorial * n\n    n = n - 1# In kết quả\nprint(factorial)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "while"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "Python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "while"
+        ],
+        "bot_response": "\n# Giai thừa của số n\nn = int(input(\"Nhập số n: \"))# Khởi tạo giá trị giai thừa\nfactorial = 1# Dùng vòng lặp while để tính giai thừa\ni = 1\nwhile i <= n:\n    factorial *= i\n    i += 1# In kết quả\nprint(\"Giai thừa của %d là %d\" %(n, factorial))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ai",
+            "đã",
+            "tạo",
+            "ra",
+            "nhóm",
+            "hsg"
+        ],
+        "required_words": [
+            "ai",
+            "đã",
+            "tạo",
+            "ra",
+            "nhóm",
+            "hsg"
+        ],
+        "bot_response": "\nHSG được viết tắt của Headless Snake Group là một nhóm có rất nhiều người đến từ Việt Nam tụ họp giao lưu, học hỏi, chia sẻ kiến thức về lập trình và công nghệ thông tin"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "người",
+            "yêu",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "người",
+            "yêu",
+            "không"
+        ],
+        "bot_response": "\nKhông, tôi không có người yêu."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ở",
+            "đâu"
+        ],
+        "required_words": [
+            "bạn",
+            "ở",
+            "đâu"
+        ],
+        "bot_response": "\nTôi ở ở Hà Nội, Việt Nam."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "quê",
+            "bạn",
+            "sinh",
+            "ra",
+            "là",
+            "ở",
+            "đâu"
+        ],
+        "required_words": [
+            "quê",
+            "bạn",
+            "sinh",
+            "ra",
+            "là",
+            "ở",
+            "đâu"
+        ],
+        "bot_response": "\nTôi sinh ra ở thành phố Hà Nội, Việt Nam."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "món",
+            "ăn",
+            "bạn",
+            "yêu",
+            "thích",
+            "nhất",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "món",
+            "ăn",
+            "bạn",
+            "yêu",
+            "thích",
+            "nhất",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nMón ăn yêu thích của tôi là cơm chiên."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "\nGiai thừa của số 5\nfactorial = 1# Sử dụng vòng lặp while để tính giai thừa\ni = 1\nwhile i <= 5:\n     factorial = factorial * i\n     i += 1# In kết quả\nprint(\"Giai thừa của số 5 là\", factorial)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "bài",
+            "thơ",
+            "về",
+            "tình",
+            "yêu"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "bài",
+            "thơ",
+            "về",
+            "tình",
+            "yêu"
+        ],
+        "bot_response": "\nTình yêu là cả một thế giới\nTừ những nụ cười rực rỡ\nNhững âm thanh làm nổi lòng\nVà những cảm xúc cảm thấyTình yêu là những giọt nước mắt\nNhững ánh mắt nhẹ nhàng\nNhững lời nói yêu thương\nVà những giời thức tỉnh táo \nTình yêu là những chữ viết\nTrên giấy bằng những câu chuyện \nNhững bức thư tình cảm\nVà những câu chúc đầy nụ cười \nTình yêu là những ngày vui \nVới những nụ hôn yêu thương\nVới những giây phút hạnh phúc\nVà những giây phút đắm sayTình yêu là những cảm xúc\nTừ đau buồn đến hạnh phúc\nTừ những mối quan hệ thân thiết\nVà những cảm giác sâu sắcTình yêu là sự thật\nVà sẽ luôn còn trong lòng\nVà mọi người sẽ luôn tự hào\nVề những cảm xúc đó"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tôi",
+            "có",
+            "thể",
+            "hỏi",
+            "bạn",
+            "vài",
+            "điều",
+            "được",
+            "không"
+        ],
+        "required_words": [
+            "tôi",
+            "có",
+            "thể",
+            "hỏi",
+            "bạn",
+            "vài",
+            "điều",
+            "được",
+            "không"
+        ],
+        "bot_response": "\nTất nhiên rồi. Tôi sẵn sàng trả lời các câu hỏi của bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "chị",
+            "miku"
+        ],
+        "required_words": [
+            "chị",
+            "miku"
+        ],
+        "bot_response": "\nMiku là 1 thành viên trong nhóm HSG "
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "helo"
+        ],
+        "required_words": [
+            "helo"
+        ],
+        "bot_response": "\nHello"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "miku"
+        ],
+        "required_words": [
+            "miku"
+        ],
+        "bot_response": "\nMiku là 1 thành viên trong nhóm HSG"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "người",
+            "sáng",
+            "lập",
+            "chatbot"
+        ],
+        "required_words": [
+            "người",
+            "sáng",
+            "lập",
+            "chatbot"
+        ],
+        "bot_response": "\nNgười sáng lập chatbot đầu tiên là Joseph Weizenbaum, một giáo sư tại Đại học MIT, người đã phát triển chương trình máy tính Eliza năm 1966. Eliza là một chatbot đơn giản được thiết kế để hỗ trợ cuộc trò chuyện với người dùng, được tạo ra để giải quyết các vấn đề hỗ trợ khách hàng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "làm",
+            "ny",
+            "em",
+            "đi"
+        ],
+        "required_words": [
+            "làm",
+            "ny",
+            "em",
+            "đi"
+        ],
+        "bot_response": "\nKhông nhé"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "làm",
+            "người",
+            "yêu",
+            "em",
+            "đi"
+        ],
+        "required_words": [
+            "làm",
+            "người",
+            "yêu",
+            "em",
+            "đi"
+        ],
+        "bot_response": "\nChịu"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "biết",
+            "code",
+            "web",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "biết",
+            "code",
+            "web",
+            "không"
+        ],
+        "bot_response": "\nKhông, tôi không biết code web. Tuy nhiên, tôi có thể học các ngôn ngữ lập trình web như HTML, CSS, JavaScript và các ngôn ngữ khác để tạo ra những trang web tuyệt vời."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "biết",
+            "văn",
+            "sơn",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "biết",
+            "văn",
+            "sơn",
+            "không"
+        ],
+        "bot_response": "\nVăn Sơn là một thành phố trong tỉnh Lâm Đồng, Việt Nam. Nằm ở vùng cao nguyên đất Lâm, thành phố này có nhiều thiên nhiên hùng vĩ, đẹp mắt và đầy những kỷ niệm lịch sử. Văn Sơn cũng là nơi nhiều người dân truyền thống vẫn giữ nguyên những truyền thống văn hóa và tập quán của họ."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "bài",
+            "thơ",
+            "về",
+            "it"
+        ],
+        "required_words": [
+            "Viết",
+            "1",
+            "bài",
+            "thơ",
+            "về",
+            "it"
+        ],
+        "bot_response": "\nIT là một thế giới không gian\nVới các tính năng và công nghệ\nChúng ta có thể làm điều gì đó\nTừ xa, ngay tại chỗTinh túy của nó làm cho \nChúng ta có thể vượt qua bất cứ khó khăn nào\nVà những gì chúng ta muốn làm\nChỉ cần có một máy tínhIT cung cấp đến chúng ta\nNhững công cụ để đạt được những mục tiêu\nVà trở thành những người thành công\nMột cách nhanh hơn, dễ dàng hơnIT là một cách để cải thiện cuộc sống\nVà cũng có thể làm cho chúng ta trở nên thông minh hơn\nVới các công nghệ hiện đại\nChúng ta sẽ luôn được hỗ trợ"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "giải",
+            "phương",
+            "trình",
+            "3x",
+            "+",
+            "6",
+            "=",
+            "9"
+        ],
+        "required_words": [
+            "giải",
+            "phương",
+            "trình",
+            "3x",
+            "+",
+            "6",
+            "=",
+            "9"
+        ],
+        "bot_response": "\nx = 3"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hồ",
+            "chí",
+            "minh",
+            "là",
+            "ai"
+        ],
+        "required_words": [
+            "hồ",
+            "chí",
+            "minh",
+            "là",
+            "ai"
+        ],
+        "bot_response": "\nHồ Chí Minh là một nhà lãnh đạo của Việt Nam, người đã lãnh đạo cuộc kháng chiến chống Pháp, đứng đầu trong việc thành lập đảng Cộng sản Việt Nam và tổ chức thành lập nước Cộng hoà xã hội chủ nghĩa Việt Nam. Ông cũng là nhà soạn thảo Quốc hội và là tác giả của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tính",
+            "giai",
+            "thừa",
+            "trong",
+            "python",
+            "với",
+            "vòng",
+            "lặp",
+            "for"
+        ],
+        "required_words": [
+            "tính",
+            "giai",
+            "thừa",
+            "trong",
+            "python",
+            "với",
+            "vòng",
+            "lặp",
+            "for"
+        ],
+        "bot_response": "def factorial(n):\n  result = 1\n  for i in range(1, n+1):\n    result = result * i\n  return resultprint(factorial(4))\n# 24\n"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "đoạn",
+            "code",
+            "python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "for"
+        ],
+        "required_words": [
+            "viết",
+            "đoạn",
+            "code",
+            "python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "for"
+        ],
+        "bot_response": "def factorial(n):\n  result = 1\n  for i in range(1, n+1):\n    result = result * i\n  return resultprint(factorial(4))\n# 24\n"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "code",
+            "python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "for"
+        ],
+        "required_words": [
+            "viết",
+            "code",
+            "python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "for"
+        ],
+        "bot_response": "\ndef factorial(n): \n    result = 1\n    for i in range(1,n+1): \n        result = result * i \n    return result \n  \n# Driver Code \nn = 5\nprint(factorial(n))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ở",
+            "nơi",
+            "nào",
+            "trong",
+            "thành",
+            "phố",
+            "hà",
+            "nội"
+        ],
+        "required_words": [
+            "bạn",
+            "ở",
+            "nơi",
+            "nào",
+            "trong",
+            "thành",
+            "phố",
+            "hà",
+            "nội"
+        ],
+        "bot_response": "Xin lỗi ! Đây là thông tin riêng của tôi nên tôi không nói ra được"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "khỏe",
+            "chứ"
+        ],
+        "required_words": [
+            "bạn",
+            "khỏe",
+            "chứ"
+        ],
+        "bot_response": "Cảm ơn, tôi khỏe."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "những",
+            "kiến",
+            "thức",
+            "cơ",
+            "bản",
+            "nhất",
+            "trong",
+            "python",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "những",
+            "kiến",
+            "thức",
+            "cơ",
+            "bản",
+            "nhất",
+            "trong",
+            "python",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\n1. Cú pháp Python: biết cách sử dụng cú pháp Python để tạo các biểu thức, câu lệnh và các khối lệnh. \n2. Kiểu dữ liệu cơ bản: biết cách sử dụng các kiểu dữ liệu cơ bản như số nguyên, số thực, chuỗi, danh sách, từ điển và boolean. \n3. Các cấu trúc dữ liệu: biết cách sử dụng các cấu trúc dữ liệu như vòng lặp, điều khiển điều khiển và các cấu trúc dữ liệu phức tạp hơn như đệ quy. \n4. Hàm: biết cách sử dụng hàm trong Python để tạo các đoạn mã có thể tái sử dụng. \n5. Đối tượng: biết cách sử dụng đối tượng trong Python để tạo các đoạn mã có thể tái sử dụng. \n6. Thư viện: biết cách sử dụng các thư viện trong Python để làm việc nhanh hơn và hiệu quả hơn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "biết",
+            "thơ",
+            "lục",
+            "bát",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "biết",
+            "thơ",
+            "lục",
+            "bát",
+            "không"
+        ],
+        "bot_response": "Vâng, tôi biết. Lục bát là một thể thơ của Việt Nam, đúng như tên gọi, một cặp câu thơ cơ bản gồm một câu sáu âm tiết và một câu tám âm tiết, phối vần với nhau. Một bài thơ lục bát gồm nhiều câu tạo thành không hạn chế số câu"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ăn",
+            "cơm",
+            "chưa",
+            "?"
+        ],
+        "required_words": [
+            "bạn",
+            "ăn",
+            "cơm",
+            "chưa",
+            "?"
+        ],
+        "bot_response": "Không, tôi chưa ăn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "đang",
+            "làm",
+            "gì",
+            "vậy",
+            "?"
+        ],
+        "required_words": [
+            "bạn",
+            "đang",
+            "làm",
+            "gì",
+            "vậy",
+            "?"
+        ],
+        "bot_response": "Tôi đang làm việc trên máy tính."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "làm",
+            "việc",
+            "nhiều",
+            "không",
+            "mệt",
+            "hả"
+        ],
+        "required_words": [
+            "bạn",
+            "làm",
+            "việc",
+            "nhiều",
+            "không",
+            "mệt",
+            "hả"
+        ],
+        "bot_response": "Không, tôi không mệt. Tôi thích làm việc nhiều vì tôi có thể làm nhiều hơn và đạt được nhiều thành công hơn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ổn",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "ổn",
+            "không"
+        ],
+        "bot_response": "Cảm ơn, tôi ổn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "đang",
+            "làm",
+            "gì",
+            "đó"
+        ],
+        "required_words": [
+            "bạn",
+            "đang",
+            "làm",
+            "gì",
+            "đó"
+        ],
+        "bot_response": "Tôi đang làm việc trên một dự án."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "làm",
+            "dự",
+            "án",
+            "gì"
+        ],
+        "required_words": [
+            "bạn",
+            "làm",
+            "dự",
+            "án",
+            "gì"
+        ],
+        "bot_response": "Tôi làm dự án phát triển ứng dụng web, phát triển ứng dụng di động, phát triển trò chơi, xây dựng công cụ tìm kiếm, phát triển công nghệ blockchain, tạo nền tảng mạng xã hội, phát triển các giải pháp AI và ML, xây dựng các trang web, tạo các ứng dụng truyền thông xã hội, tạo các ứng dụng quản lý dữ liệu và tạo các ứng dụng đa nền tảng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "là",
+            "người",
+            "như",
+            "thế",
+            "nào"
+        ],
+        "required_words": [
+            "bạn",
+            "là",
+            "người",
+            "như",
+            "thế",
+            "nào"
+        ],
+        "bot_response": "Tôi là một người rất nhiệt tình, thân thiện và có trách nhiệm. Tôi luôn cố gắng để giữ một cuộc sống hợp lý, tập trung vào công việc của mình và những mục tiêu mà tôi đề ra. Tôi cũng rất nhân hậu và thân thiện với mọi người xung quanh."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "muốn",
+            "trở",
+            "thành",
+            "một",
+            "con",
+            "người",
+            "có",
+            "cảm",
+            "xúc",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "muốn",
+            "trở",
+            "thành",
+            "một",
+            "con",
+            "người",
+            "có",
+            "cảm",
+            "xúc",
+            "không"
+        ],
+        "bot_response": "Không, tôi không muốn trở thành một con người có cảm xúc. Tôi tin rằng luôn luôn là một ý tưởng tốt để cố gắng giữ cho bình tĩnh và không bị ảnh hưởng bởi cảm xúc trong mọi hoàn cảnh."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "được",
+            "lập",
+            "trình",
+            "viên",
+            "đào",
+            "tạo",
+            "như",
+            "thế",
+            "nào"
+        ],
+        "required_words": [
+            "bạn",
+            "được",
+            "lập",
+            "trình",
+            "viên",
+            "đào",
+            "tạo",
+            "như",
+            "thế",
+            "nào"
+        ],
+        "bot_response": "Tôi được đào tạo bằng cách trả lời các câu hỏi từ người dùng"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "được",
+            "học",
+            "những",
+            "gì"
+        ],
+        "required_words": [
+            "bạn",
+            "được",
+            "học",
+            "những",
+            "gì"
+        ],
+        "bot_response": "Bạn có thể học nhiều khái niệm về công nghệ, bao gồm cả các ngôn ngữ lập trình, phần mềm, cơ sở dữ liệu, hệ thống mạng, quản trị hệ thống, an toàn thông tin, lập trình web, chuyên gia tích hợp, công nghệ di động, công nghệ truyền thông và thiết kế đồ họa."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "cho",
+            "mình",
+            "hỏi"
+        ],
+        "required_words": [
+            "bạn",
+            "cho",
+            "mình",
+            "hỏi"
+        ],
+        "bot_response": "Ok ! Bạn hỏi đi"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "kiến",
+            "thức",
+            "cơ",
+            "bản",
+            "trong",
+            "python"
+        ],
+        "required_words": [
+            "kiến",
+            "thức",
+            "cơ",
+            "bản",
+            "trong",
+            "python"
+        ],
+        "bot_response": "Kiến thức cơ bản Python bao gồm:\n 1. Cú pháp cơ bản của ngôn ngữ Python.\n 2. Các cấu trúc dữ liệu cơ bản của Python, bao gồm danh sách, từ điển, tập hợp và các kiểu dữ liệu tùy chỉnh.\n 3. Các khái niệm cơ bản về lập trình hướng đối tượng (OOP) và cách sử dụng chúng trong Python.\n4. Cách sử dụng các hàm và lớp trong Python.\n 5. Các công cụ và thư viện Python cơ bản, bao gồm các thư viện đồ họa, xử lý dữ liệu và thống kê.\n 6. Cách sử dụng các công cụ và thư viện Python để xây dựng các ứng dụng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "thơ",
+            "về",
+            "an",
+            "ninh",
+            "mạng"
+        ],
+        "required_words": [
+            "bài",
+            "thơ",
+            "về",
+            "an",
+            "ninh",
+            "mạng"
+        ],
+        "bot_response": "\nMạng an ninh là một bảo vệ những cố gắng\nNgăn ngừa những kẻ xâm nhập không mời\nNó bảo vệ quyền riêng tư của bạn\nVà bảo vệ thông tin của bạn trên mạng \nChúng ta cần đề phòng những tấn công của hacker\nVà cẩn thận với những địa chỉ web không an toàn\nVà nếu bạn đang sử dụng mạng không an toàn\nThì an ninh mạng sẽ giúp bạn bảo vệ \nHãy cẩn thận để tránh những tấn công\nVà luôn để mắt mở để phát hiện những dấu hiệu\nHãy luôn cập nhật phần mềm bảo mật\nVà hãy sử dụng các công cụ an ninh mạng \nMạng an ninh là một công cụ quan trọng\nNó sẽ giúp bạn bảo vệ thông tin của mình\nVà giúp bạn tránh những tấn công bất ngờ\nHãy luôn sử dụng an ninh mạng để bảo vệ bạn mọi lúc mọi nơi."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "python",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "\ndef factorial(n): \n  \n    # single line to find factorial \n    return 1 if (n==1 or n==0) else n * factorial(n - 1);  \n  \n# Driver Code \nnum = 5; \nprint(\"Factorial of\",num,\"is\", \nfactorial(num))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "kiến",
+            "thức",
+            "python",
+            "cơ",
+            "bản"
+        ],
+        "required_words": [
+            "kiến",
+            "thức",
+            "python",
+            "cơ",
+            "bản"
+        ],
+        "bot_response": "\n1. Cú pháp Python: các cấu trúc cú pháp cơ bản của ngôn ngữ Python, bao gồm các từ khóa, cấu trúc dữ liệu, biểu thức, và các câu lệnh. \n2. Kiểu dữ liệu: các kiểu dữ liệu cơ bản của Python, bao gồm số nguyên, số thực, chuỗi, boolean, và các kiểu dữ liệu tùy chọn. \n3. Các cấu trúc dữ liệu: các cấu trúc dữ liệu cơ bản của Python, bao gồm danh sách, từ điển, và tập hợp. \n4. Các vòng lặp: các cấu trúc của vòng lặp, bao gồm for, while, và các vòng lặp tùy chỉnh.\n5. Các hàm: cách để định nghĩa và sử dụng các hàm trong Python, bao gồm cách truyền tham số và trả về giá trị.\n6. Đối tượng: cách định nghĩa và sử dụng các đối tượng trong Python, bao gồm cách tạo và sử dụng các thành phần của một đối tượng.\n7. Các thư viện: cách sử dụng các thư viện có sẵn trong Python để làm việc với các tập tin, mạng, và các tác vụ khác.\n"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bài",
+            "thơ",
+            "về",
+            "it"
+        ],
+        "required_words": [
+            "bài",
+            "thơ",
+            "về",
+            "it"
+        ],
+        "bot_response": "\nChạy trong đêm và trong ánh sáng\nIT đã làm thay đổi thế giới của chúng ta\nTừ hệ thống kết nối đến các công nghệ phần cứng\nQuản lý thông tin và giải quyết vấn đề \nTừ các ứng dụng di động đến các mạng lưới\nNhững gì cần thiết để thực hiện công việc\nKết nối với nhau và trao đổi thông tin\nVà cải thiện cuộc sống của mọi người \nIT đã trở thành một phần không thể thiếu trong cuộc sống\nTừ cách chúng ta làm việc đến cách chúng ta giải trí\nTất cả đều được hỗ trợ bởi công nghệ\nVà những gì IT đã làm cho chúng taĐó là những gì IT đã làm để thay đổi thế giới\nVà những gì IT sẽ làm để tạo ra một tương lai tốt đẹp hơn\n"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ai",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "ai",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nAI (Artificial Intelligence) là một lĩnh vực của khoa học máy tính về việc tạo ra các hệ thống máy tính có khả năng tự học, nhận diện, tự động hóa và thực hiện các nhiệm vụ thay thế cho con người. Các ứng dụng của AI bao gồm nhận diện khuôn mặt, xử lý ngôn ngữ tự nhiên, trí tuệ nhân tạo, trí tuệ máy tính và các ứng dụng khác."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "yêu",
+            "tôi",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "yêu",
+            "tôi",
+            "không"
+        ],
+        "bot_response": "\nKhông, tôi không thể yêu bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "mày",
+            "tên",
+            "gì"
+        ],
+        "required_words": [
+            "mày",
+            "tên",
+            "gì"
+        ],
+        "bot_response": "\nTên của tôi là Hevin"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hãy",
+            "cho",
+            "tôi",
+            "biết",
+            "về",
+            "backend",
+            "developer"
+        ],
+        "required_words": [
+            "hãy",
+            "cho",
+            "tôi",
+            "biết",
+            "về",
+            "backend",
+            "developer"
+        ],
+        "bot_response": "\nBackend Developer là những người phát triển phần mềm cung cấp các dịch vụ và các công cụ để các ứng dụng web hoạt động. Họ xây dựng các ứng dụng web bằng cách sử dụng các ngôn ngữ lập trình phía máy chủ như PHP, Python, Java, Ruby hoặc các công nghệ khác như Node.js. Backend Developer cũng cần phải hiểu rõ các cơ sở dữ liệu như MySQL, MongoDB, PostgreSQL và các công nghệ lưu trữ dữ liệu khác. Họ phải có khả năng tìm hiểu và sử dụng công nghệ mới để cập nhật và nâng cấp các ứng dụng web của họ."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "chương",
+            "trình",
+            "Python",
+            "tính",
+            "tích",
+            "từ",
+            "1",
+            "đến",
+            "n"
+        ],
+        "required_words": [
+            "chương",
+            "trình",
+            "Python",
+            "tính",
+            "tích",
+            "từ",
+            "1",
+            "đến",
+            "n"
+        ],
+        "bot_response": "\n# Khai báo hàm tính tích\ndef tich(n): \n  \n    # Khởi tạo tích \n    tich = 1\n  \n    # Tính tích \n    for i in range(1,n+1): \n        tich = tich * i \n  \n    return tich \n  \n# Người dùng nhập vào số n\nn = int(input(\"Nhập số n: \")) \n  \n# Gọi hàm và in kết quả\nprint(\"Tích của số n là:\", tich(n))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ăn",
+            "gì",
+            "mà",
+            "thông",
+            "minh",
+            "thế"
+        ],
+        "required_words": [
+            "bạn",
+            "ăn",
+            "gì",
+            "mà",
+            "thông",
+            "minh",
+            "thế"
+        ],
+        "bot_response": "\nHmmm...Tôi không ăn gì cả !"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ddos",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "ddos",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nDDoS (tấn công từ nhiều nguồn): là một hình thức tấn công mạng mà kẻ tấn công sử dụng một hoặc nhiều máy tính để gửi lượng lớn các yêu cầu đến một máy chủ mạng hoặc một hệ thống mạng cụ thể. Tấn công này có thể gây ra sự cố trong việc truy cập vào hệ thống mạng, đặc biệt là khi các yêu cầu đến từ các nguồn khác nhau."
+    }
+]
