@@ -2802,19 +2802,21 @@
     {
         "response_type": "answer",
         "user_input": [
-            "backend",
-            "và",
-            "frontend",
+            "Man",
+            "In",
+            "The",
+            "Middle",
             "là",
             "gì"
         ],
         "required_words": [
-            "backend",
-            "và",
-            "frontend",
+            "Man",
+            "In",
+            "The",
+            "Middle",
             "là",
             "gì"
         ],
-        "bot_response": "\nBackend là phần của một ứng dụng mà người dùng không thấy, nó xử lý các yêu cầu của người dùng và trả về kết quả. Backend có thể là một cơ sở dữ liệu, một ngôn ngữ lập trình hoặc các thư viện phần mềm.Frontend là phần của một ứng dụng mà người dùng thấy và sử dụng. Frontend bao gồm các thành phần giao diện người dùng, giao diện lập trình, các hiệu ứng tương tác và các hệ thống của ứng dụng."
+        "bot_response": "\nMan In The Middle (MITM) là một loại tấn công bảo mật mà một kẻ tấn công cố gắng trở thành một nhân vật trung gian giữa hai bên trong một cuộc trao đổi thông tin. Kẻ tấn công có thể sử dụng những phương pháp này để lấy thông tin bí mật, thay đổi thông tin được trao đổi giữa hai bên hoặc thậm chí cảm thấy cuộc trao đổi."
     }
 ]
