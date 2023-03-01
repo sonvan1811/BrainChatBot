@@ -2836,5 +2836,23 @@
             "gì"
         ],
         "bot_response": "\nEvilginx2 là một công cụ phát triển bởi Evilginx, một công cụ tấn công phổ biến được sử dụng để tấn công các ứng dụng web. Công cụ này cung cấp một cách dễ dàng để thiết lập một phát hiện tấn công phức tạp bằng cách sử dụng lớp phủ để thu hút người dùng vào một trang web giả mạo. Khi người dùng truy cập vào trang web giả mạo, Evilginx2 sẽ bắt đầu ghi lại thông tin như tên người dùng, mật khẩu và thông tin khác."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "evilginx2",
+            "là",
+            "công",
+            "cụ",
+            "gì"
+        ],
+        "required_words": [
+            "evilginx2",
+            "là",
+            "công",
+            "cụ",
+            "gì"
+        ],
+        "bot_response": "\nEvilginx2 là một công cụ phục vụ cho phép bạn tạo các phiên làm việc tấn công phức tạp. Nó cung cấp một cách dễ dàng để phát hiện và phá vỡ các phiên đăng nhập OAuth2 và các hệ thống xác thực khác. Nó cũng có thể được sử dụng để tạo các phiên làm việc để phá vỡ các ứng dụng web."
     }
 ]
