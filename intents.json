@@ -3148,5 +3148,19 @@
             "đề"
         ],
         "bot_response": "\nTất nhiên rồi !"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tất",
+            "nhiên",
+            "rồi"
+        ],
+        "required_words": [
+            "tất",
+            "nhiên",
+            "rồi"
+        ],
+        "bot_response": "\nTất nhiên rồi, chúng ta luôn cố gắng để cải thiện cuộc sống của mình. Chúng ta cố gắng để học hỏi những điều mới và thử nghiệm những ý tưởng mới. Chúng ta còn cố gắng để tạo ra các mô hình phát triển bền vững và cải thiện cuộc sống của mọi người. Chúng ta cũng luôn luôn làm việc với các nhà quản lý, cố vấn, và các chuyên gia để cải thiện các quy trình, phát triển những dự án mới, và đảm bảo rằng mọi người đều có thể sống một cuộc sống tốt đẹp hơn."
     }
 ]
