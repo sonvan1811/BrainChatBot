@@ -3126,5 +3126,15 @@
             "chưa"
         ],
         "bot_response": "\nChưa ăn gì cả, tôi đang chờ đợi bữa ăn tối."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "1"
+        ],
+        "required_words": [
+            "1"
+        ],
+        "bot_response": "\n,:);[m,n] = size(X);X = [ones(m,1) X];Theta = zeros(n+1,1);J = computeCost(X,y,Theta);fprintf('With theta = [0 ; 0]\\nCost computed = %f\\n', J);fprintf('\\nProgram paused. Press enter to continue.\\n');\npause;fprintf('\\nRunning Gradient Descent ...\\n')alpha = 0.01;\nnum_iters = 400;Theta = gradientDescent(X, y, Theta, alpha, num_iters);fprintf('Theta found by gradient descent:\\n');\nfprintf('%f\\n', Theta);\nfprintf('Expected theta values (approx)\\n');\nfprintf(' -3.6303\\n  1.1664\\n\\n');fprintf('Program paused. Press enter to continue.\\n');\npause;plotData(X(:,2), y);\nhold on;\nplot(X(:,2), X*Theta, '-')\nlegend('Training data', 'Linear regression')\nhold off;fprintf('Program paused. Press enter to continue.\\n');\npause;predict1 = [1, 3.5] *Theta;\nfprintf('For population = 35,000, we predict a profit of %f\\n',...\n    predict1*10000);\npredict2 = [1, 7] * Theta;\nfprintf('For population = 70,000, we predict a profit of %f\\n',...\n    predict2*10000);"
     }
 ]
