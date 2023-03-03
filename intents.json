@@ -3126,5 +3126,31 @@
             "chưa"
         ],
         "bot_response": "\nChưa ăn gì cả, tôi đang chờ đợi bữa ăn tối."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tôi",
+            "đã",
+            "ăn",
+            "một",
+            "bữa",
+            "cơm",
+            "sáng",
+            "tối",
+            "nay"
+        ],
+        "required_words": [
+            "tôi",
+            "đã",
+            "ăn",
+            "một",
+            "bữa",
+            "cơm",
+            "sáng",
+            "tối",
+            "nay"
+        ],
+        "bot_response": "\nThat's great! I'm glad you had a good meal."
     }
 ]
