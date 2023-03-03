@@ -2796,5 +2796,21 @@
             "không"
         ],
         "bot_response": "\nCảm ơn, tôi khỏe."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "cảm",
+            "ơn",
+            "tôi",
+            "khỏe"
+        ],
+        "required_words": [
+            "cảm",
+            "ơn",
+            "tôi",
+            "khỏe"
+        ],
+        "bot_response": "\nCảm ơn bạn. Tôi cũng rất vui được nghe điều đó."
     }
 ]
