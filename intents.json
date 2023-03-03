@@ -2944,5 +2944,47 @@
             "themcheers"
         ],
         "bot_response": "\n"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "great",
+            "is",
+            "an",
+            "expression",
+            "of",
+            "enthusiasm",
+            "and",
+            "approval",
+            "it",
+            "is",
+            "often",
+            "used",
+            "to",
+            "express",
+            "happiness",
+            "or",
+            "satisfaction"
+        ],
+        "required_words": [
+            "great",
+            "is",
+            "an",
+            "expression",
+            "of",
+            "enthusiasm",
+            "and",
+            "approval",
+            "it",
+            "is",
+            "often",
+            "used",
+            "to",
+            "express",
+            "happiness",
+            "or",
+            "satisfaction"
+        ],
+        "bot_response": "\n. It can also be used to show admiration or respect for someone or something."
     }
 ]
