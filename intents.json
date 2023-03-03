@@ -3110,5 +3110,21 @@
             "hơn"
         ],
         "bot_response": "\n"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ăn",
+            "gì",
+            "chưa"
+        ],
+        "required_words": [
+            "bạn",
+            "ăn",
+            "gì",
+            "chưa"
+        ],
+        "bot_response": "\nChưa ăn gì cả, tôi đang chờ đợi bữa ăn tối."
     }
 ]
