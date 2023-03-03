@@ -3532,5 +3532,55 @@
             "phím"
         ],
         "bot_response": "\n.# Khai báo biến\nnumbers = []# Nhập dữ liệu\nfor i in range(7):\n    num = int(input(\"Nhập số thứ %d: \" % (i+1)))\n    numbers.append(num)# Tính tổng\ntotal = 0\nfor num in numbers:\n    total += num# In kết quả\nprint(\"Tổng của các số là:\", total)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "Viết",
+            "cho",
+            "tôi",
+            "1",
+            "chương",
+            "trình",
+            "Python",
+            "tính",
+            "tổng",
+            "với",
+            "danh",
+            "sách",
+            "có",
+            "7",
+            "phần",
+            "tử",
+            "được",
+            "nhập",
+            "từ",
+            "bàn",
+            "phím"
+        ],
+        "required_words": [
+            "Viết",
+            "cho",
+            "tôi",
+            "1",
+            "chương",
+            "trình",
+            "Python",
+            "tính",
+            "tổng",
+            "với",
+            "danh",
+            "sách",
+            "có",
+            "7",
+            "phần",
+            "tử",
+            "được",
+            "nhập",
+            "từ",
+            "bàn",
+            "phím"
+        ],
+        "bot_response": "\nlist_of_numbers = [] \ntotal = 0 for i in range(7): \n    number = int(input(\"Nhập vào số thứ \" + str(i + 1) + \": \")) \n    list_of_numbers.append(number) \n    total += number print(\"Tổng là: \", total)"
     }
 ]
