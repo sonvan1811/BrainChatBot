@@ -3536,13 +3536,7 @@
     {
         "response_type": "answer",
         "user_input": [
-            "Viết",
-            "cho",
-            "tôi",
-            "1",
-            "chương",
-            "trình",
-            "Python",
+            "python",
             "tính",
             "tổng",
             "với",
@@ -3559,13 +3553,7 @@
             "phím"
         ],
         "required_words": [
-            "Viết",
-            "cho",
-            "tôi",
-            "1",
-            "chương",
-            "trình",
-            "Python",
+            "python",
             "tính",
             "tổng",
             "với",
@@ -3582,21 +3570,5 @@
             "phím"
         ],
         "bot_response": "\nlist_of_numbers = [] \ntotal = 0 for i in range(7): \n    number = int(input(\"Nhập vào số thứ \" + str(i + 1) + \": \")) \n    list_of_numbers.append(number) \n    total += number print(\"Tổng là: \", total)"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "1"
-        ],
-        "required_words": [
-            "1"
-        ],
-        "bot_response": "\n.5/5The movie has some good moments but overall it is not very impressive. The story is predictable and the acting is mediocre. The special effects are decent but not enough to save the movie. The music is also forgettable. Overall, this is an average movie that is worth watching if you have nothing else to do."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [],
-        "required_words": [],
-        "bot_response": "\nGIRLS’ SOCCERBromfield 4, Tahanto 0Friday, October 17, 2014, at BoylstonSenior captain Cate Feeney scored twice and senior captain Emily Hurd and junior Sarah Gersh each had a goal to lead the host Trojans (12-2-2, 10-1-1 Wachusett C) past the Stags (7-6-3, 7-4-2). Senior captain Maddie Bressler and sophomore Elizabeth Feeney each had two assists, and senior captain Molly O'Connor and junior Erin Keohane each added one."
     }
 ]
