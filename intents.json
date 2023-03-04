@@ -2876,14 +2876,12 @@
     {
         "response_type": "answer",
         "user_input": [
-            "bạn",
             "biết",
             "tiếng",
             "việt",
             "không"
         ],
         "required_words": [
-            "bạn",
             "biết",
             "tiếng",
             "việt",
