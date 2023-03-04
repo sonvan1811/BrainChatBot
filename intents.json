@@ -2872,5 +2872,23 @@
             "phím"
         ],
         "bot_response": "\n# Khai báo danh sách\nlist = []# Nhập 7 phần tử\nfor i in range(7):\n    element = int(input(\"Nhập phần tử thứ \" + str(i + 1) + \": \"))\n    list.append(element)# Tính tổng các phần tử trong danh sách\ntotal = 0\nfor element in list:\n    total += element# In ra kết quả\nprint(\"Tổng các phần tử trong danh sách là:\", total)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "tiếng",
+            "việt",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "tiếng",
+            "việt",
+            "không"
+        ],
+        "bot_response": "\nVâng, tôi biết cơ bản tiếng Việt."
     }
 ]
