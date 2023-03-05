@@ -3101,5 +3101,21 @@
             "thank"
         ],
         "bot_response": "\nyou.phpThe Thank You page is the page that customers are directed to after they submit their order. This page typically includes a thank you message, a summary of the order, and a confirmation number. It is important to include this page in the checkout process so that customers know that their order has been successfully processed. The Thank You page is also a good opportunity to include additional information, such as a link to the customer's account page, or a link to a customer service page."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "did",
+            "you",
+            "know",
+            "python"
+        ],
+        "required_words": [
+            "did",
+            "you",
+            "know",
+            "python"
+        ],
+        "bot_response": "\n has a json moduleYes, Python has a built-in json module that can be used to work with JSON data. The json module provides an API similar to pickle for converting in-memory Python objects to a serialized representation known as JavaScript Object Notation (JSON) and vice-versa."
     }
 ]
