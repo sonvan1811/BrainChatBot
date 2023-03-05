@@ -2900,24 +2900,17 @@
     {
         "response_type": "answer",
         "user_input": [
-            "bạn",
             "giúp",
             "tôi",
             "giải",
             "bài",
-            "tập",
-            "được",
-            "không"
+            "tập"
         ],
         "required_words": [
-            "bạn",
             "giúp",
-            "tôi",
             "giải",
             "bài",
-            "tập",
-            "được",
-            "không"
+            "tập"
         ],
         "bot_response": "\nChắc chắn là được rồi ! Nhưng có lúc tôi giải không được chính xác nên nếu có chỗ nào sai mong bạn thông cảm nhé :))"
     }
