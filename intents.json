@@ -2959,5 +2959,25 @@
             "1"
         ],
         "bot_response": "\n 2   3   4\n2  5   6   7   8\n3  9  10  11  12# 将原矩阵转置1  5  9\n2  6 10\n3  7 11\n4  8 12"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "lập",
+            "trình",
+            "python",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "lập",
+            "trình",
+            "python",
+            "không"
+        ],
+        "bot_response": "\nVâng, tôi biết lập trình Python. Tôi đã học Python trong một khoá học và đã có thể sử dụng nó để làm những điều mà tôi muốn."
     }
 ]
