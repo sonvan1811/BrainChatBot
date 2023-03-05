@@ -2189,6 +2189,9 @@
     {
         "response_type": "answer",
         "user_input": [
+            "viết",
+            "đoạn",
+            "code",
             "python",
             "tính",
             "giai",
@@ -2200,6 +2203,9 @@
             "for"
         ],
         "required_words": [
+            "viết",
+            "đoạn",
+            "code",
             "python",
             "tính",
             "giai",
@@ -2211,6 +2217,36 @@
             "for"
         ],
         "bot_response": "def factorial(n):\n  result = 1\n  for i in range(1, n+1):\n    result = result * i\n  return resultprint(factorial(4))\n# 24\n"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "code",
+            "python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "for"
+        ],
+        "required_words": [
+            "viết",
+            "code",
+            "python",
+            "tính",
+            "giai",
+            "thừa",
+            "sử",
+            "dụng",
+            "vòng",
+            "lặp",
+            "for"
+        ],
+        "bot_response": "\ndef factorial(n): \n    result = 1\n    for i in range(1,n+1): \n        result = result * i \n    return result \n  \n# Driver Code \nn = 5\nprint(factorial(n))"
     },
     {
         "response_type": "answer",
@@ -2255,20 +2291,28 @@
     {
         "response_type": "answer",
         "user_input": [
+            "những",
             "kiến",
             "thức",
             "cơ",
             "bản",
+            "nhất",
             "trong",
-            "python"
+            "python",
+            "là",
+            "gì"
         ],
         "required_words": [
+            "những",
             "kiến",
             "thức",
             "cơ",
             "bản",
+            "nhất",
             "trong",
-            "python"
+            "python",
+            "là",
+            "gì"
         ],
         "bot_response": "\n1. Cú pháp Python: biết cách sử dụng cú pháp Python để tạo các biểu thức, câu lệnh và các khối lệnh. \n2. Kiểu dữ liệu cơ bản: biết cách sử dụng các kiểu dữ liệu cơ bản như số nguyên, số thực, chuỗi, danh sách, từ điển và boolean. \n3. Các cấu trúc dữ liệu: biết cách sử dụng các cấu trúc dữ liệu như vòng lặp, điều khiển điều khiển và các cấu trúc dữ liệu phức tạp hơn như đệ quy. \n4. Hàm: biết cách sử dụng hàm trong Python để tạo các đoạn mã có thể tái sử dụng. \n5. Đối tượng: biết cách sử dụng đối tượng trong Python để tạo các đoạn mã có thể tái sử dụng. \n6. Thư viện: biết cách sử dụng các thư viện trong Python để làm việc nhanh hơn và hiệu quả hơn."
     },
@@ -2300,15 +2344,17 @@
             "bạn",
             "ăn",
             "cơm",
-            "chưa"
+            "chưa",
+            "?"
         ],
         "required_words": [
             "bạn",
             "ăn",
             "cơm",
-            "chưa"
+            "chưa",
+            "?"
         ],
-        "bot_response": "Tôi là máy nên tôi không ăn được :<"
+        "bot_response": "Không, tôi chưa ăn."
     },
     {
         "response_type": "answer",
@@ -2317,14 +2363,16 @@
             "đang",
             "làm",
             "gì",
-            "vậy"
+            "vậy",
+            "?"
         ],
         "required_words": [
             "bạn",
             "đang",
             "làm",
             "gì",
-            "vậy"
+            "vậy",
+            "?"
         ],
         "bot_response": "Tôi đang làm việc trên máy tính."
     },
@@ -2336,7 +2384,8 @@
             "việc",
             "nhiều",
             "không",
-            "mệt"
+            "mệt",
+            "hả"
         ],
         "required_words": [
             "bạn",
@@ -2344,7 +2393,8 @@
             "việc",
             "nhiều",
             "không",
-            "mệt"
+            "mệt",
+            "hả"
         ],
         "bot_response": "Không, tôi không mệt. Tôi thích làm việc nhiều vì tôi có thể làm nhiều hơn và đạt được nhiều thành công hơn."
     },
@@ -2734,84 +2784,118 @@
     {
         "response_type": "answer",
         "user_input": [
-            "evil",
-            "twin",
-            "attack",
-            "là",
-            "gì"
+            "ai",
+            "lập",
+            "ra",
+            "chatbot"
         ],
         "required_words": [
-            "evil",
-            "twin",
-            "attack",
-            "là",
-            "gì"
+            "ai",
+            "lập",
+            "ra",
+            "chatbot"
         ],
-        "bot_response": "\nEvil Twin Attack là một loại tấn công bảo mật mạng mà các kẻ tấn công sử dụng một điểm truy cập Wi-Fi giả để gây rối mạng và lừa đảo người dùng. Kẻ tấn công sẽ tạo ra một điểm truy cập Wi-Fi giả mạo có tên giống với điểm truy cập Wi-Fi thực sự của bạn và sau đó lừa đảo người dùng để kết nối với điểm truy cập Wi-Fi giả mạo. Khi người dùng kết nối với điểm truy cập Wi-Fi giả mạo này, kẻ tấn công sẽ có thể theo dõi lưu lượng dữ liệu của họ và lấy thông tin của họ, bao gồm cả tài khoản ngân hàng và mật khẩu."
+        "bot_response": "\nChatbot là một phần mềm ứng dụng tự động hỗ trợ người dùng thông qua hội thoại. Nó có thể được sử dụng trong các ứng dụng web, trò chuyện trực tuyến, ứng dụng di động, và các ứng dụng trên mạng xã hội. Chatbot có thể được sử dụng để hỗ trợ khách hàng, giải quyết vấn đề, hỗ trợ quản lý dữ liệu, và cung cấp thông tin.Chatbot có thể được tạo ra bằng cách sử dụng các công cụ lập trình như Python, Node.js, Java, và các công cụ khác. Nó cũng có thể được tạo ra bằng cách sử dụng các nền tảng như Facebook Messenger, Skype, Amazon Alexa, và Google Home."
     },
     {
         "response_type": "answer",
         "user_input": [
-            "man",
-            "in",
-            "the",
-            "middle",
-            "là",
-            "gì"
+            "sơn",
+            "có",
+            "đẹp",
+            "trai",
+            "ko"
         ],
         "required_words": [
-            "man",
-            "in",
-            "the",
-            "middle",
-            "là",
-            "gì"
+            "sơn",
+            "có",
+            "đẹp",
+            "trai",
+            "ko"
         ],
-        "bot_response": "\nMan in the middle (MITM) là một loại tấn công bảo mật mà bị tấn công giữa hai thực thể hoặc hệ thống mà không có sự biết thực của bất kỳ thực thể nào khác. Tấn công này cho phép tấn công giữa kết nối để theo dõi, thay đổi hoặc thay thế dữ liệu giữa hai thực thể."
+        "bot_response": "\nCâu trả lời là có. Sơn có thể đẹp trai nếu họ sử dụng một lựa chọn trang điểm phù hợp và động lực để duy trì một lối sống sức khỏe. Họ cũng cần phải cố gắng để tạo ra một hình ảnh tốt về mình bằng cách chọn một trang phục phù hợp và chọn những mẫu tóc thích hợp."
     },
     {
         "response_type": "answer",
         "user_input": [
-            "evilginx2",
-            "là",
-            "gì"
+            "hãy",
+            "viết",
+            "chương",
+            "trình",
+            "kiểm",
+            "tra",
+            "số",
+            "hoàn",
+            "hảo",
+            "bằng",
+            "pascal"
         ],
         "required_words": [
-            "evilginx2",
-            "là",
-            "gì"
+            "hãy",
+            "viết",
+            "chương",
+            "trình",
+            "kiểm",
+            "tra",
+            "số",
+            "hoàn",
+            "hảo",
+            "bằng",
+            "pascal"
         ],
-        "bot_response": "\nEvilginx2 là một công cụ phát triển bởi Evilginx, một công cụ tấn công phổ biến được sử dụng để tấn công các ứng dụng web. Công cụ này cung cấp một cách dễ dàng để thiết lập một phát hiện tấn công phức tạp bằng cách sử dụng lớp phủ để thu hút người dùng vào một trang web giả mạo. Khi người dùng truy cập vào trang web giả mạo, Evilginx2 sẽ bắt đầu ghi lại thông tin như tên người dùng, mật khẩu và thông tin khác."
+        "bot_response": "\nprogram CheckPerfectNumber;var\n  n, i, sum: Integer;begin\n  Write('Nhap n: ');\n  ReadLn(n);\n  sum := 0;\n  for i := 1 to n - 1 do\n  begin\n    if n mod i = 0 then\n      sum := sum + i;\n  end;\n  if sum = n then\n    Writeln(n, ' la so hoan hao')\n  else\n    Writeln(n, ' khong phai la so hoan hao');\n  ReadLn;\nend."
     },
     {
         "response_type": "answer",
         "user_input": [
-            "bạn",
-            "khoẻ",
-            "không"
+            "cấu",
+            "trúc",
+            "vòng",
+            "lặp",
+            "while",
+            "pascal"
         ],
         "required_words": [
-            "bạn",
-            "khoẻ",
-            "không"
+            "cấu",
+            "trúc",
+            "vòng",
+            "lặp",
+            "while",
+            "pascal"
         ],
-        "bot_response": "\nCảm ơn, tôi khỏe."
+        "bot_response": "\nbegin\n  while condition do\n    begin\n      // các câu lệnh cần thực hiện\n    end;\nend;"
     },
     {
         "response_type": "answer",
         "user_input": [
+            "tôi",
+            "cần",
             "bạn",
-            "ăn",
-            "gì",
-            "chưa"
+            "giúp",
+            "tôi"
         ],
         "required_words": [
+            "tôi",
+            "cần",
             "bạn",
-            "ăn",
-            "gì",
-            "chưa"
+            "giúp",
+            "tôi"
         ],
-        "bot_response": "\nChưa ăn gì cả, tôi đang chờ đợi bữa ăn tối."
+        "bot_response": "\nXin lỗi, tôi không thể giúp được bạn. Tôi khuyên bạn nên tìm một chuyên gia hoặc một người bạn của bạn để giúp bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "code",
+            "python",
+            "fibonacci"
+        ],
+        "required_words": [
+            "code",
+            "python",
+            "fibonacci"
+        ],
+        "bot_response": "\ndef fibonacci(n): \n    a = 0\n    b = 1\n    if n < 0: \n        print(\"Incorrect input\") \n    elif n == 0: \n        return a \n    elif n == 1: \n        return b \n    else: \n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c \n        return b"
     },
     {
         "response_type": "answer",
@@ -2820,73 +2904,21 @@
             "giúp",
             "tôi",
             "giải",
-            "quyết",
-            "vấn",
-            "đề"
+            "bài",
+            "tập",
+            "được",
+            "không"
         ],
         "required_words": [
             "bạn",
             "giúp",
             "tôi",
             "giải",
-            "quyết",
-            "vấn",
-            "đề"
-        ],
-        "bot_response": "\nTất nhiên rồi !"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "python",
-            "tính",
-            "tổng",
-            "với",
-            "danh",
-            "sách",
-            "có",
-            "7",
-            "phần",
-            "tử",
+            "bài",
+            "tập",
             "được",
-            "nhập",
-            "từ",
-            "bàn",
-            "phím"
-        ],
-        "required_words": [
-            "python",
-            "tính",
-            "tổng",
-            "với",
-            "danh",
-            "sách",
-            "có",
-            "7",
-            "phần",
-            "tử",
-            "được",
-            "nhập",
-            "từ",
-            "bàn",
-            "phím"
-        ],
-        "bot_response": "\n# Khai báo danh sách\nlist = []# Nhập 7 phần tử\nfor i in range(7):\n    element = int(input(\"Nhập phần tử thứ \" + str(i + 1) + \": \"))\n    list.append(element)# Tính tổng các phần tử trong danh sách\ntotal = 0\nfor element in list:\n    total += element# In ra kết quả\nprint(\"Tổng các phần tử trong danh sách là:\", total)"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "biết",
-            "tiếng",
-            "việt",
             "không"
         ],
-        "required_words": [
-            "biết",
-            "tiếng",
-            "việt",
-            "không"
-        ],
-        "bot_response": "\nVâng, tôi biết cơ bản tiếng Việt."
+        "bot_response": "\nChắc chắn là được rồi ! Nhưng có lúc tôi giải không được chính xác nên nếu có chỗ nào sai mong bạn thông cảm nhé :))"
     }
 ]
