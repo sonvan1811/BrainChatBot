@@ -3101,5 +3101,19 @@
             "hí"
         ],
         "bot_response": "\nvásokA szerződéses partner jelenlegi feladatainak teljesítéseA szerződéses partner jelenlegi feladatainak teljesítése A szerződéses partner által nyújtott szolgáltatások színvonalának megőrzéseÚj szolgáltatások bevezetése és a meglévő szolgáltatások fejlesztéseA szerződéses partner által nyújtott szolgáltatások minőségének javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának növeléseA szerződéses partner által nyújtott szolgáltatások innovatív megoldásainak biztosításaA szerződéses partner által nyújtott szolgáltatások árának csökkentéseA szerződéses partner által nyújtott szolgáltatások szélesebb körű elérhetőségének biztosításaA szerződéses partner által nyújtott szolgáltatások igényeinek kielégítéseA szerződéses partner által nyújtott szolgáltatások költségeinek csökkentéseA szerződéses partner által nyújtott szolgáltatások minőségének és biztonságának javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának növeléseA szerződéses partner által nyújtott szolgáltatások ügyfélélményének javításaA szerződéses partner által nyújtott szolgáltatások elérhetőségének javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának, minőségének és biztonságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások ügyfélélményének növeléseA szerződéses partner által nyújtott szolgáltatások elérhetőségének és biztonságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások költségeinek csökkentéseA szerződéses partner által nyújtott szolgáltatások hatékonyságának és megbízhatóságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások innovatív megoldásainak biztosításaA szerződéses partner"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "evilginx2",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "evilginx2",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nEevilginx2 là một công cụ bảo mật phổ biến được sử dụng để phát hiện và chống lại các cuộc tấn công phá hoại bảo mật phức tạp. Nó cung cấp một bức tường lửa phức tạp với các tính năng chặn cố định, phân tích dữ liệu và phản ứng tự động. Nó cũng cung cấp một giao diện web để quản lý các cấu hình và các thông tin bảo mật."
     }
 ]
