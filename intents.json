@@ -3115,5 +3115,25 @@
             "gì"
         ],
         "bot_response": "\nEevilginx2 là một công cụ bảo mật phổ biến được sử dụng để phát hiện và chống lại các cuộc tấn công phá hoại bảo mật phức tạp. Nó cung cấp một bức tường lửa phức tạp với các tính năng chặn cố định, phân tích dữ liệu và phản ứng tự động. Nó cũng cung cấp một giao diện web để quản lý các cấu hình và các thông tin bảo mật."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "cách",
+            "sử",
+            "dụng",
+            "công",
+            "cụ",
+            "evilginx2"
+        ],
+        "required_words": [
+            "cách",
+            "sử",
+            "dụng",
+            "công",
+            "cụ",
+            "evilginx2"
+        ],
+        "bot_response": "\nEvilginx2 là một công cụ phát hiện lỗ hổng phụ thuộc vào phiên đăng nhập OAuth2. Nó có thể được sử dụng để tấn công các ứng dụng web và các dịch vụ đăng nhập bằng OAuth2.Cách sử dụng Evilginx2:1. Cài đặtTải và cài đặt Evilginx2 trên máy tính của bạn bằng cách sử dụng lệnh cài đặt trên GitHub.2. Cấu hìnhSau khi cài đặt, bạn cần phải cấu hình công cụ Evilginx2 bằng cách sửa đổi các tập tin cấu hình của nó.3. Khởi độngSau khi cấu hình xong, bạn có thể khởi động công cụ Evilginx2 bằng cách sử dụng lệnh evilginx start trên dòng lệnh.4. Tấn côngSau khi công cụ Evilginx2 được khởi động, bạn có thể thực hiện tấn công bằng cách sử dụng các URL của nó để đăng nhập vào ứng dụng web của bạn."
     }
 ]
