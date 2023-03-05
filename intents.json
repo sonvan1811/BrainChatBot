@@ -3069,5 +3069,17 @@
             "chatbot"
         ],
         "bot_response": "\nYes, we can help you create a chatbot. We have a team of experienced developers and designers who can help you create a custom chatbot that meets your needs. We can help you design and develop a chatbot with natural language processing, machine learning, and other technologies. We can also help you integrate your chatbot into your existing systems and processes. If you're interested in learning more, please feel free to contact us."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "i",
+            "fine"
+        ],
+        "required_words": [
+            "i",
+            "fine"
+        ],
+        "bot_response": "\n.Però, quando si tratta di scegliere una fotocamera digitale, ci sono alcune cose da tenere a mente. In primo luogo, è importante considerare il tipo di fotografia che si desidera realizzare. Alcune fotocamere digitali sono più adatte per la fotografia di paesaggi, mentre altre sono più adatte per la fotografia di ritratti. Inoltre, è importante considerare il budget disponibile. Le fotocamere digitali sono disponibili in una vasta gamma di prezzi, a seconda delle caratteristiche offerte. Infine, è importante considerare la facilità d'uso della fotocamera. Alcune fotocamere digitali possono essere molto complesse da usare, mentre altre possono essere più semplici da usare. Prima di acquistare una fotocamera digitale, è importante prendere in considerazione tutti questi fattori."
     }
 ]
