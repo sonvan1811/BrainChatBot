@@ -3197,5 +3197,15 @@
             "unity"
         ],
         "bot_response": "\nimport scala.scalajs.js\nimport scala.scalajs.js.`|`\nimport scala.scalajs.js.annotation.{JSGlobalScope, JSGlobal, JSImport, JSName, JSBracketAccess}@js.native\ntrait WebGLMultisampleRenderTarget extends js.Object {\n  \n  /**\n    * The color texture associated with the render target.\n    */\n  var colorTexture: RenderTexture = js.native\n  \n  /**\n    * The depth texture associated with the render target.\n    */\n  var depthTexture: RenderTexture = js.native\n  \n  /**\n    * The depth buffer associated with the render target.\n    */\n  var depthBuffer: js.Any = js.native\n  \n  /**\n    * The color buffer associated with the render target.\n    */\n  var colorBuffer: js.Any = js.native\n}\nobject WebGLMultisampleRenderTarget {\n  \n  @scala.inline\n  def apply(colorTexture: RenderTexture, depthTexture: RenderTexture, depthBuffer: js.Any, colorBuffer: js.Any): WebGLMultisampleRenderTarget = {\n    val __obj = js.Dynamic.literal(colorTexture = colorTexture.asInstanceOf[js.Any], depthTexture = depthTexture.asInstanceOf[js.Any], depthBuffer = depthBuffer.asInstanceOf[js.Any], colorBuffer = colorBuffer.asInstanceOf[js.Any])\n    __obj.asInstanceOf[WebGLMultisampleRenderTarget]\n  }\n  \n  @scala.inline\n  implicit class WebGLMultisampleRenderTargetOps[Self <: WebGLMultisampleRenderTarget] (val x: Self) extends AnyVal {\n    \n    @scala.inline\n    def duplicate: Self = (js.Dynamic.global.Object.assign(js.Dynamic.literal(), x)).asInstanceOf[Self]\n    \n    @scala.inline\n    def combineWith[Other <: js.Any](other: Other): Self with Other = (js.Dynamic.global.Object.assign(js.Dynamic.literal(), x, other.asInstanceOf[js.Any])).asInstanceOf[Self with Other]\n    \n    @scala.inline\n    def set(key: String, value: js.Any): Self = {\n      x.asInstanceOf[js.Dynamic].updateDynamic(key)(value)\n      x\n    }\n    \n    @scala.inline\n    def setColorTexture(value: RenderTexture): Self = this.set(\"colorTexture\", value.asInstanceOf[js.Any])\n    \n    @scala.inline\n    def setDepthTexture(value: RenderTexture): Self = this.set(\"depthTexture\", value.asInstanceOf[js.Any])\n    \n    @scala.inline\n    def setDepthBuffer(value: js.Any): Self = this.set(\"depthBuffer\", value.asInstanceOf[js.Any])\n    \n    @scala.inline\n    def setColorBuffer(value: js.Any): Self = this.set(\"colorBuffer\", value.asInstanceOf[js.Any])\n  }\n}"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ựa"
+        ],
+        "required_words": [
+            "ựa"
+        ],
+        "bot_response": "\n chọn1. A\n2. B\n3. A\n4. B\n5. B"
     }
 ]
