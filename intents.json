@@ -3091,5 +3091,15 @@
             "hí"
         ],
         "bot_response": "\nvásokA személyes találkozók és az online beszélgetések a legjobb módja annak, hogy meghívj egy lányt. A személyes találkozók különösen fontosak, mert lehetővé teszik, hogy személyesen is megismerkedjen a lánnyal, és jobban megértsd, hogy mit szeretne. A személyes találkozókon túl az online beszélgetések is fontosak, mert segítenek megismerni a lányt, és megérteni a személyiségét. Az online beszélgetések lehetővé teszik, hogy kérdezd a lányt a különböző témákról, és jobban megértsd, hogy mit gondol és szeret. Az online beszélgetések segíthetnek abban is, hogy jobban megértsd a lányt, és jobban megismerd a személyiségét."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hí"
+        ],
+        "required_words": [
+            "hí"
+        ],
+        "bot_response": "\nvásokA szerződéses partner jelenlegi feladatainak teljesítéseA szerződéses partner jelenlegi feladatainak teljesítése A szerződéses partner által nyújtott szolgáltatások színvonalának megőrzéseÚj szolgáltatások bevezetése és a meglévő szolgáltatások fejlesztéseA szerződéses partner által nyújtott szolgáltatások minőségének javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának növeléseA szerződéses partner által nyújtott szolgáltatások innovatív megoldásainak biztosításaA szerződéses partner által nyújtott szolgáltatások árának csökkentéseA szerződéses partner által nyújtott szolgáltatások szélesebb körű elérhetőségének biztosításaA szerződéses partner által nyújtott szolgáltatások igényeinek kielégítéseA szerződéses partner által nyújtott szolgáltatások költségeinek csökkentéseA szerződéses partner által nyújtott szolgáltatások minőségének és biztonságának javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának növeléseA szerződéses partner által nyújtott szolgáltatások ügyfélélményének javításaA szerződéses partner által nyújtott szolgáltatások elérhetőségének javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának, minőségének és biztonságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások ügyfélélményének növeléseA szerződéses partner által nyújtott szolgáltatások elérhetőségének és biztonságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások költségeinek csökkentéseA szerződéses partner által nyújtott szolgáltatások hatékonyságának és megbízhatóságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások innovatív megoldásainak biztosításaA szerződéses partner"
     }
 ]
