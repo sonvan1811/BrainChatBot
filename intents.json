@@ -2931,5 +2931,21 @@
             "ai"
         ],
         "bot_response": "\nTôi đã tạo ra bởi tôi."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ăn",
+            "sáng",
+            "chưa"
+        ],
+        "required_words": [
+            "bạn",
+            "ăn",
+            "sáng",
+            "chưa"
+        ],
+        "bot_response": "\nChưa, tôi thường ăn sáng vào khoảng 8 giờ sáng."
     }
 ]
