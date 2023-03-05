@@ -2933,5 +2933,37 @@
             "nhi"
         ],
         "bot_response": "\nều nên mình không thể trả lời câu hỏi của bạn. Tôi khuyên bạn nên tìm hiểu thêm về các loại vật liệu để có thể lựa chọn được loại vật liệu phù hợp với nhu cầu của bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ô",
+            "đcm",
+            "quên",
+            "mất",
+            "đg",
+            "gắn",
+            "chatbot",
+            "vào",
+            "tài",
+            "khoản",
+            "của",
+            "nhi"
+        ],
+        "required_words": [
+            "ô",
+            "đcm",
+            "quên",
+            "mất",
+            "đg",
+            "gắn",
+            "chatbot",
+            "vào",
+            "tài",
+            "khoản",
+            "của",
+            "nhi"
+        ],
+        "bot_response": "\nĐể được gắn chatbot vào tài khoản của bạn, bạn cần phải đăng ký một tài khoản với chatbot của bạn. Sau đó, bạn có thể kết nối chatbot của bạn với tài khoản của bạn bằng cách sử dụng một trong những công cụ hỗ trợ như Facebook Messenger, Slack hoặc các công cụ khác. Bạn có thể tìm hiểu thêm thông tin về cách kết nối chatbot của bạn với tài khoản của bạn tại trang web của chatbot của bạn."
     }
 ]
