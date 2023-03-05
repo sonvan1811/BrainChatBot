@@ -2919,5 +2919,19 @@
         "user_input": [],
         "required_words": [],
         "bot_response": "\n#include <stdio.h>\n#include <stdlib.h>int main()\n{\n    int n,m,i,j,k,l,t;\n    int a[100],b[100],c[100];\n    int d[100][100],e[100][100];\n    scanf(\"%d %d\",&n,&m);\n    for(i=0;i<n;i++)\n    {\n        scanf(\"%d\",&a[i]);\n    }\n    for(i=0;i<m;i++)\n    {\n        scanf(\"%d\",&b[i]);\n    }\n    for(i=0;i<n;i++)\n    {\n        for(j=0;j<m;j++)\n        {\n            scanf(\"%d\",&d[i][j]);\n        }\n    }\n    for(i=0;i<m;i++)\n    {\n        for(j=0;j<n;j++)\n        {\n            scanf(\"%d\",&e[i][j]);\n        }\n    }\n    for(i=0;i<n;i++)\n    {\n        c[i]=0;\n        for(j=0;j<m;j++)\n        {\n            c[i]+=d[i][j]*e[j][i];\n        }\n    }\n    for(i=0;i<n;i++)\n    {\n        t=0;\n        for(j=0;j<n;j++)\n        {\n            if(i!=j)\n            {\n                t+=c[j];\n            }\n        }\n        if(t+c[i]!=a[i])\n        {\n            printf(\"No\\n\");\n            return 0;\n        }\n    }\n    for(i=0;i<m;i++)\n    {\n        t=0;\n        for(j=0;j<m;j++)\n        {\n            if(i!=j)\n            {\n                t+=c[j];\n            }\n        }\n        if(t+c[i]!=b[i])\n        {\n            printf(\"No\\n\");\n            return 0;\n        }\n    }\n    printf(\"Yes\\n\");\n    return 0;\n}"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "gì",
+            "vậy",
+            "nhi"
+        ],
+        "required_words": [
+            "gì",
+            "vậy",
+            "nhi"
+        ],
+        "bot_response": "\nều nên mình không thể trả lời câu hỏi của bạn. Tôi khuyên bạn nên tìm hiểu thêm về các loại vật liệu để có thể lựa chọn được loại vật liệu phù hợp với nhu cầu của bạn."
     }
 ]
