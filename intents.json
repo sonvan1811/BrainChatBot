@@ -3017,5 +3017,19 @@
             "phím"
         ],
         "bot_response": "\n# Khai báo list\nlist_num = []# Nhập vào các phần tử\nn = int(input(\"Nhập số phần tử của list: \"))\nfor i in range(0, n):\n    print(\"Nhập phần tử thứ\", i + 1)\n    item = int(input())\n    list_num.append(item)# Tính tổng các phần tử trong list\ntotal = 0\nfor item in list_num:\n    total += item# Tính trung bình cộng\navg = total / n# In ra kết quả\nprint(\"Trung bình cộng của list là\", avg)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ban",
+            "ten",
+            "gi"
+        ],
+        "required_words": [
+            "ban",
+            "ten",
+            "gi"
+        ],
+        "bot_response": "\nờMười giờ sáng."
     }
 ]
