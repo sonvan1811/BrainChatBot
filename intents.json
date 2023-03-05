@@ -3081,5 +3081,15 @@
             "now"
         ],
         "bot_response": "\nIt is currently 8:53 PM."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "oh"
+        ],
+        "required_words": [
+            "oh"
+        ],
+        "bot_response": "\n, you know,just hanging outwith my friends.Oh, cool.What kind of thingsdo you doWe like to go to the movies,go out to eat,go bowling,play video games,and just hang outand talk."
     }
 ]
