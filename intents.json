@@ -2913,5 +2913,23 @@
             "tập"
         ],
         "bot_response": "\nChắc chắn là được rồi ! Nhưng có lúc tôi giải không được chính xác nên nếu có chỗ nào sai mong bạn thông cảm nhé :))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "tạo",
+            "ra",
+            "bởi",
+            "ai"
+        ],
+        "required_words": [
+            "bạn",
+            "tạo",
+            "ra",
+            "bởi",
+            "ai"
+        ],
+        "bot_response": "\nTôi đã tạo ra bởi tôi."
     }
 ]
