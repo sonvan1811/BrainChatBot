@@ -2947,5 +2947,17 @@
             "chưa"
         ],
         "bot_response": "\nChưa, tôi thường ăn sáng vào khoảng 8 giờ sáng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "1",
+            "1"
+        ],
+        "required_words": [
+            "1",
+            "1"
+        ],
+        "bot_response": "\n 2   3   4\n2  5   6   7   8\n3  9  10  11  12# 将原矩阵转置1  5  9\n2  6 10\n3  7 11\n4  8 12"
     }
 ]
