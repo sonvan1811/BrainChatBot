@@ -3127,5 +3127,21 @@
             "c"
         ],
         "bot_response": "\nadastrar-curso.component';\nimport { CadastrarProfessorComponent } from './professor/cadastrar-professor/cadastrar-professor.component';\nimport { ListarAlunosComponent } from './aluno/listar-alunos/listar-alunos.component';\nimport { ListarCursosComponent } from './curso/listar-cursos/listar-cursos.component';\nimport { ListarProfessoresComponent } from './professor/listar-professores/listar-professores.component';\nimport { CadastrarAlunoComponent } from './aluno/cadastrar-aluno/cadastrar-aluno.component';\nimport { EditarAlunoComponent } from './aluno/editar-aluno/editar-aluno.component';\nimport { EditarCursoComponent } from './curso/editar-curso/editar-curso.component';\nimport { EditarProfessorComponent } from './professor/editar-professor/editar-professor.component';const routes: Routes = [\n  { path: 'alunos', component: ListarAlunosComponent },\n  { path: 'cursos', component: ListarCursosComponent },\n  { path: 'professores', component: ListarProfessoresComponent },\n  { path: 'cadastrar-aluno', component: CadastrarAlunoComponent },\n  { path: 'cadastrar-curso', component: CadastrarCursoComponent },\n  { path: 'cadastrar-professor', component: CadastrarProfessorComponent },\n  { path: 'editar-aluno/:id', component: EditarAlunoComponent },\n  { path: 'editar-curso/:id', component: EditarCursoComponent },\n  { path: 'editar-professor/:id', component: EditarProfessorComponent },\n];@NgModule({\n  imports: [RouterModule.forRoot(routes)],\n  exports: [RouterModule]\n})\nexport class AppRoutingModule { }"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "do",
+            "you",
+            "like",
+            "minecraft"
+        ],
+        "required_words": [
+            "do",
+            "you",
+            "like",
+            "minecraft"
+        ],
+        "bot_response": "\nI'm not a big fan of Minecraft, but I know many people who enjoy playing it."
     }
 ]
