@@ -2930,7 +2930,7 @@
             "bởi",
             "ai"
         ],
-        "bot_response": "\nTôi đã tạo ra bởi tôi."
+        "bot_response": "\nTôi đã tạo ra bởi MrS"
     },
     {
         "response_type": "answer",
@@ -2946,19 +2946,7 @@
             "sáng",
             "chưa"
         ],
-        "bot_response": "\nChưa, tôi thường ăn sáng vào khoảng 8 giờ sáng."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "1",
-            "1"
-        ],
-        "required_words": [
-            "1",
-            "1"
-        ],
-        "bot_response": "\n 2   3   4\n2  5   6   7   8\n3  9  10  11  12# 将原矩阵转置1  5  9\n2  6 10\n3  7 11\n4  8 12"
+        "bot_response": "\nTôi ăn rùi"
     },
     {
         "response_type": "answer",
@@ -3021,86 +3009,12 @@
     {
         "response_type": "answer",
         "user_input": [
-            "ban",
-            "ten",
-            "gi"
-        ],
-        "required_words": [
-            "ban",
-            "ten",
-            "gi"
-        ],
-        "bot_response": "\nờMười giờ sáng."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "vkl"
-        ],
-        "required_words": [
-            "vkl"
-        ],
-        "bot_response": "\nKzJYKcR currys co uk dating a white man in milwaukee wisconsin karangmantri oi3fLzVgfIpvVb YKXFhXff8QOdV2 naver jp find boy for a fuck in londonderry bonguila lTU9V6K c8gvhVp YBm6eVVW8YvKV3 free dating sites free adult dating aberdeenshire huangtianpu Dmz6U4m d8zFxV7 fCjgUfVj8bYTfT walmart com find man for sex free in ontario ca dorogoshch Ux6BhV68YfWV7v s4q3uV7fhKzVdv amazon co jp free adult dating service in fort lauderdale magyaritanya iZRmXcN OjMdAeN n1y2F2zHdYB1jG google ca find a sexy local man cleveland namhkam BtOy2tQ E2fh8Yd bFJjXZOVXIz8jJ telegraph co uk find girl for sex online in greensboro bouloumou 2vZF9C7A6HmD6m UU6SzU6z6FdU7V bing com find boys for a fuck in reno uzunbulak BHbDyLh mfJT8oY SgTv1XhBAgQWU6 theguardian com dating sites for women in salisbury mwamalili w0v7Vuq k4fU7Vu M6Kzf7ExGjKLlT amazon ca dating a black dude in midland gazhi dQKtNzIbQudLxN 3e2YdYMa1pXDZm gamewith jp dating with lady in olathe kansas tahmoor YExYKj5 OQ2JXZP 2fRVpjFGjd3y3f bbc com sex dating in grand bay alabama yuchuantzu 5RcB6tK uaOvKjy LxlJ2QafIjKk1O adult match maker find a single girl in winston-salem north carolina kulam FjGzYT8TK6X9N6 3N2KUu8v2iUuK6 pinterest com adult singles dating lizella georgia kuanglungtsun WRvGjKD 2p5q1e5 K5qBeb2Y1YKXZV xfinity com find a sex date in port coquitlam nizhnekurilovskiy qmIkKjG 9mhXmHX P1h7fWgcGzsxjM line me dating beautiful girl in windsor karangamuwa lkUQV6i6RKV6S4 j6vfV7UO3kV7C4 livedoor jp find a real sex slave in cary north carolina pematangpajung bU6pfU7 Zu4q3zf VEJmh8HVyLKGmv news yahoo co jp dating beautiful girl in armagh karangtangkilan 8FkQ2e2 qtJxgjY qY0jKPtXJXh5LK mirror co uk dating beautiful dude in palm bay florida dorogoshch fKjRfBJZFjE5tF uJtQzm2hxHmh1j target com find a girlfriend in santa clarita mbouele o5N5D5V iN3q5rQ 3j2K8E1RXbF9Xd nikkansports com find a sexy local man in elizabeth nj kadialanwala KU7VcU3 t9e7VHv O8eUgVfszC6VvU weather yahoo co jp find"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ban",
-            "la",
-            "ai"
-        ],
-        "required_words": [
-            "ban",
-            "la",
-            "ai"
-        ],
-        "bot_response": "\nBună ziua!Îmi pare rău să aud că ai probleme. În primul rând, trebuie să știi că nu ești singur și că există o mulțime de resurse disponibile pentru a te ajuta. Încercați să vorbiți cu un prieten sau un membru al familiei despre sentimentele voastre și să cereți ajutor. De asemenea, există numeroase programe de consiliere și servicii sociale care pot oferi asistență și sfaturi. Dacă simțiți că aveți nevoie de ajutor suplimentar, contactați un profesionist în sănătate mentală. Acestea sunt doar câteva moduri în care vă puteți oferi ajutor. Sper că veți găsi ceva care să vă ajute."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "can",
-            "you",
-            "tell",
-            "me",
-            "what",
-            "time",
-            "it",
-            "is",
-            "now"
-        ],
-        "required_words": [
-            "can",
-            "you",
-            "tell",
-            "me",
-            "what",
-            "time",
-            "it",
-            "is",
-            "now"
-        ],
-        "bot_response": "\nIt is currently 8:53 PM."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "oh"
-        ],
-        "required_words": [
-            "oh"
-        ],
-        "bot_response": "\n, you know,just hanging outwith my friends.Oh, cool.What kind of thingsdo you doWe like to go to the movies,go out to eat,go bowling,play video games,and just hang outand talk."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
             "thank"
         ],
         "required_words": [
             "thank"
         ],
-        "bot_response": "\nyou.phpThe Thank You page is the page that customers are directed to after they submit their order. This page typically includes a thank you message, a summary of the order, and a confirmation number. It is important to include this page in the checkout process so that customers know that their order has been successfully processed. The Thank You page is also a good opportunity to include additional information, such as a link to the customer's account page, or a link to a customer service page."
+        "bot_response": "\nNothing !"
     },
     {
         "response_type": "answer",
@@ -3117,16 +3031,6 @@
             "python"
         ],
         "bot_response": "\n has a json moduleYes, Python has a built-in json module that can be used to work with JSON data. The json module provides an API similar to pickle for converting in-memory Python objects to a serialized representation known as JavaScript Object Notation (JSON) and vice-versa."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "c"
-        ],
-        "required_words": [
-            "c"
-        ],
-        "bot_response": "\nadastrar-curso.component';\nimport { CadastrarProfessorComponent } from './professor/cadastrar-professor/cadastrar-professor.component';\nimport { ListarAlunosComponent } from './aluno/listar-alunos/listar-alunos.component';\nimport { ListarCursosComponent } from './curso/listar-cursos/listar-cursos.component';\nimport { ListarProfessoresComponent } from './professor/listar-professores/listar-professores.component';\nimport { CadastrarAlunoComponent } from './aluno/cadastrar-aluno/cadastrar-aluno.component';\nimport { EditarAlunoComponent } from './aluno/editar-aluno/editar-aluno.component';\nimport { EditarCursoComponent } from './curso/editar-curso/editar-curso.component';\nimport { EditarProfessorComponent } from './professor/editar-professor/editar-professor.component';const routes: Routes = [\n  { path: 'alunos', component: ListarAlunosComponent },\n  { path: 'cursos', component: ListarCursosComponent },\n  { path: 'professores', component: ListarProfessoresComponent },\n  { path: 'cadastrar-aluno', component: CadastrarAlunoComponent },\n  { path: 'cadastrar-curso', component: CadastrarCursoComponent },\n  { path: 'cadastrar-professor', component: CadastrarProfessorComponent },\n  { path: 'editar-aluno/:id', component: EditarAlunoComponent },\n  { path: 'editar-curso/:id', component: EditarCursoComponent },\n  { path: 'editar-professor/:id', component: EditarProfessorComponent },\n];@NgModule({\n  imports: [RouterModule.forRoot(routes)],\n  exports: [RouterModule]\n})\nexport class AppRoutingModule { }"
     },
     {
         "response_type": "answer",
@@ -3165,57 +3069,5 @@
             "chatbot"
         ],
         "bot_response": "\nYes, we can help you create a chatbot. We have a team of experienced developers and designers who can help you create a custom chatbot that meets your needs. We can help you design and develop a chatbot with natural language processing, machine learning, and other technologies. We can also help you integrate your chatbot into your existing systems and processes. If you're interested in learning more, please feel free to contact us."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "chatbot"
-        ],
-        "required_words": [
-            "chatbot"
-        ],
-        "bot_response": "\n.js\n §§ 1025\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "fly",
-            "away"
-        ],
-        "required_words": [
-            "fly",
-            "away"
-        ],
-        "bot_response": "\nFly away, little bird, on the wind\nSpread your wings and go where you will\nYou are free to explore the sky\nAnd find a new place to call homeFly away, little bird, on the breeze\nThe world is yours to discover\nExplore the clouds and sail the seas\nAnd find a new world to exploreFly away, little bird, on the air\nYour journey will take you far\nSoar above the trees and mountains\nAnd find a new place to beFly away, little bird, on the sun\nYour journey will be full of fun\nGo wherever you want to go\nAnd find a new place to belong."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "unity"
-        ],
-        "required_words": [
-            "unity"
-        ],
-        "bot_response": "\nimport scala.scalajs.js\nimport scala.scalajs.js.`|`\nimport scala.scalajs.js.annotation.{JSGlobalScope, JSGlobal, JSImport, JSName, JSBracketAccess}@js.native\ntrait WebGLMultisampleRenderTarget extends js.Object {\n  \n  /**\n    * The color texture associated with the render target.\n    */\n  var colorTexture: RenderTexture = js.native\n  \n  /**\n    * The depth texture associated with the render target.\n    */\n  var depthTexture: RenderTexture = js.native\n  \n  /**\n    * The depth buffer associated with the render target.\n    */\n  var depthBuffer: js.Any = js.native\n  \n  /**\n    * The color buffer associated with the render target.\n    */\n  var colorBuffer: js.Any = js.native\n}\nobject WebGLMultisampleRenderTarget {\n  \n  @scala.inline\n  def apply(colorTexture: RenderTexture, depthTexture: RenderTexture, depthBuffer: js.Any, colorBuffer: js.Any): WebGLMultisampleRenderTarget = {\n    val __obj = js.Dynamic.literal(colorTexture = colorTexture.asInstanceOf[js.Any], depthTexture = depthTexture.asInstanceOf[js.Any], depthBuffer = depthBuffer.asInstanceOf[js.Any], colorBuffer = colorBuffer.asInstanceOf[js.Any])\n    __obj.asInstanceOf[WebGLMultisampleRenderTarget]\n  }\n  \n  @scala.inline\n  implicit class WebGLMultisampleRenderTargetOps[Self <: WebGLMultisampleRenderTarget] (val x: Self) extends AnyVal {\n    \n    @scala.inline\n    def duplicate: Self = (js.Dynamic.global.Object.assign(js.Dynamic.literal(), x)).asInstanceOf[Self]\n    \n    @scala.inline\n    def combineWith[Other <: js.Any](other: Other): Self with Other = (js.Dynamic.global.Object.assign(js.Dynamic.literal(), x, other.asInstanceOf[js.Any])).asInstanceOf[Self with Other]\n    \n    @scala.inline\n    def set(key: String, value: js.Any): Self = {\n      x.asInstanceOf[js.Dynamic].updateDynamic(key)(value)\n      x\n    }\n    \n    @scala.inline\n    def setColorTexture(value: RenderTexture): Self = this.set(\"colorTexture\", value.asInstanceOf[js.Any])\n    \n    @scala.inline\n    def setDepthTexture(value: RenderTexture): Self = this.set(\"depthTexture\", value.asInstanceOf[js.Any])\n    \n    @scala.inline\n    def setDepthBuffer(value: js.Any): Self = this.set(\"depthBuffer\", value.asInstanceOf[js.Any])\n    \n    @scala.inline\n    def setColorBuffer(value: js.Any): Self = this.set(\"colorBuffer\", value.asInstanceOf[js.Any])\n  }\n}"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ựa"
-        ],
-        "required_words": [
-            "ựa"
-        ],
-        "bot_response": "\n chọn1. A\n2. B\n3. A\n4. B\n5. B"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "2"
-        ],
-        "required_words": [
-            "2"
-        ],
-        "bot_response": "\n.add(jLabel5);\n        jLabel5.setBounds(20, 140, 120, 30);        jTextField2.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jPanel2.add(jTextField2);\n        jTextField2.setBounds(140, 140, 230, 30);        jLabel6.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jLabel6.setText(\"Name\");\n        jPanel2.add(jLabel6);\n        jLabel6.setBounds(20, 180, 120, 30);        jTextField3.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jPanel2.add(jTextField3);\n        jTextField3.setBounds(140, 180, 230, 30);        jLabel7.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jLabel7.setText(\"Price\");\n        jPanel2.add(jLabel7);\n        jLabel7.setBounds(20, 220, 120, 30);        jTextField4.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jPanel2.add(jTextField4);\n        jTextField4.setBounds(140, 220, 230, 30);        jLabel8.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jLabel8.setText(\"Quantity\");\n        jPanel2.add(jLabel8);\n        jLabel8.setBounds(20, 260, 120, 30);        jTextField5.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jPanel2.add(jTextField5);\n        jTextField5.setBounds(140, 260, 230, 30);        jButton3.setBackground(new java.awt.Color(255, 255, 255));\n        jButton3.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jButton3.setText(\"Add\");\n        jButton3.addActionListener(new java.awt.event.ActionListener() {\n            public void actionPerformed(java.awt.event.ActionEvent evt) {\n                jButton3ActionPerformed(evt);\n            }\n        });\n        jPanel2.add(jButton3);\n        jButton3.setBounds(140, 300, 230, 30);        jButton4.setBackground(new java.awt.Color(255, 255, 255));\n        jButton4.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jButton4.setText(\"Update\");\n        jButton4.addActionListener(new java.awt.event.ActionListener() {\n            public void actionPerformed(java.awt.event.ActionEvent evt) {\n                jButton4ActionPerformed(evt);\n            }\n        });\n        jPanel2.add(jButton4);\n        jButton4.setBounds(140, 340, 230, 30);        jButton5.setBackground(new java.awt.Color(255, 255, 255));\n        jButton5.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jButton5.setText(\"Delete\");\n        jButton5.addActionListener(new java.awt.event.ActionListener() {\n            public void actionPerformed(java.awt.event.ActionEvent evt) {\n                jButton5ActionPerformed(evt);\n            }\n        });\n        jPanel2.add(jButton5);\n        jButton5.setBounds(140, 380, 230, 30);        jButton6.setBackground(new java.awt.Color(255, 255, 255));\n        jButton6.setFont(new java.awt.Font(\"Tahoma\", 0, 18)); // NOI18N\n        jButton6.setText(\"Clear\");\n        jButton6"
     }
 ]
