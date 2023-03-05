@@ -3080,6 +3080,16 @@
             "i",
             "fine"
         ],
-        "bot_response": "\nWell !"
+        "bot_response": "\n.Però, quando si tratta di scegliere una fotocamera digitale, ci sono alcune cose da tenere a mente. In primo luogo, è importante considerare il tipo di fotografia che si desidera realizzare. Alcune fotocamere digitali sono più adatte per la fotografia di paesaggi, mentre altre sono più adatte per la fotografia di ritratti. Inoltre, è importante considerare il budget disponibile. Le fotocamere digitali sono disponibili in una vasta gamma di prezzi, a seconda delle caratteristiche offerte. Infine, è importante considerare la facilità d'uso della fotocamera. Alcune fotocamere digitali possono essere molto complesse da usare, mentre altre possono essere più semplici da usare. Prima di acquistare una fotocamera digitale, è importante prendere in considerazione tutti questi fattori."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hí"
+        ],
+        "required_words": [
+            "hí"
+        ],
+        "bot_response": "\nvásokA személyes találkozók és az online beszélgetések a legjobb módja annak, hogy meghívj egy lányt. A személyes találkozók különösen fontosak, mert lehetővé teszik, hogy személyesen is megismerkedjen a lánnyal, és jobban megértsd, hogy mit szeretne. A személyes találkozókon túl az online beszélgetések is fontosak, mert segítenek megismerni a lányt, és megérteni a személyiségét. Az online beszélgetések lehetővé teszik, hogy kérdezd a lányt a különböző témákról, és jobban megértsd, hogy mit gondol és szeret. Az online beszélgetések segíthetnek abban is, hogy jobban megértsd a lányt, és jobban megismerd a személyiségét."
     }
 ]
