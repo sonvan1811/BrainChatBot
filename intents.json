@@ -3167,5 +3167,37 @@
             "gì"
         ],
         "bot_response": "\nTôi đang ăn một bữa cơm tối."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bây",
+            "giờ",
+            "là",
+            "buổi",
+            "sáng",
+            "mà",
+            "tại",
+            "sao",
+            "bạn",
+            "đang",
+            "ăn",
+            "tối"
+        ],
+        "required_words": [
+            "bây",
+            "giờ",
+            "là",
+            "buổi",
+            "sáng",
+            "mà",
+            "tại",
+            "sao",
+            "bạn",
+            "đang",
+            "ăn",
+            "tối"
+        ],
+        "bot_response": "\nTôi đang ăn tối vì tôi đang đi làm trễ. Tôi đã không có thời gian để ăn sáng."
     }
 ]
