@@ -3199,5 +3199,21 @@
             "tối"
         ],
         "bot_response": "\nTôi đang ăn tối vì tôi đang đi làm trễ. Tôi đã không có thời gian để ăn sáng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ăn",
+            "tối",
+            "chưa"
+        ],
+        "required_words": [
+            "bạn",
+            "ăn",
+            "tối",
+            "chưa"
+        ],
+        "bot_response": "\nChưa, tôi sẽ ăn sau."
     }
 ]
