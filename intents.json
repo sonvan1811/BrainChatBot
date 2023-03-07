@@ -3559,5 +3559,21 @@
             "hevin"
         ],
         "bot_response": "\nXin lỗi, tôi không hiểu câu hỏi của bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tôi",
+            "đi",
+            "ngủ",
+            "đây"
+        ],
+        "required_words": [
+            "tôi",
+            "đi",
+            "ngủ",
+            "đây"
+        ],
+        "bot_response": "\nĐược rồi. Hãy đảm bảo rằng bạn đã đi ngủ đúng giờ để có thể có một đêm ngủ ngon và tốt. Nhớ để cửa sổ mở ít nhất để làm cho phòng của bạn thoáng mát. Hãy đảm bảo rằng bạn đã để điện thoại và máy tính của bạn tắt trước khi bạn đi ngủ để tránh bị giật. Chúc bạn một đêm ngủ ngon!"
     }
 ]
