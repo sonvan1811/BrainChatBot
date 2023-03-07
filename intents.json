@@ -3303,5 +3303,27 @@
             "vậy"
         ],
         "bot_response": "\nXin lỗi, tôi không hiểu bạn đang hỏi gì."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "thấy",
+            "ảnh",
+            "tôi",
+            "gửi",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "thấy",
+            "ảnh",
+            "tôi",
+            "gửi",
+            "không"
+        ],
+        "bot_response": "\nVâng, tôi có thể thấy ảnh bạn gửi."
     }
 ]
