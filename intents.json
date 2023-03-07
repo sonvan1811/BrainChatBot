@@ -3519,5 +3519,31 @@
             "nhé"
         ],
         "bot_response": "\nXin chào! Tôi là Sơn. Rất vui được gặp bạn!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "tên",
+            "là",
+            "hevin",
+            "còn",
+            "tôi",
+            "là",
+            "sơn",
+            "mà"
+        ],
+        "required_words": [
+            "bạn",
+            "tên",
+            "là",
+            "hevin",
+            "còn",
+            "tôi",
+            "là",
+            "sơn",
+            "mà"
+        ],
+        "bot_response": "\nXin chào Hevin và Sơn! Rất vui được gặp bạn."
     }
 ]
