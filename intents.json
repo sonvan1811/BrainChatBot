@@ -3439,5 +3439,23 @@
             "không"
         ],
         "bot_response": "\nKhông, điều đó không đúng. Việc phân tích hình ảnh là một trong những công việc chính của một hệ thống nhận dạng hình ảnh. Nó có thể giúp hệ thống phát hiện và phân loại các đối tượng trong hình ảnh, như vậy hệ thống có thể đưa ra các kết luận về hình ảnh."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ảnh",
+            "này",
+            "là",
+            "ảnh",
+            "gì"
+        ],
+        "required_words": [
+            "ảnh",
+            "này",
+            "là",
+            "ảnh",
+            "gì"
+        ],
+        "bot_response": "\nĐây là ảnh một ngôi nhà."
     }
 ]
