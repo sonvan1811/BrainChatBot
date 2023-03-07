@@ -3457,5 +3457,15 @@
             "gì"
         ],
         "bot_response": "\nĐây là ảnh một ngôi nhà."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ok"
+        ],
+        "required_words": [
+            "ok"
+        ],
+        "bot_response": "\n.NoArgsConstructor;@Data\n@NoArgsConstructor\n@AllArgsConstructor\npublic class AuthResponse {\n    private String token;\n}"
     }
 ]
