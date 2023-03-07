@@ -3623,5 +3623,23 @@
             "tốt"
         ],
         "bot_response": "\nCảm ơn rất nhiều!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "hiểu",
+            "ny",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "bạn",
+            "hiểu",
+            "ny",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nNy là viết tắt của \"những người bạn\"."
     }
 ]
