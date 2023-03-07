@@ -3215,5 +3215,21 @@
             "chưa"
         ],
         "bot_response": "\nChưa, tôi sẽ ăn sau."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "ăn",
+            "cơm",
+            "chưa"
+        ],
+        "required_words": [
+            "bạn",
+            "ăn",
+            "cơm",
+            "chưa"
+        ],
+        "bot_response": "\nVâng, tôi đã ăn cơm."
     }
 ]
