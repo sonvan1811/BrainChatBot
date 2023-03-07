@@ -3247,5 +3247,19 @@
             "chưa"
         ],
         "bot_response": "\nVâng, tôi đã ăn cơm."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ăn",
+            "tối",
+            "chưa"
+        ],
+        "required_words": [
+            "ăn",
+            "tối",
+            "chưa"
+        ],
+        "bot_response": "\nChào bạn,Có thể bạn có thể làm những việc sau đây để có một bữa tối vui vẻ:1. Chọn một món ăn tối thú vị: Tìm một món ăn tối thú vị và hấp dẫn để làm. Bạn có thể làm món ăn ngon của mình hoặc tìm một công thức mới để thử nghiệm.2. Trang trí bàn ăn: Đặt bàn ăn và trang trí nó như một bữa tiệc. Bạn có thể trang trí bằng các bộ bàn ăn, đồ ăn, đồ trang trí, v.v.3. Đọc một cuốn sách hay: Tìm một cuốn sách hay để đọc trong khi ăn tối. Đọc một truyện ngắn về những câu chuyện thú vị hoặc một cuốn sách giản dị.4. Chơi một trò chơi: Tìm một trò chơi để chơi với gia đình hoặc bạn bè. Có rất nhiều trò chơi trên thị trường, từ các trò chơi bài đến các trò chơi video.5. Đối thoại với nhau: Không có gì tuyệt vời hơn là nói chuyện với nhau trong bữa tối. Hãy chia sẻ những câu chuyện về cuộc sống, giới thiệu những ý tưởng mới và hỏi nhau các câu hỏi thú vị.Chúc bạn có một bữa tối vui vẻ!"
     }
 ]
