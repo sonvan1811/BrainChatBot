@@ -3545,5 +3545,19 @@
             "mà"
         ],
         "bot_response": "\nXin chào Hevin và Sơn! Rất vui được gặp bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "là",
+            "hevin"
+        ],
+        "required_words": [
+            "bạn",
+            "là",
+            "hevin"
+        ],
+        "bot_response": "\nXin lỗi, tôi không hiểu câu hỏi của bạn."
     }
 ]
