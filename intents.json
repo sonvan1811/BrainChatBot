@@ -3377,5 +3377,27 @@
             "đậm"
         ],
         "bot_response": "\n<html>\n   <head>\n      <title>Chúc mừng ngày Valentine</title>\n      <style>\n         body {\n            background-color: #FFC0CB;\n         }\n         .heart {\n            width: 100px;\n            height: 100px;\n            background-color: #FF1493;\n            position: relative;\n            margin: 0 auto;\n         }\n         .heart:before,\n         .heart:after {\n            content: \"\";\n            position: absolute;\n            background: #FF1493;\n            width: 100px;\n            height: 100px;\n            top: 0;\n            left: 50px;\n            border-radius: 50%;\n            transform: rotate(-45deg);\n            transform-origin: 0 100%;\n         }\n         .heart:after {\n            left: 0;\n            transform: rotate(45deg);\n            transform-origin: 100% 100%;\n         }\n      </style>\n   </head>\n   <body>\n      <h1>Chúc mừng ngày Valentine!</h1>\n      <div class=\"heart\"></div>\n   </body>\n</html>"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "thấy",
+            "chữ",
+            "trong",
+            "ảnh",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "thấy",
+            "chữ",
+            "trong",
+            "ảnh",
+            "không"
+        ],
+        "bot_response": "\nKhông, tôi không thể nhìn thấy chữ trong ảnh đó."
     }
 ]
