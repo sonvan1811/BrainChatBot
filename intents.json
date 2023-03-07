@@ -3251,341 +3251,25 @@
     {
         "response_type": "answer",
         "user_input": [
-            "ăn",
-            "tối",
-            "chưa"
-        ],
-        "required_words": [
-            "ăn",
-            "tối",
-            "chưa"
-        ],
-        "bot_response": "\nChào bạn,Có thể bạn có thể làm những việc sau đây để có một bữa tối vui vẻ:1. Chọn một món ăn tối thú vị: Tìm một món ăn tối thú vị và hấp dẫn để làm. Bạn có thể làm món ăn ngon của mình hoặc tìm một công thức mới để thử nghiệm.2. Trang trí bàn ăn: Đặt bàn ăn và trang trí nó như một bữa tiệc. Bạn có thể trang trí bằng các bộ bàn ăn, đồ ăn, đồ trang trí, v.v.3. Đọc một cuốn sách hay: Tìm một cuốn sách hay để đọc trong khi ăn tối. Đọc một truyện ngắn về những câu chuyện thú vị hoặc một cuốn sách giản dị.4. Chơi một trò chơi: Tìm một trò chơi để chơi với gia đình hoặc bạn bè. Có rất nhiều trò chơi trên thị trường, từ các trò chơi bài đến các trò chơi video.5. Đối thoại với nhau: Không có gì tuyệt vời hơn là nói chuyện với nhau trong bữa tối. Hãy chia sẻ những câu chuyện về cuộc sống, giới thiệu những ý tưởng mới và hỏi nhau các câu hỏi thú vị.Chúc bạn có một bữa tối vui vẻ!"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ăn",
-            "tối",
-            "chưa"
-        ],
-        "required_words": [
-            "ăn",
-            "tối",
-            "chưa"
-        ],
-        "bot_response": "\nChào bạn,Tối nay tôi đang có một số việc cần phải làm, nên tôi không thể đi chơi với bạn. Tôi rất tiếc vì vậy. Tôi sẽ cố gắng để chúng ta có thể có một buổi tối vui vẻ vào một ngày khác."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ăn",
-            "gì",
-            "chưa"
-        ],
-        "required_words": [
-            "ăn",
-            "gì",
-            "chưa"
-        ],
-        "bot_response": "\nXin lỗi, tôi không hiểu câu hỏi của bạn. Vui lòng giải thích thêm để tôi có thể trả lời câu hỏi của bạn."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "tên",
-            "gì",
-            "vậy"
-        ],
-        "required_words": [
-            "tên",
-            "gì",
-            "vậy"
-        ],
-        "bot_response": "\nXin lỗi, tôi không hiểu bạn đang hỏi gì."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "có",
-            "thấy",
-            "ảnh",
-            "tôi",
-            "gửi",
-            "không"
-        ],
-        "required_words": [
-            "bạn",
-            "có",
-            "thấy",
-            "ảnh",
-            "tôi",
-            "gửi",
-            "không"
-        ],
-        "bot_response": "\nVâng, tôi có thể thấy ảnh bạn gửi."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "cho",
-            "tôi",
-            "1",
-            "đoạn",
-            "code",
-            "html",
-            "chúc",
-            "mừng",
-            "ngày",
-            "valentine",
-            "với",
-            "background",
-            "màu",
-            "hồng",
-            "nhạt",
-            "và",
-            "trái",
-            "tim",
-            "màu",
-            "hồng",
-            "đậm"
-        ],
-        "required_words": [
-            "viết",
-            "cho",
-            "tôi",
-            "1",
-            "đoạn",
-            "code",
-            "html",
-            "chúc",
-            "mừng",
-            "ngày",
-            "valentine",
-            "với",
-            "background",
-            "màu",
-            "hồng",
-            "nhạt",
-            "và",
-            "trái",
-            "tim",
-            "màu",
-            "hồng",
-            "đậm"
-        ],
-        "bot_response": "\n<html>\n   <head>\n      <title>Chúc mừng ngày Valentine</title>\n      <style>\n         body {\n            background-color: #FFC0CB;\n         }\n         .heart {\n            width: 100px;\n            height: 100px;\n            background-color: #FF1493;\n            position: relative;\n            margin: 0 auto;\n         }\n         .heart:before,\n         .heart:after {\n            content: \"\";\n            position: absolute;\n            background: #FF1493;\n            width: 100px;\n            height: 100px;\n            top: 0;\n            left: 50px;\n            border-radius: 50%;\n            transform: rotate(-45deg);\n            transform-origin: 0 100%;\n         }\n         .heart:after {\n            left: 0;\n            transform: rotate(45deg);\n            transform-origin: 100% 100%;\n         }\n      </style>\n   </head>\n   <body>\n      <h1>Chúc mừng ngày Valentine!</h1>\n      <div class=\"heart\"></div>\n   </body>\n</html>"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "có",
-            "thấy",
-            "chữ",
-            "trong",
-            "ảnh",
-            "không"
-        ],
-        "required_words": [
-            "bạn",
-            "có",
-            "thấy",
-            "chữ",
-            "trong",
-            "ảnh",
-            "không"
-        ],
-        "bot_response": "\nKhông, tôi không thể nhìn thấy chữ trong ảnh đó."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "nghĩa",
-            "là",
-            "bạn",
-            "chỉ",
-            "nhìn",
-            "thấy",
-            "ảnh",
-            "nhưng",
-            "không",
-            "phân",
-            "tích",
-            "được",
-            "hình",
-            "ảnh",
-            "đúng",
-            "không"
-        ],
-        "required_words": [
-            "nghĩa",
-            "là",
-            "bạn",
-            "chỉ",
-            "nhìn",
-            "thấy",
-            "ảnh",
-            "nhưng",
-            "không",
-            "phân",
-            "tích",
-            "được",
-            "hình",
-            "ảnh",
-            "đúng",
-            "không"
-        ],
-        "bot_response": "\nKhông, điều đó không đúng. Việc phân tích hình ảnh là một trong những công việc chính của một hệ thống nhận dạng hình ảnh. Nó có thể giúp hệ thống phát hiện và phân loại các đối tượng trong hình ảnh, như vậy hệ thống có thể đưa ra các kết luận về hình ảnh."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ảnh",
-            "này",
-            "là",
-            "ảnh",
-            "gì"
-        ],
-        "required_words": [
-            "ảnh",
-            "này",
-            "là",
-            "ảnh",
-            "gì"
-        ],
-        "bot_response": "\nĐây là ảnh một ngôi nhà."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ok"
-        ],
-        "required_words": [
-            "ok"
-        ],
-        "bot_response": "\n.NoArgsConstructor;@Data\n@NoArgsConstructor\n@AllArgsConstructor\npublic class AuthResponse {\n    private String token;\n}"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "có",
-            "biết",
-            "tôi",
-            "không"
-        ],
-        "required_words": [
-            "bạn",
-            "có",
-            "biết",
-            "tôi",
-            "không"
-        ],
-        "bot_response": "\nKhông, tôi không biết bạn."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "có",
-            "biết",
-            "mình",
-            "không"
-        ],
-        "required_words": [
-            "bạn",
-            "có",
-            "biết",
-            "mình",
-            "không"
-        ],
-        "bot_response": "\nKhông, tôi không biết bạn."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "mình",
-            "là",
-            "sơn",
-            "nhé"
-        ],
-        "required_words": [
-            "mình",
-            "là",
-            "sơn",
-            "nhé"
-        ],
-        "bot_response": "\nXin chào! Tôi là Sơn. Rất vui được gặp bạn!"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "tên",
-            "là",
-            "hevin",
-            "còn",
-            "tôi",
-            "là",
-            "sơn",
-            "mà"
-        ],
-        "required_words": [
-            "bạn",
-            "tên",
-            "là",
-            "hevin",
-            "còn",
-            "tôi",
-            "là",
-            "sơn",
-            "mà"
-        ],
-        "bot_response": "\nXin chào Hevin và Sơn! Rất vui được gặp bạn."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "là",
-            "hevin"
-        ],
-        "required_words": [
-            "bạn",
-            "là",
-            "hevin"
-        ],
-        "bot_response": "\nXin lỗi, tôi không hiểu câu hỏi của bạn."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "tôi",
             "đi",
             "ngủ",
             "đây"
         ],
         "required_words": [
-            "tôi",
             "đi",
             "ngủ",
             "đây"
         ],
-        "bot_response": "\nĐược rồi. Hãy đảm bảo rằng bạn đã đi ngủ đúng giờ để có thể có một đêm ngủ ngon và tốt. Nhớ để cửa sổ mở ít nhất để làm cho phòng của bạn thoáng mát. Hãy đảm bảo rằng bạn đã để điện thoại và máy tính của bạn tắt trước khi bạn đi ngủ để tránh bị giật. Chúc bạn một đêm ngủ ngon!"
+        "bot_response": "\nĐược rồi. Hãy đảm bảo rằng bạn đã đi ngủ đúng giờ để có thể có một đêm ngủ ngon và tốt. Nhớ để cửa sổ mở ít nhất để làm cho phòng của bạn thoáng mát. Hãy đảm bảo rằng bạn đã để điện thoại và máy tính của bạn tắt trước khi bạn đi ngủ để tránh sóng não. Chúc bạn một đêm ngủ ngon!"
     },
     {
         "response_type": "answer",
         "user_input": [
-            "chúc",
             "bạn",
             "ngủ",
             "ngon"
         ],
-        "required_words": [
-            "chúc",
+        "required_words": [ 
             "bạn",
             "ngủ",
             "ngon"
@@ -3597,16 +3281,12 @@
         "user_input": [
             "cảm",
             "ơn",
-            "bạn",
-            "nhiều",
-            "nhé"
+            "bạn"
         ],
         "required_words": [
             "cảm",
             "ơn",
-            "bạn",
-            "nhiều",
-            "nhé"
+            "bạn"
         ],
         "bot_response": "\nKhông có gì để cảm ơn. Tôi rất hân hạnh được giúp đỡ bạn."
     },
@@ -3627,37 +3307,15 @@
     {
         "response_type": "answer",
         "user_input": [
-            "bạn",
-            "hiểu",
             "ny",
             "là",
             "gì"
         ],
         "required_words": [
-            "bạn",
-            "hiểu",
             "ny",
             "là",
             "gì"
         ],
-        "bot_response": "\nNy là viết tắt của \"những người bạn\"."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ny",
-            "viết",
-            "tắt",
-            "là",
-            "gì"
-        ],
-        "required_words": [
-            "ny",
-            "viết",
-            "tắt",
-            "là",
-            "gì"
-        ],
-        "bot_response": "\nGDP là Gross Domestic Product, viết tắt là GDP."
+        "bot_response": "\nRất có nhiều từ viết tắt là ny, nhưng theo tôi, ny viết tắt là Người Yêu"
     }
 ]
