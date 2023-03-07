@@ -3591,5 +3591,23 @@
             "ngon"
         ],
         "bot_response": "\nChúc bạn một đêm ngủ ngon và dễ chịu!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "cảm",
+            "ơn",
+            "bạn",
+            "nhiều",
+            "nhé"
+        ],
+        "required_words": [
+            "cảm",
+            "ơn",
+            "bạn",
+            "nhiều",
+            "nhé"
+        ],
+        "bot_response": "\nKhông có gì để cảm ơn. Tôi rất hân hạnh được giúp đỡ bạn."
     }
 ]
