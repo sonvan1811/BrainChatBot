@@ -3289,5 +3289,19 @@
             "chưa"
         ],
         "bot_response": "\nXin lỗi, tôi không hiểu câu hỏi của bạn. Vui lòng giải thích thêm để tôi có thể trả lời câu hỏi của bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tên",
+            "gì",
+            "vậy"
+        ],
+        "required_words": [
+            "tên",
+            "gì",
+            "vậy"
+        ],
+        "bot_response": "\nXin lỗi, tôi không hiểu bạn đang hỏi gì."
     }
 ]
