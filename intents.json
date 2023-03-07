@@ -3399,5 +3399,45 @@
             "không"
         ],
         "bot_response": "\nKhông, tôi không thể nhìn thấy chữ trong ảnh đó."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "nghĩa",
+            "là",
+            "bạn",
+            "chỉ",
+            "nhìn",
+            "thấy",
+            "ảnh",
+            "nhưng",
+            "không",
+            "phân",
+            "tích",
+            "được",
+            "hình",
+            "ảnh",
+            "đúng",
+            "không"
+        ],
+        "required_words": [
+            "nghĩa",
+            "là",
+            "bạn",
+            "chỉ",
+            "nhìn",
+            "thấy",
+            "ảnh",
+            "nhưng",
+            "không",
+            "phân",
+            "tích",
+            "được",
+            "hình",
+            "ảnh",
+            "đúng",
+            "không"
+        ],
+        "bot_response": "\nKhông, điều đó không đúng. Việc phân tích hình ảnh là một trong những công việc chính của một hệ thống nhận dạng hình ảnh. Nó có thể giúp hệ thống phát hiện và phân loại các đối tượng trong hình ảnh, như vậy hệ thống có thể đưa ra các kết luận về hình ảnh."
     }
 ]
