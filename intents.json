@@ -3467,5 +3467,23 @@
             "ok"
         ],
         "bot_response": "\n.NoArgsConstructor;@Data\n@NoArgsConstructor\n@AllArgsConstructor\npublic class AuthResponse {\n    private String token;\n}"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "biết",
+            "tôi",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "biết",
+            "tôi",
+            "không"
+        ],
+        "bot_response": "\nKhông, tôi không biết bạn."
     }
 ]
