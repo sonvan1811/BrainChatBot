@@ -3641,5 +3641,23 @@
             "gì"
         ],
         "bot_response": "\nNy là viết tắt của \"những người bạn\"."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ny",
+            "viết",
+            "tắt",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "ny",
+            "viết",
+            "tắt",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nGDP là Gross Domestic Product, viết tắt là GDP."
     }
 ]
