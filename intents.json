@@ -3485,5 +3485,23 @@
             "không"
         ],
         "bot_response": "\nKhông, tôi không biết bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "biết",
+            "mình",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "biết",
+            "mình",
+            "không"
+        ],
+        "bot_response": "\nKhông, tôi không biết bạn."
     }
 ]
