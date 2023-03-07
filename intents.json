@@ -3503,5 +3503,21 @@
             "không"
         ],
         "bot_response": "\nKhông, tôi không biết bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "mình",
+            "là",
+            "sơn",
+            "nhé"
+        ],
+        "required_words": [
+            "mình",
+            "là",
+            "sơn",
+            "nhé"
+        ],
+        "bot_response": "\nXin chào! Tôi là Sơn. Rất vui được gặp bạn!"
     }
 ]
