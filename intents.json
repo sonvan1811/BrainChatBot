@@ -3937,5 +3937,21 @@
             "language"
         ],
         "bot_response": "\nNo, I do not know the Korean language."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "what",
+            "are",
+            "you",
+            "doing"
+        ],
+        "required_words": [
+            "what",
+            "are",
+            "you",
+            "doing"
+        ],
+        "bot_response": "\nI'm working on a project."
     }
 ]
