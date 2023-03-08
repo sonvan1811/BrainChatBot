@@ -3919,5 +3919,23 @@
             "english"
         ],
         "bot_response": "\n\nYes, I know English."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "do",
+            "you",
+            "know",
+            "korea",
+            "language"
+        ],
+        "required_words": [
+            "do",
+            "you",
+            "know",
+            "korea",
+            "language"
+        ],
+        "bot_response": "\nNo, I do not know the Korean language."
     }
 ]
