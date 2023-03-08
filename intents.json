@@ -3971,5 +3971,41 @@
             "project"
         ],
         "bot_response": "\nI am currently working on a project to create an online platform for small businesses to manage their marketing and sales activities. The platform will include features such as lead tracking, email marketing automation, customer relationship management, and analytics. The goal is to help small businesses simplify and automate their marketing and sales processes to increase efficiency, reduce costs, and maximize their return on investment."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "bức",
+            "thư",
+            "tỏ",
+            "tình",
+            "ngày",
+            "8",
+            "tháng",
+            "3",
+            "quốc",
+            "tế",
+            "phụ",
+            "nữ"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "bức",
+            "thư",
+            "tỏ",
+            "tình",
+            "ngày",
+            "8",
+            "tháng",
+            "3",
+            "quốc",
+            "tế",
+            "phụ",
+            "nữ"
+        ],
+        "bot_response": "\nKính gửi,Ngày 8 tháng 3 là ngày Quốc tế Phụ nữ, nên tôi muốn tỏ lòng biết ơn và tôn trọng những người phụ nữ đã làm nên những cống hiến lớn lao để xây dựng thế giới.Tôi đã được học hỏi và xây dựng những mối quan hệ tốt đẹp với những người phụ nữ xung quanh tôi. Họ đã luôn là nguồn cảm hứng, sự hướng dẫn và hỗ trợ mà tôi cần trong cuộc sống.Ngày 8 tháng 3 là ngày để tôi tri ân những người phụ nữ trong cuộc sống của tôi và chia sẻ những niềm vui với họ.Với tình yêu và lòng biết ơn,Tên của bạn"
     }
 ]
