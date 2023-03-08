@@ -3953,5 +3953,23 @@
             "doing"
         ],
         "bot_response": "\nI'm working on a project."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "what",
+            "is",
+            "your",
+            "working",
+            "project"
+        ],
+        "required_words": [
+            "what",
+            "is",
+            "your",
+            "working",
+            "project"
+        ],
+        "bot_response": "\nI am currently working on a project to create an online platform for small businesses to manage their marketing and sales activities. The platform will include features such as lead tracking, email marketing automation, customer relationship management, and analytics. The goal is to help small businesses simplify and automate their marketing and sales processes to increase efficiency, reduce costs, and maximize their return on investment."
     }
 ]
