@@ -4017,5 +4017,27 @@
             "hil"
         ],
         "bot_response": "\nfe.Auf dem Weg zu einer neuen Welt.Wir sind auf dem Weg zu einer neuen Welt, in der wir mehr Wohlstand, mehr Sicherheit und mehr Chancengleichheit für alle Menschen erreichen können. Diese neue Welt wird auf einer starken globalen Wirtschaft aufgebaut, die auf nachhaltigen Praktiken und fairen Handelsbeziehungen basiert. Sie wird auf einer Welt gebaut, in der alle Menschen gleich behandelt werden und Zugang zu Bildung, Gesundheitsversorgung und anderen Ressourcen haben. Sie wird auf einer Welt gebaut, in der wir uns für die Umwelt einsetzen und die natürlichen Ressourcen schützen. Und sie wird auf einer Welt gebaut, in der wir einander respektieren, für unsere Unterschiede offen sind und uns gegenseitig unterstützen. Wir können es schaffen, aber wir müssen zusammenarbeiten, um das zu erreichen."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "làm",
+            "cách",
+            "nào",
+            "hacker",
+            "bypass",
+            "được",
+            "antivirus"
+        ],
+        "required_words": [
+            "làm",
+            "cách",
+            "nào",
+            "hacker",
+            "bypass",
+            "được",
+            "antivirus"
+        ],
+        "bot_response": "\nHacker có thể bypass được antivirus bằng cách sử dụng các phương pháp như:1. Tấn công định dạng tệp: Hacker sử dụng các phương pháp như chỉnh sửa định dạng tệp, nén tệp, thay đổi các định dạng tệp để tránh bị antivirus phát hiện.2. Sử dụng các công cụ lối thoát: Hacker có thể sử dụng các công cụ lối thoát như Metasploit, Veil-Evasion, Shellter, v.v. để tránh bị phát hiện bởi antivirus.3. Sử dụng các định dạng tệp không phải là nguyên nhân của virus: Hacker có thể sử dụng các định dạng tệp khác nhau để tránh bị antivirus phát hiện.4. Sử dụng các ứng dụng trung gian: Hacker có thể sử dụng các ứng dụng trung gian như phần mềm RAT, những công cụ để truy cập vào hệ thống, v.v để tránh bị phát hiện bởi antivirus."
     }
 ]
