@@ -3873,5 +3873,35 @@
             "gì"
         ],
         "bot_response": "\nNgày 8 tháng 3 là Chủ Nhật, ngày đầu tiên của Tuần Lễ Phục Sinh."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ngày",
+            "8",
+            "tháng",
+            "3",
+            "là",
+            "ngày",
+            "quốc",
+            "tế",
+            "phụ",
+            "nữ",
+            "mà"
+        ],
+        "required_words": [
+            "ngày",
+            "8",
+            "tháng",
+            "3",
+            "là",
+            "ngày",
+            "quốc",
+            "tế",
+            "phụ",
+            "nữ",
+            "mà"
+        ],
+        "bot_response": "\nNgày 8 tháng 3 được công nhận là Ngày Quốc tế Phụ nữ. Ngày này được tổ chức hàng năm để thống nhất các quyền lợi của phụ nữ và các nỗ lực để hạn chế bất công và bạo lực chống lại phụ nữ. Ngày cũng để nhắc nhở cộng đồng về việc cần thiết phải thay đổi các nhận thức và thói quen đối với phụ nữ."
     }
 ]
