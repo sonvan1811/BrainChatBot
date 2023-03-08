@@ -3849,5 +3849,29 @@
             "nữ"
         ],
         "bot_response": "\nQuan niệm 1 trời sinh voi trời sinh cỏ là quan niệm về sự bình đẳng giữa nam và nữ, tức là không có sự phân biệt giữa hai giới. 2 đông con nhiều của là quan niệm về sự bình đẳng giữa các dân tộc, tức là không có sự phân biệt giữa các dân tộc. 3 trọng nam khinh nữ là quan niệm về sự phân biệt giữa nam và nữ, tức là nam được coi là hơn nữ.Thái độ của tôi đối với các quan niệm trên là tôi đề cao sự bình đẳng giữa các giới và các dân tộc, và không chấp nhận bất kỳ sự phân biệt giữa nam và nữ."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ngày",
+            "mồng",
+            "8",
+            "tháng",
+            "3",
+            "là",
+            "ngày",
+            "gì"
+        ],
+        "required_words": [
+            "ngày",
+            "mồng",
+            "8",
+            "tháng",
+            "3",
+            "là",
+            "ngày",
+            "gì"
+        ],
+        "bot_response": "\nNgày 8 tháng 3 là Chủ Nhật, ngày đầu tiên của Tuần Lễ Phục Sinh."
     }
 ]
