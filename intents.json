@@ -4321,5 +4321,15 @@
             "nén"
         ],
         "bot_response": "\nVbc/Vct = 110."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "haiz"
+        ],
+        "required_words": [
+            "haiz"
+        ],
+        "bot_response": "\nhi.comimport java.util.HashMap;\nimport java.util.Map;public class MajorityElement {\n    // 暴力解法\n    public int majorityElement(int[] nums) {\n        if (nums == null || nums.length == 0) {\n            return 0;\n        }\n        int majority = nums.length / 2;\n        for (int num : nums) {\n            int count = 0;\n            for (int i : nums) {\n                if (i == num) {\n                    count++;\n                }\n            }\n            if (count > majority) {\n                return num;\n            }\n        }\n        return 0;\n    }    // 利用HashMap\n    public int majorityElement2(int[] nums) {\n        if (nums == null || nums.length == 0) {\n            return 0;\n        }\n        Map<Integer, Integer> map = new HashMap<>();\n        int majority = nums.length / 2;\n        for (int num : nums) {\n            if (map.containsKey(num)) {\n                map.put(num, map.get(num) + 1);\n            } else {\n                map.put(num, 1);\n            }\n            if (map.get(num) > majority) {\n                return num;\n            }\n        }\n        return 0;\n    }\n}"
     }
 ]
