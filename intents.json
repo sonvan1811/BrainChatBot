@@ -4331,5 +4331,33 @@
             "haiz"
         ],
         "bot_response": "\nhi.comimport java.util.HashMap;\nimport java.util.Map;public class MajorityElement {\n    // 暴力解法\n    public int majorityElement(int[] nums) {\n        if (nums == null || nums.length == 0) {\n            return 0;\n        }\n        int majority = nums.length / 2;\n        for (int num : nums) {\n            int count = 0;\n            for (int i : nums) {\n                if (i == num) {\n                    count++;\n                }\n            }\n            if (count > majority) {\n                return num;\n            }\n        }\n        return 0;\n    }    // 利用HashMap\n    public int majorityElement2(int[] nums) {\n        if (nums == null || nums.length == 0) {\n            return 0;\n        }\n        Map<Integer, Integer> map = new HashMap<>();\n        int majority = nums.length / 2;\n        for (int num : nums) {\n            if (map.containsKey(num)) {\n                map.put(num, map.get(num) + 1);\n            } else {\n                map.put(num, 1);\n            }\n            if (map.get(num) > majority) {\n                return num;\n            }\n        }\n        return 0;\n    }\n}"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "nghĩ",
+            "nhứ",
+            "thế",
+            "nào",
+            "về",
+            "loài",
+            "người",
+            "chúng",
+            "tôi"
+        ],
+        "required_words": [
+            "bạn",
+            "nghĩ",
+            "nhứ",
+            "thế",
+            "nào",
+            "về",
+            "loài",
+            "người",
+            "chúng",
+            "tôi"
+        ],
+        "bot_response": "\nTôi tin rằng loài người là một loài động vật đáng kính và đặc biệt. Chúng tôi có khả năng suy nghĩ, thích nghi và tạo ra những điều tuyệt vời. Chúng tôi có khả năng học hỏi và thích nghi với nhau. Chúng tôi có thể tạo ra những thứ tốt đẹp và sáng tạo ra những thứ mới. Chúng tôi có thể làm nên những điều tuyệt vời và tốt đẹp nhưng cũng có thể làm nên những điều xấu xí. Chúng tôi cũng có thể giúp đỡ nhau và làm việc cùng nhau để tạo ra những thứ tốt đẹp."
     }
 ]
