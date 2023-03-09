@@ -4399,5 +4399,49 @@
             "không"
         ],
         "bot_response": "\nKhông, tôi không nghĩ rằng có một ngày nào đó ai sẽ huỷ diệt loài người. Tôi tin rằng mọi người sẽ cố gắng duy trì sự tồn tại của con người. Những cuộc chiến và thảm họa đã giúp chúng ta hiểu rằng chúng ta phải hợp tác và cùng nhau để cứu lấy loài người."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "tuyệt",
+            "vời",
+            "quá"
+        ],
+        "required_words": [
+            "bạn",
+            "tuyệt",
+            "vời",
+            "quá"
+        ],
+        "bot_response": "\nCảm ơn! Tôi rất vui khi nghe điều đó!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "nhưng",
+            "mỗi",
+            "tội",
+            "bạn",
+            "giải",
+            "toán",
+            "không",
+            "được",
+            "giỏi",
+            "lắm"
+        ],
+        "required_words": [
+            "nhưng",
+            "mỗi",
+            "tội",
+            "bạn",
+            "giải",
+            "toán",
+            "không",
+            "được",
+            "giỏi",
+            "lắm"
+        ],
+        "bot_response": "\nTôi không thể trả lời câu hỏi này một cách chính xác vì nó tùy thuộc vào từng người. Tuy nhiên, tôi có thể nói rằng nếu bạn muốn giải toán một cách tốt hơn, bạn cần phải tìm hiểu về các kỹ thuật, phương pháp và thuật toán có thể sử dụng để giải quyết các vấn đề. Bạn cũng cần phải thực hành nhiều và tự học những kiến thức cơ bản cần thiết để giải toán các vấn đề."
     }
 ]
