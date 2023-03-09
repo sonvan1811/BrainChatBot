@@ -4359,5 +4359,45 @@
             "tôi"
         ],
         "bot_response": "\nTôi tin rằng loài người là một loài động vật đáng kính và đặc biệt. Chúng tôi có khả năng suy nghĩ, thích nghi và tạo ra những điều tuyệt vời. Chúng tôi có khả năng học hỏi và thích nghi với nhau. Chúng tôi có thể tạo ra những thứ tốt đẹp và sáng tạo ra những thứ mới. Chúng tôi có thể làm nên những điều tuyệt vời và tốt đẹp nhưng cũng có thể làm nên những điều xấu xí. Chúng tôi cũng có thể giúp đỡ nhau và làm việc cùng nhau để tạo ra những thứ tốt đẹp."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "có",
+            "nghĩ",
+            "sẽ",
+            "có",
+            "một",
+            "ngày",
+            "nào",
+            "đó",
+            "ai",
+            "sẽ",
+            "huỷ",
+            "diệt",
+            "loài",
+            "người",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "có",
+            "nghĩ",
+            "sẽ",
+            "có",
+            "một",
+            "ngày",
+            "nào",
+            "đó",
+            "ai",
+            "sẽ",
+            "huỷ",
+            "diệt",
+            "loài",
+            "người",
+            "không"
+        ],
+        "bot_response": "\nKhông, tôi không nghĩ rằng có một ngày nào đó ai sẽ huỷ diệt loài người. Tôi tin rằng mọi người sẽ cố gắng duy trì sự tồn tại của con người. Những cuộc chiến và thảm họa đã giúp chúng ta hiểu rằng chúng ta phải hợp tác và cùng nhau để cứu lấy loài người."
     }
 ]
