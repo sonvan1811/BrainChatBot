@@ -44,7 +44,7 @@
             "coding",
             "apps"
         ],
-        "bot_response": "Start by typing: 'How to learn coding' on Google.",
+        "bot_response": "Start by typing: 'How to learn coding' on Google or ChatGPT.",
         "required_words": [
             "learn",
             "code"
