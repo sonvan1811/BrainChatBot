@@ -4003,5 +4003,15 @@
             "quá"
         ],
         "bot_response": "\nCảm ơn! Tôi rất vui khi nghe điều đó!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hú"
+        ],
+        "required_words": [
+            "hú"
+        ],
+        "bot_response": "\nsz évvel ezelőtt, amikor még csak főiskolába jártam, egyik nagyobb projektünk volt a közösségi szolgáltatások bevezetése a közösségünkbe. Az első lépés a projektben az volt, hogy megtaláljuk a megfelelő szakembereket, akik segíthetnek nekünk a megvalósításban. Ezután megkerestük azokat a szervezeteket, amelyek szakértői segítséget nyújtanak a közösségi szolgáltatások bevezetéséhez. Ezek a szervezetek segítettek nekünk a közösségi szolgáltatások megtervezésében, a megfelelő szabályozások kidolgozásában és a szolgáltatások bevezetésében. A közösségi szolgáltatások bevezetésének eredményeképpen sokkal több ember tudott kapcsolatba lépni egymással, és sokkal könnyebbé vált a közösségünk számára a közösségi szolgáltatások használata."
     }
 ]
