@@ -1592,31 +1592,19 @@
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
+            "python",
             "tính",
             "giai",
             "thừa",
-            "sử",
-            "dụng",
             "vòng",
             "lặp",
             "while"
         ],
         "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
+            "python",
             "tính",
             "giai",
             "thừa",
-            "sử",
-            "dụng",
             "vòng",
             "lặp",
             "while"
