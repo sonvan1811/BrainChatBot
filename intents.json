@@ -4098,5 +4098,15 @@
             "là"
         ],
         "bot_response": "\nHệ số tự cảm của ống dây là 1/20V = 0,05 S."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hey"
+        ],
+        "required_words": [
+            "hey"
+        ],
+        "bot_response": "\n,I'm sorry to hear that you are feeling so down. It sounds like you're going through a tough time right now. I'm here for you if you need someone to talk to. Is there anything I can do to help you feel better"
     }
 ]
