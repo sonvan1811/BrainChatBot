@@ -4004,5 +4004,15 @@
             "quá"
         ],
         "bot_response": "\nCảm ơn! Tôi rất vui khi nghe điều đó!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hey"
+        ],
+        "required_words": [
+            "hey"
+        ],
+        "bot_response": "\n, thereHi there! How are you"
     }
 ]
