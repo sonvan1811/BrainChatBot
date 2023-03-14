@@ -1614,64 +1614,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
-            "tính",
-            "giai",
-            "thừa",
-            "sử",
-            "dụng",
-            "vòng",
-            "lặp",
-            "while"
-        ],
-        "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
-            "tính",
-            "giai",
-            "thừa",
-            "sử",
-            "dụng",
-            "vòng",
-            "lặp",
-            "while"
-        ],
-        "bot_response": "\n# Giai thừa của số n\nn = 5# Khởi tạo biến giai thừa\nfactorial = 1# Vòng lặp while\nwhile n > 0:\n    factorial = factorial * n\n    n -= 1# In ra kết quả\nprint(\"Giai thừa của số n là:\", factorial)"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
-            "tính",
-            "giai",
-            "thừa"
-        ],
-        "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
-            "tính",
-            "giai",
-            "thừa"
-        ],
-        "bot_response": "\n của một số# Giai thừa của số 5def factorial(n): \n  if n == 0: \n    return 1\n  else: \n    return n * factorial(n-1) \n  \nprint(factorial(5))"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
             "python",
             "tính",
             "giai",
@@ -1683,7 +1625,7 @@
             "giai",
             "thừa"
         ],
-        "bot_response": "\ndef factorial(n): \n  if n == 0: \n    return 1 \n  else: \n    return n * factorial(n-1) print(factorial(5))"
+        "bot_response": "\n    def factorial(n): \n\t    if n == 0: \n    return 1 \n\t    else: \n\t    return n * factorial(n-1) print(factorial(5))"
     },
     {
         "response_type": "answer",
