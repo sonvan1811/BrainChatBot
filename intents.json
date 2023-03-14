@@ -1684,21 +1684,13 @@
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
+            "python",
             "tính",
             "giai",
             "thừa"
         ],
         "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
+            "python",
             "tính",
             "giai",
             "thừa"
@@ -1718,94 +1710,24 @@
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
-            "tính",
-            "giai",
-            "thừa"
-        ],
-        "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
-            "tính",
-            "giai",
-            "thừa"
-        ],
-        "bot_response": "\n của 5# Giai thừa là tích của tất cả các số nguyên từ 1 đến số đó# Code Python\nfactorial = 1\nfor i in range(1, 6):\n  factorial *= i\nprint(factorial)"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
+            "python",
             "tính",
             "giai",
             "thừa",
-            "sử",
-            "dụng",
             "vòng",
             "lặp",
             "while"
         ],
         "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
+            "python",
             "tính",
             "giai",
             "thừa",
-            "sử",
-            "dụng",
             "vòng",
             "lặp",
             "while"
         ],
         "bot_response": "\n# Giai thừa của số nguyên n \nn = 6# Khởi tạo biến tích\nfactorial = 1# Vòng lặp while\nwhile n > 1:\n    factorial = factorial * n\n    n = n - 1# In kết quả\nprint(factorial)"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
-            "tính",
-            "giai",
-            "thừa",
-            "sử",
-            "dụng",
-            "vòng",
-            "lặp",
-            "while"
-        ],
-        "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "Python",
-            "tính",
-            "giai",
-            "thừa",
-            "sử",
-            "dụng",
-            "vòng",
-            "lặp",
-            "while"
-        ],
-        "bot_response": "\n# Giai thừa của số n\nn = int(input(\"Nhập số n: \"))# Khởi tạo giá trị giai thừa\nfactorial = 1# Dùng vòng lặp while để tính giai thừa\ni = 1\nwhile i <= n:\n    factorial *= i\n    i += 1# In kết quả\nprint(\"Giai thừa của %d là %d\" %(n, factorial))"
     },
     {
         "response_type": "answer",
@@ -1864,20 +1786,12 @@
         "user_input": [
             "quê",
             "bạn",
-            "sinh",
-            "ra",
-            "là",
-            "ở",
-            "đâu"
+            "sinh"
         ],
         "required_words": [
             "quê",
             "bạn",
-            "sinh",
-            "ra",
-            "là",
-            "ở",
-            "đâu"
+            "sinh"
         ],
         "bot_response": "\nTôi sinh ra ở thành phố Hà Nội, Việt Nam."
     },
@@ -1888,52 +1802,20 @@
             "ăn",
             "bạn",
             "yêu",
-            "thích",
-            "nhất",
-            "là",
-            "gì"
+            "thích"
         ],
         "required_words": [
             "món",
             "ăn",
             "bạn",
             "yêu",
-            "thích",
-            "nhất",
-            "là",
-            "gì"
+            "thích"
         ],
         "bot_response": "\nMón ăn yêu thích của tôi là cơm chiên."
     },
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "python",
-            "tính",
-            "giai",
-            "thừa"
-        ],
-        "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "code",
-            "python",
-            "tính",
-            "giai",
-            "thừa"
-        ],
-        "bot_response": "\nGiai thừa của số 5\nfactorial = 1# Sử dụng vòng lặp while để tính giai thừa\ni = 1\nwhile i <= 5:\n     factorial = factorial * i\n     i += 1# In kết quả\nprint(\"Giai thừa của số 5 là\", factorial)"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "1",
             "bài",
             "thơ",
             "về",
@@ -1941,8 +1823,6 @@
             "yêu"
         ],
         "required_words": [
-            "viết",
-            "1",
             "bài",
             "thơ",
             "về",
@@ -2102,46 +1982,18 @@
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "1",
             "bài",
             "thơ",
             "về",
             "it"
         ],
         "required_words": [
-            "Viết",
-            "1",
             "bài",
             "thơ",
             "về",
             "it"
         ],
         "bot_response": "\nIT là một thế giới không gian\nVới các tính năng và công nghệ\nChúng ta có thể làm điều gì đó\nTừ xa, ngay tại chỗTinh túy của nó làm cho \nChúng ta có thể vượt qua bất cứ khó khăn nào\nVà những gì chúng ta muốn làm\nChỉ cần có một máy tínhIT cung cấp đến chúng ta\nNhững công cụ để đạt được những mục tiêu\nVà trở thành những người thành công\nMột cách nhanh hơn, dễ dàng hơnIT là một cách để cải thiện cuộc sống\nVà cũng có thể làm cho chúng ta trở nên thông minh hơn\nVới các công nghệ hiện đại\nChúng ta sẽ luôn được hỗ trợ"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "giải",
-            "phương",
-            "trình",
-            "3x",
-            "+",
-            "6",
-            "=",
-            "9"
-        ],
-        "required_words": [
-            "giải",
-            "phương",
-            "trình",
-            "3x",
-            "+",
-            "6",
-            "=",
-            "9"
-        ],
-        "bot_response": "\nx = 3"
     },
     {
         "response_type": "answer",
@@ -2167,9 +2019,7 @@
             "tính",
             "giai",
             "thừa",
-            "trong",
             "python",
-            "với",
             "vòng",
             "lặp",
             "for"
@@ -2178,76 +2028,12 @@
             "tính",
             "giai",
             "thừa",
-            "trong",
             "python",
-            "với",
             "vòng",
             "lặp",
             "for"
         ],
         "bot_response": "def factorial(n):\n  result = 1\n  for i in range(1, n+1):\n    result = result * i\n  return resultprint(factorial(4))\n# 24\n"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "đoạn",
-            "code",
-            "python",
-            "tính",
-            "giai",
-            "thừa",
-            "sử",
-            "dụng",
-            "vòng",
-            "lặp",
-            "for"
-        ],
-        "required_words": [
-            "viết",
-            "đoạn",
-            "code",
-            "python",
-            "tính",
-            "giai",
-            "thừa",
-            "sử",
-            "dụng",
-            "vòng",
-            "lặp",
-            "for"
-        ],
-        "bot_response": "def factorial(n):\n  result = 1\n  for i in range(1, n+1):\n    result = result * i\n  return resultprint(factorial(4))\n# 24\n"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "code",
-            "python",
-            "tính",
-            "giai",
-            "thừa",
-            "sử",
-            "dụng",
-            "vòng",
-            "lặp",
-            "for"
-        ],
-        "required_words": [
-            "viết",
-            "code",
-            "python",
-            "tính",
-            "giai",
-            "thừa",
-            "sử",
-            "dụng",
-            "vòng",
-            "lặp",
-            "for"
-        ],
-        "bot_response": "\ndef factorial(n): \n    result = 1\n    for i in range(1,n+1): \n        result = result * i \n    return result \n  \n# Driver Code \nn = 5\nprint(factorial(n))"
     },
     {
         "response_type": "answer",
@@ -2297,11 +2083,7 @@
             "thức",
             "cơ",
             "bản",
-            "nhất",
-            "trong",
-            "python",
-            "là",
-            "gì"
+            "python"
         ],
         "required_words": [
             "những",
@@ -2309,11 +2091,7 @@
             "thức",
             "cơ",
             "bản",
-            "nhất",
-            "trong",
-            "python",
-            "là",
-            "gì"
+            "python"
         ],
         "bot_response": "\n1. Cú pháp Python: biết cách sử dụng cú pháp Python để tạo các biểu thức, câu lệnh và các khối lệnh. \n2. Kiểu dữ liệu cơ bản: biết cách sử dụng các kiểu dữ liệu cơ bản như số nguyên, số thực, chuỗi, danh sách, từ điển và boolean. \n3. Các cấu trúc dữ liệu: biết cách sử dụng các cấu trúc dữ liệu như vòng lặp, điều khiển điều khiển và các cấu trúc dữ liệu phức tạp hơn như đệ quy. \n4. Hàm: biết cách sử dụng hàm trong Python để tạo các đoạn mã có thể tái sử dụng. \n5. Đối tượng: biết cách sử dụng đối tượng trong Python để tạo các đoạn mã có thể tái sử dụng. \n6. Thư viện: biết cách sử dụng các thư viện trong Python để làm việc nhanh hơn và hiệu quả hơn."
     },
@@ -2345,15 +2123,13 @@
             "bạn",
             "ăn",
             "cơm",
-            "chưa",
-            "?"
+            "chưa"
         ],
         "required_words": [
             "bạn",
             "ăn",
             "cơm",
-            "chưa",
-            "?"
+            "chưa"
         ],
         "bot_response": "Không, tôi chưa ăn."
     },
@@ -2364,16 +2140,14 @@
             "đang",
             "làm",
             "gì",
-            "vậy",
-            "?"
+            "vậy"
         ],
         "required_words": [
             "bạn",
             "đang",
             "làm",
             "gì",
-            "vậy",
-            "?"
+            "vậy"
         ],
         "bot_response": "Tôi đang làm việc trên máy tính."
     },
@@ -2385,8 +2159,7 @@
             "việc",
             "nhiều",
             "không",
-            "mệt",
-            "hả"
+            "mệt"
         ],
         "required_words": [
             "bạn",
@@ -2394,8 +2167,7 @@
             "việc",
             "nhiều",
             "không",
-            "mệt",
-            "hả"
+            "mệt"
         ],
         "bot_response": "Không, tôi không mệt. Tôi thích làm việc nhiều vì tôi có thể làm nhiều hơn và đạt được nhiều thành công hơn."
     },
@@ -2587,54 +2359,17 @@
         "response_type": "answer",
         "user_input": [
             "thơ",
-            "về",
             "an",
             "ninh",
             "mạng"
         ],
         "required_words": [
-            "bài",
             "thơ",
-            "về",
             "an",
             "ninh",
             "mạng"
         ],
         "bot_response": "\nMạng an ninh là một bảo vệ những cố gắng\nNgăn ngừa những kẻ xâm nhập không mời\nNó bảo vệ quyền riêng tư của bạn\nVà bảo vệ thông tin của bạn trên mạng \nChúng ta cần đề phòng những tấn công của hacker\nVà cẩn thận với những địa chỉ web không an toàn\nVà nếu bạn đang sử dụng mạng không an toàn\nThì an ninh mạng sẽ giúp bạn bảo vệ \nHãy cẩn thận để tránh những tấn công\nVà luôn để mắt mở để phát hiện những dấu hiệu\nHãy luôn cập nhật phần mềm bảo mật\nVà hãy sử dụng các công cụ an ninh mạng \nMạng an ninh là một công cụ quan trọng\nNó sẽ giúp bạn bảo vệ thông tin của mình\nVà giúp bạn tránh những tấn công bất ngờ\nHãy luôn sử dụng an ninh mạng để bảo vệ bạn mọi lúc mọi nơi."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "python",
-            "tính",
-            "giai",
-            "thừa"
-        ],
-        "required_words": [
-            "python",
-            "tính",
-            "giai",
-            "thừa"
-        ],
-        "bot_response": "\ndef factorial(n): \n  \n    # single line to find factorial \n    return 1 if (n==1 or n==0) else n * factorial(n - 1);  \n  \n# Driver Code \nnum = 5; \nprint(\"Factorial of\",num,\"is\", \nfactorial(num))"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "kiến",
-            "thức",
-            "python",
-            "cơ",
-            "bản"
-        ],
-        "required_words": [
-            "kiến",
-            "thức",
-            "python",
-            "cơ",
-            "bản"
-        ],
-        "bot_response": "\n1. Cú pháp Python: các cấu trúc cú pháp cơ bản của ngôn ngữ Python, bao gồm các từ khóa, cấu trúc dữ liệu, biểu thức, và các câu lệnh. \n2. Kiểu dữ liệu: các kiểu dữ liệu cơ bản của Python, bao gồm số nguyên, số thực, chuỗi, boolean, và các kiểu dữ liệu tùy chọn. \n3. Các cấu trúc dữ liệu: các cấu trúc dữ liệu cơ bản của Python, bao gồm danh sách, từ điển, và tập hợp. \n4. Các vòng lặp: các cấu trúc của vòng lặp, bao gồm for, while, và các vòng lặp tùy chỉnh.\n5. Các hàm: cách để định nghĩa và sử dụng các hàm trong Python, bao gồm cách truyền tham số và trả về giá trị.\n6. Đối tượng: cách định nghĩa và sử dụng các đối tượng trong Python, bao gồm cách tạo và sử dụng các thành phần của một đối tượng.\n7. Các thư viện: cách sử dụng các thư viện có sẵn trong Python để làm việc với các tập tin, mạng, và các tác vụ khác.\n"
     },
     {
         "response_type": "answer",
@@ -4004,16 +3739,6 @@
             "quá"
         ],
         "bot_response": "\nCảm ơn! Tôi rất vui khi nghe điều đó!"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "hey"
-        ],
-        "required_words": [
-            "hey"
-        ],
-        "bot_response": "\n, thereHi there! How are you"
     },
     {
         "response_type": "answer",
