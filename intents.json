@@ -1625,7 +1625,7 @@
             "giai",
             "thừa"
         ],
-        "bot_response": "\nĐây là một đoạn code Python tính giai thừa theo cách đệ quy:\n    def factorial(n): \n\t    if n == 0: \n\t    return 1 \n    else: \n\t    return n * factorial(n-1) \n    print(factorial(5))"
+        "bot_response": "\nĐây là một đoạn code Python tính giai thừa theo cách đệ quy:\n    def factorial(n): \n\t    if n == 0: \n\t\t    return 1 \n\t    else: \n\t\t    return n * factorial(n-1) \n    print(factorial(5))"
     },
     {
         "response_type": "answer",
