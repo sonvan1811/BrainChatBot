@@ -1609,7 +1609,7 @@
             "lặp",
             "while"
         ],
-        "bot_response": "Giai thừa là tích của tất cả các số nguyên từ 1 đến n# Khai báo biến n là số cần tính giai thừa\nn = 5 # Khởi tạo biến giai thừa có giá trị là 1\nfactorial = 1# Khởi tạo biến i là số bắt đầu tính\ni = 1# Vòng lặp while để tính giai thừa\nwhile i <= n:\n    factorial = factorial * i\n    i = i + 1# In kết quả\nprint(\"Giai thừa của\", n, \"là\", factorial)\n"
+        "bot_response": "Giai thừa là tích của tất cả các số nguyên từ 1 đến n# Khai báo biến n là số cần tính giai thừa\n`n = 5 # Khởi tạo biến giai thừa có giá trị là 1\nfactorial = 1# Khởi tạo biến i là số bắt đầu tính\ni = 1# Vòng lặp while để tính giai thừa\nwhile i <= n:\n    factorial = factorial * i\n    i = i + 1# In kết quả\nprint(\"Giai thừa của\", n, \"là\", factorial)\n`"
     },
     {
         "response_type": "answer",
