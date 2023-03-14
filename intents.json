@@ -1695,7 +1695,7 @@
             "giai",
             "thừa"
         ],
-        "bot_response": "\n của số 5def factorial(n): \n  if n == 0: \n    return 1 \n  else: \n    return n * factorial(n-1) print(factorial(5))"
+        "bot_response": "\ndef factorial(n): \n  if n == 0: \n    return 1 \n  else: \n    return n * factorial(n-1) print(factorial(5))"
     },
     {
         "response_type": "answer",
