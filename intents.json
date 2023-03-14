@@ -4108,5 +4108,15 @@
             "hey"
         ],
         "bot_response": "\n,I'm sorry to hear that you are feeling so down. It sounds like you're going through a tough time right now. I'm here for you if you need someone to talk to. Is there anything I can do to help you feel better"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hey"
+        ],
+        "required_words": [
+            "hey"
+        ],
+        "bot_response": "\n, I'm a stringHey there! Nice to meet you."
     }
 ]
