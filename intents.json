@@ -3689,5 +3689,21 @@
             "minh"
         ],
         "bot_response": "\nYes, Ho Chi Minh was the founding father of the Democratic Republic of Vietnam, and the leader of the Viet Minh independence movement. He served as the Prime Minister and President of North Vietnam from 1945 until his death in 1969."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "làm",
+            "gì",
+            "vậy"
+        ],
+        "required_words": [
+            "bạn",
+            "làm",
+            "gì",
+            "vậy"
+        ],
+        "bot_response": "\nTôi đang làm một số công việc nhỏ như viết một bài báo, xem qua một số tài liệu, và làm một số bài tập."
     }
 ]
