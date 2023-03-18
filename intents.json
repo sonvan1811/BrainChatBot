@@ -3901,5 +3901,21 @@
             "vietnam"
         ],
         "bot_response": "\nVietnam is a beautiful country located in South East Asia. It is a country with a rich culture and history, and is home to many wonderful people. The country has a diverse landscape and climate, from the mountainous northern regions to the lush tropical south. The cuisine of Vietnam is also renowned for its unique flavors and spices. Tourism is an important industry in Vietnam, with many tourists visiting each year to explore the country’s many attractions. Vietnam is also a great place to explore the outdoors, with its many national parks and beaches. With its vibrant cities, stunning nature and friendly locals, Vietnam is a great destination for travelers of all kinds."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "thơ",
+            "về",
+            "tình",
+            "yêu"
+        ],
+        "required_words": [
+            "thơ",
+            "về",
+            "tình",
+            "yêu"
+        ],
+        "bot_response": "\nTình yêu đẹp như một cánh hoa\nThời gian dài với nhau như một đời\nMỗi lần nhìn thấy nhau đều là một niềm vui\nMỗi lần hôn nhau đều là một niềm hạnh phúcTình yêu là những lời nói yêu thương\nTình yêu là những ánh mắt thật sâu sắc\nTình yêu là những cảm xúc thật dễ thương\nTình yêu là những điều tuyệt vời nhất trên đờiTình yêu là những hành động thật ý nghĩa\nTình yêu là những giây phút thật vinh quang\nTình yêu là những lời nói thật thân thiện\nTình yêu là những giờ phút tốt đẹp nhấtTình yêu là những giây phút thật lâu dài\nTình yêu là những niềm vui thật bền lâu\nTình yêu là những hành động thật ý nghĩa\nTình yêu là những giờ phút tốt đẹp nhất trên đời"
     }
 ]
