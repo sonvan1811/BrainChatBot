@@ -3757,5 +3757,21 @@
             "me"
         ],
         "bot_response": "\nThat's a very personal question."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "what",
+            "is",
+            "current",
+            "age"
+        ],
+        "required_words": [
+            "what",
+            "is",
+            "current",
+            "age"
+        ],
+        "bot_response": "\nIt is impossible to answer this question without knowing the person in question."
     }
 ]
