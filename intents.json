@@ -3825,5 +3825,27 @@
             "lại"
         ],
         "bot_response": "\nKhi xe điều khiển đi vào giao thông, những luật về giao thông đều có thể được áp dụng. Đèn đỏ là một biểu tượng cấm đi, nghĩa là bạn phải dừng xe lại để tránh việc gây tai nạn. Những luật này được thiết lập để giúp bạn điều khiển xe an toàn hơn, tránh việc gây tai nạn và giúp bảo vệ các người khác trong giao thông."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "write",
+            "50",
+            "words",
+            "about",
+            "phở",
+            "hà",
+            "nội"
+        ],
+        "required_words": [
+            "write",
+            "50",
+            "words",
+            "about",
+            "phở",
+            "hà",
+            "nội"
+        ],
+        "bot_response": "\nPhở Hà Nội is a type of Vietnamese noodle soup consisting of rice noodles, beef or chicken, a clear broth, and various herbs. It is a popular street food in Vietnam and is often served with a side of fresh greens and chili peppers. Phở Hà Nội is typically a breakfast food, but can be enjoyed at any time of day."
     }
 ]
