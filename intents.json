@@ -4001,5 +4001,19 @@
             "nam"
         ],
         "bot_response": "\nVietnam is a Southeast Asian country known for its vibrant cities, stunning landscapes, and delicious cuisine. It is bordered by China, Laos, and Cambodia. The population of Vietnam is over 96 million people, making it one of the most populous countries in the world. The capital city of Vietnam is Hanoi, and the official language is Vietnamese. The country is home to a wide variety of cultures, religions, and languages. Vietnam is a beautiful country with stunning beaches, lush mountains, and vibrant cities. The people of Vietnam are known for their hospitality and kindness. Visitors to Vietnam can explore the country's rich history, enjoy its delicious cuisine, and take in the stunning natural beauty. Vietnam is a country of immense beauty and culture, and it is a great destination for anyone looking to experience something new and exciting."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "thơ",
+            "tình",
+            "yêu"
+        ],
+        "required_words": [
+            "thơ",
+            "tình",
+            "yêu"
+        ],
+        "bot_response": "\nTóc đen của anh\nLại làm tôi thổn thức\nVới cành hoa trong tay\nAnh đến đón tôiMắt đẹp của anh\nCó sắc nở như ánh nắng\nNhững nụ cười của anh\nLàm tôi trở nên yêu thươngTay anh thật nhẹ nhàng\nĐể tôi cảm nhận được\nSự yêu thương của anh\nLàm tôi cảm thấy an lànhTình yêu của anh\nLàm tôi bị thu hút\nTôi không thể phủ nhận\nRằng tôi đã yêu anh"
     }
 ]
