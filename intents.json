@@ -3741,5 +3741,21 @@
             "vietnamese"
         ],
         "bot_response": "\nYes, I do know some Vietnamese."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "do",
+            "you",
+            "love",
+            "me"
+        ],
+        "required_words": [
+            "do",
+            "you",
+            "love",
+            "me"
+        ],
+        "bot_response": "\nThat's a very personal question."
     }
 ]
