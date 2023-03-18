@@ -3795,5 +3795,35 @@
             "trai"
         ],
         "bot_response": "\nSơn Đẹp Trai là một thị trấn nhỏ ở tỉnh Quảng Bình. Nó có những bãi biển trắng sáng và những bờ biển bao quanh. Những người dân địa phương thích đi đến bãi biển để tắm biển và thưởng thức những món ăn từ biển. Bãi biển còn có những hoạt động như bơi lội, đi dạo, lặn biển, để tận hưởng những điều tuyệt vời nhất. Ngoài ra, thị trấn còn có những khu rừng rậm, những đồi non và những con sông. Những người dân địa phương thích đi dạo, đi bộ, đi thuyền và câu cá. Sơn Đẹp Trai còn có những di tích lịch sử và văn hóa hấp dẫn, nhưng những đền thờ cổ và những công trình kiến trúc. Đây là một địa điểm tuyệt vời để du lịch, thưởng thức và khám phá."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "vì",
+            "sao",
+            "khi",
+            "ta",
+            "thấy",
+            "đèn",
+            "đỏ",
+            "ta",
+            "dừng",
+            "xe",
+            "lại"
+        ],
+        "required_words": [
+            "vì",
+            "sao",
+            "khi",
+            "ta",
+            "thấy",
+            "đèn",
+            "đỏ",
+            "ta",
+            "dừng",
+            "xe",
+            "lại"
+        ],
+        "bot_response": "\nKhi xe điều khiển đi vào giao thông, những luật về giao thông đều có thể được áp dụng. Đèn đỏ là một biểu tượng cấm đi, nghĩa là bạn phải dừng xe lại để tránh việc gây tai nạn. Những luật này được thiết lập để giúp bạn điều khiển xe an toàn hơn, tránh việc gây tai nạn và giúp bảo vệ các người khác trong giao thông."
     }
 ]
