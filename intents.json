@@ -3725,5 +3725,21 @@
             "vietnam"
         ],
         "bot_response": "\nViệt Nam là quê hương của những con người có nhiều văn hóa, lịch sử và thực phẩm đặc sắc. Nước này có nhiều thành phố lớn và những vùng quê nhỏ, những con đường dài và những thung lũng đẹp. Những người dân Việt Nam là một nhóm người thân thiện và lịch sự. Họ có những truyền thống và giá trị đặc biệt."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "do",
+            "you",
+            "know",
+            "vietnamese"
+        ],
+        "required_words": [
+            "do",
+            "you",
+            "know",
+            "vietnamese"
+        ],
+        "bot_response": "\nYes, I do know some Vietnamese."
     }
 ]
