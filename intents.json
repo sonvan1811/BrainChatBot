@@ -3927,5 +3927,23 @@
             "hih"
         ],
         "bot_response": "\nat.wav# The file is a 16-bit, 44.1 kHz, stereo WAV file."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "write",
+            "100",
+            "words",
+            "about",
+            "hochiminh"
+        ],
+        "required_words": [
+            "write",
+            "100",
+            "words",
+            "about",
+            "hochiminh"
+        ],
+        "bot_response": "\nCityHo Chi Minh City, formerly known as Saigon, is the largest city in Vietnam. It is a vibrant city with a rich history and culture, and is home to more than 8 million people. The city is a mix of modern and traditional, with ancient temples and bustling markets. It is the economic and cultural hub of the country, and is a popular tourist destination. The city is known for its street food, which is some of the best in the world. It also has a lively nightlife, with many bars and clubs. Ho Chi Minh City is a great place to explore and experience the unique culture of Vietnam. It is a city of contrasts, with modern skyscrapers and centuries-old buildings. It is a city of great energy, and a place that is sure to leave a lasting impression."
     }
 ]
