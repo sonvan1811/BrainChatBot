@@ -3705,5 +3705,25 @@
             "vậy"
         ],
         "bot_response": "\nTôi đang làm một số công việc nhỏ như viết một bài báo, xem qua một số tài liệu, và làm một số bài tập."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "write",
+            "about",
+            "50",
+            "words",
+            "in",
+            "vietnam"
+        ],
+        "required_words": [
+            "write",
+            "about",
+            "50",
+            "words",
+            "in",
+            "vietnam"
+        ],
+        "bot_response": "\nViệt Nam là quê hương của những con người có nhiều văn hóa, lịch sử và thực phẩm đặc sắc. Nước này có nhiều thành phố lớn và những vùng quê nhỏ, những con đường dài và những thung lũng đẹp. Những người dân Việt Nam là một nhóm người thân thiện và lịch sự. Họ có những truyền thống và giá trị đặc biệt."
     }
 ]
