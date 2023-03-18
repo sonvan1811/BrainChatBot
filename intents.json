@@ -3967,5 +3967,19 @@
             "nội"
         ],
         "bot_response": "\nPhở Hà Nội is a traditional Vietnamese noodle soup dish. It is made with a broth of beef or chicken, rice noodles, herbs, and spices. The broth is cooked for hours to bring out the full flavor of the ingredients. The noodles are usually served with a variety of meats such as beef, chicken, pork, and seafood. The dish is usually served with a plate of fresh herbs, chilli, and lime to add flavor. Phở Hà Nội is a popular dish in Vietnam and is enjoyed by locals and tourists alike. It is a light, flavorful, and comforting dish that can be enjoyed for breakfast, lunch, or dinner."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "thơ",
+            "về",
+            "it"
+        ],
+        "required_words": [
+            "thơ",
+            "về",
+            "it"
+        ],
+        "bot_response": "\nIt đã làm thay đổi cuộc sống\nTạo ra những công nghệ thú vị\nLàm cho cuộc sống dễ dàng hơn\nVà làm cho thế giới trở nên gần hơn.Nó đã cung cấp cho chúng ta những công cụ để tạo ra những điều tuyệt vời\nVà làm cho chúng ta có thể thực hiện những điều tốt đẹp hơn\nTừ việc chia sẻ những kiến thức quý báu\nĐến việc giúp chúng ta tự nhận thức.It đã làm thay đổi cuộc sống\nVà làm cho chúng ta có thể thực hiện những điều tốt đẹp hơn\nVà cho phép chúng ta tận hưởng những công nghệ tuyệt vời\nVà làm cho thế giới trở nên gần hơn."
     }
 ]
