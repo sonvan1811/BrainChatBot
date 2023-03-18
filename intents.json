@@ -3883,5 +3883,23 @@
             "capital"
         ],
         "bot_response": "\nHaNoi is the capital of Vietnam and is a city full of culture, history and beauty. It is the second largest city in Vietnam and is located in the northern part of the country. The city is home to many ancient monuments, temples, and pagodas, as well as a bustling street life and a vibrant nightlife. HaNoi is known for its delicious food, with a variety of traditional dishes and street food available. The city is also known for its hospitality and friendly locals. HaNoi is a great place to explore, with many interesting sights and activities to enjoy. There are also many museums and galleries to explore, as well as parks, gardens and lakes. HaNoi is a great place to visit for those looking for a unique experience in Vietnam."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "write",
+            "50",
+            "words",
+            "about",
+            "vietnam"
+        ],
+        "required_words": [
+            "write",
+            "50",
+            "words",
+            "about",
+            "vietnam"
+        ],
+        "bot_response": "\nVietnam is a beautiful country located in South East Asia. It is a country with a rich culture and history, and is home to many wonderful people. The country has a diverse landscape and climate, from the mountainous northern regions to the lush tropical south. The cuisine of Vietnam is also renowned for its unique flavors and spices. Tourism is an important industry in Vietnam, with many tourists visiting each year to explore the country’s many attractions. Vietnam is also a great place to explore the outdoors, with its many national parks and beaches. With its vibrant cities, stunning nature and friendly locals, Vietnam is a great destination for travelers of all kinds."
     }
 ]
