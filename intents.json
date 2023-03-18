@@ -3863,5 +3863,25 @@
             "không"
         ],
         "bot_response": "\n?Yes, I speak a little Vietnamese."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "write",
+            "50",
+            "words",
+            "about",
+            "hanoi",
+            "capital"
+        ],
+        "required_words": [
+            "write",
+            "50",
+            "words",
+            "about",
+            "hanoi",
+            "capital"
+        ],
+        "bot_response": "\nHaNoi is the capital of Vietnam and is a city full of culture, history and beauty. It is the second largest city in Vietnam and is located in the northern part of the country. The city is home to many ancient monuments, temples, and pagodas, as well as a bustling street life and a vibrant nightlife. HaNoi is known for its delicious food, with a variety of traditional dishes and street food available. The city is also known for its hospitality and friendly locals. HaNoi is a great place to explore, with many interesting sights and activities to enjoy. There are also many museums and galleries to explore, as well as parks, gardens and lakes. HaNoi is a great place to visit for those looking for a unique experience in Vietnam."
     }
 ]
