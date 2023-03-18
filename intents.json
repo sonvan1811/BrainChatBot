@@ -3981,5 +3981,25 @@
             "it"
         ],
         "bot_response": "\nIt đã làm thay đổi cuộc sống\nTạo ra những công nghệ thú vị\nLàm cho cuộc sống dễ dàng hơn\nVà làm cho thế giới trở nên gần hơn.Nó đã cung cấp cho chúng ta những công cụ để tạo ra những điều tuyệt vời\nVà làm cho chúng ta có thể thực hiện những điều tốt đẹp hơn\nTừ việc chia sẻ những kiến thức quý báu\nĐến việc giúp chúng ta tự nhận thức.It đã làm thay đổi cuộc sống\nVà làm cho chúng ta có thể thực hiện những điều tốt đẹp hơn\nVà cho phép chúng ta tận hưởng những công nghệ tuyệt vời\nVà làm cho thế giới trở nên gần hơn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "write",
+            "100",
+            "words",
+            "about",
+            "viet",
+            "nam"
+        ],
+        "required_words": [
+            "write",
+            "100",
+            "words",
+            "about",
+            "viet",
+            "nam"
+        ],
+        "bot_response": "\nVietnam is a Southeast Asian country known for its vibrant cities, stunning landscapes, and delicious cuisine. It is bordered by China, Laos, and Cambodia. The population of Vietnam is over 96 million people, making it one of the most populous countries in the world. The capital city of Vietnam is Hanoi, and the official language is Vietnamese. The country is home to a wide variety of cultures, religions, and languages. Vietnam is a beautiful country with stunning beaches, lush mountains, and vibrant cities. The people of Vietnam are known for their hospitality and kindness. Visitors to Vietnam can explore the country's rich history, enjoy its delicious cuisine, and take in the stunning natural beauty. Vietnam is a country of immense beauty and culture, and it is a great destination for anyone looking to experience something new and exciting."
     }
 ]
