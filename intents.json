@@ -3945,5 +3945,27 @@
             "hochiminh"
         ],
         "bot_response": "\nCityHo Chi Minh City, formerly known as Saigon, is the largest city in Vietnam. It is a vibrant city with a rich history and culture, and is home to more than 8 million people. The city is a mix of modern and traditional, with ancient temples and bustling markets. It is the economic and cultural hub of the country, and is a popular tourist destination. The city is known for its street food, which is some of the best in the world. It also has a lively nightlife, with many bars and clubs. Ho Chi Minh City is a great place to explore and experience the unique culture of Vietnam. It is a city of contrasts, with modern skyscrapers and centuries-old buildings. It is a city of great energy, and a place that is sure to leave a lasting impression."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "write",
+            "about",
+            "100",
+            "words",
+            "phở",
+            "hà",
+            "nội"
+        ],
+        "required_words": [
+            "write",
+            "about",
+            "100",
+            "words",
+            "phở",
+            "hà",
+            "nội"
+        ],
+        "bot_response": "\nPhở Hà Nội is a traditional Vietnamese noodle soup dish. It is made with a broth of beef or chicken, rice noodles, herbs, and spices. The broth is cooked for hours to bring out the full flavor of the ingredients. The noodles are usually served with a variety of meats such as beef, chicken, pork, and seafood. The dish is usually served with a plate of fresh herbs, chilli, and lime to add flavor. Phở Hà Nội is a popular dish in Vietnam and is enjoyed by locals and tourists alike. It is a light, flavorful, and comforting dish that can be enjoyed for breakfast, lunch, or dinner."
     }
 ]
