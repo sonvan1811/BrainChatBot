@@ -3917,5 +3917,15 @@
             "yêu"
         ],
         "bot_response": "\nTình yêu đẹp như một cánh hoa\nThời gian dài với nhau như một đời\nMỗi lần nhìn thấy nhau đều là một niềm vui\nMỗi lần hôn nhau đều là một niềm hạnh phúcTình yêu là những lời nói yêu thương\nTình yêu là những ánh mắt thật sâu sắc\nTình yêu là những cảm xúc thật dễ thương\nTình yêu là những điều tuyệt vời nhất trên đờiTình yêu là những hành động thật ý nghĩa\nTình yêu là những giây phút thật vinh quang\nTình yêu là những lời nói thật thân thiện\nTình yêu là những giờ phút tốt đẹp nhấtTình yêu là những giây phút thật lâu dài\nTình yêu là những niềm vui thật bền lâu\nTình yêu là những hành động thật ý nghĩa\nTình yêu là những giờ phút tốt đẹp nhất trên đời"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hih"
+        ],
+        "required_words": [
+            "hih"
+        ],
+        "bot_response": "\nat.wav# The file is a 16-bit, 44.1 kHz, stereo WAV file."
     }
 ]
