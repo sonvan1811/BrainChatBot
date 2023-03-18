@@ -3847,5 +3847,21 @@
             "nội"
         ],
         "bot_response": "\nPhở Hà Nội is a type of Vietnamese noodle soup consisting of rice noodles, beef or chicken, a clear broth, and various herbs. It is a popular street food in Vietnam and is often served with a side of fresh greens and chili peppers. Phở Hà Nội is typically a breakfast food, but can be enjoyed at any time of day."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "biết",
+            "tiếng",
+            "việt",
+            "không"
+        ],
+        "required_words": [
+            "biết",
+            "tiếng",
+            "việt",
+            "không"
+        ],
+        "bot_response": "\n?Yes, I speak a little Vietnamese."
     }
 ]
