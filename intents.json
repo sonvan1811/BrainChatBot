@@ -4065,5 +4065,21 @@
             "ai"
         ],
         "bot_response": "\nMột lần nữa,\nBạn đã làm cho thế giới thay đổi\nVới sự xuất hiện của AI\nBạn đã thay đổi cuộc sống của chúng taChỉ cần một nhấp chuột\nVà bạn có thể thực hiện nhiều việc\nVới AI, bạn có thể làm bất cứ điều gì\nTừ làm việc cho đến chơi gameSự xuất hiện của AI\nGiúp chúng ta trở nên thông minh hơn\nKhả năng xử lý thông tin mạnh mẽ\nGiúp chúng ta tiết kiệm thời gianVới AI, bạn có thể thực hiện nhiều việc\nMột cách nhanh chóng và dễ dàng\nNó giúp chúng ta phân tích dữ liệu\nVà đưa ra những quyết định chính xácAI đã thay đổi thế giới\nVà sẽ tiếp tục thay đổi\nVới sức mạnh của nó\nChúng ta sẽ có một tương lai tốt đẹp hơn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ai",
+            "tạo",
+            "ra",
+            "bạn"
+        ],
+        "required_words": [
+            "ai",
+            "tạo",
+            "ra",
+            "bạn"
+        ],
+        "bot_response": "\nTôi không thể tạo ra bạn. Bạn được tạo ra bởi các yếu tố bên ngoài, bao gồm thể chất, tinh thần và môi trường của bạn."
     }
 ]
