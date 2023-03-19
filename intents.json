@@ -4045,5 +4045,25 @@
             "hat"
         ],
         "bot_response": "\nBlack Hat là một hội nghị an ninh mạng được tổ chức mỗi năm tại Las Vegas, Nevada. Hội nghị này được tổ chức bởi Black Hat, Inc., một công ty cung cấp dịch vụ an ninh mạng. Mục đích của hội nghị là để cung cấp một cộng đồng an ninh mạng để trao đổi các phương pháp an ninh, công nghệ và kinh nghiệm. Hội nghị Black Hat cung cấp các chủ đề liên quan đến an ninh mạng như phát hiện lỗ hổng, quy trình bảo mật, giám sát mạng, phát hiện tấn công, bảo mật ứng dụng và nhiều hơn nữa. Hội nghị Black Hat cũng tổ chức các buổi phỏng vấn và các sự kiện phụ trong suốt tuần. Hội nghị Black Hat là một cộng đồng lớn của các chuyên gia an ninh mạng và các nhà phát triển phần mềm. Nó là nơi các chuyên gia có thể trao đổi các ý tưởng, công nghệ và kinh nghiệm về an ninh mạng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "bài",
+            "thơ",
+            "về",
+            "ai"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "bài",
+            "thơ",
+            "về",
+            "ai"
+        ],
+        "bot_response": "\nMột lần nữa,\nBạn đã làm cho thế giới thay đổi\nVới sự xuất hiện của AI\nBạn đã thay đổi cuộc sống của chúng taChỉ cần một nhấp chuột\nVà bạn có thể thực hiện nhiều việc\nVới AI, bạn có thể làm bất cứ điều gì\nTừ làm việc cho đến chơi gameSự xuất hiện của AI\nGiúp chúng ta trở nên thông minh hơn\nKhả năng xử lý thông tin mạnh mẽ\nGiúp chúng ta tiết kiệm thời gianVới AI, bạn có thể thực hiện nhiều việc\nMột cách nhanh chóng và dễ dàng\nNó giúp chúng ta phân tích dữ liệu\nVà đưa ra những quyết định chính xácAI đã thay đổi thế giới\nVà sẽ tiếp tục thay đổi\nVới sức mạnh của nó\nChúng ta sẽ có một tương lai tốt đẹp hơn."
     }
 ]
