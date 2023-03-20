@@ -5,7 +5,8 @@
             "hello",
             "hi",
             "hey",
-            "hú"
+            "hú",
+            "hí"
         ],
         "bot_response": "Hello !",
         "required_words": []
@@ -18,7 +19,7 @@
             "meet",
             "you"
         ],
-        "bot_response": "Nice to meet you !",
+        "bot_response": "Me too",
         "required_words": [
             "nice",
             "meet",
@@ -2368,7 +2369,6 @@
         "user_input": [
             "hãy",
             "cho",
-            "tôi",
             "biết",
             "về",
             "backend",
@@ -2377,7 +2377,6 @@
         "required_words": [
             "hãy",
             "cho",
-            "tôi",
             "biết",
             "về",
             "backend",
@@ -2388,9 +2387,7 @@
     {
         "response_type": "answer",
         "user_input": [
-            "chương",
-            "trình",
-            "Python",
+            "python",
             "tính",
             "tích",
             "từ",
@@ -2399,9 +2396,7 @@
             "n"
         ],
         "required_words": [
-            "chương",
-            "trình",
-            "Python",
+            "python",
             "tính",
             "tích",
             "từ",
@@ -2414,7 +2409,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "bạn",
             "ăn",
             "gì",
             "mà",
@@ -2423,7 +2417,6 @@
             "thế"
         ],
         "required_words": [
-            "bạn",
             "ăn",
             "gì",
             "mà",
@@ -2470,22 +2463,20 @@
             "có",
             "đẹp",
             "trai",
-            "ko"
+            "không"
         ],
         "required_words": [
             "sơn",
             "có",
             "đẹp",
             "trai",
-            "ko"
+            "không"
         ],
-        "bot_response": "\nCâu trả lời là có. Sơn có thể đẹp trai nếu họ sử dụng một lựa chọn trang điểm phù hợp và động lực để duy trì một lối sống sức khỏe. Họ cũng cần phải cố gắng để tạo ra một hình ảnh tốt về mình bằng cách chọn một trang phục phù hợp và chọn những mẫu tóc thích hợp."
+        "bot_response": "\nChắc chắn là có rồi"
     },
     {
         "response_type": "answer",
         "user_input": [
-            "hãy",
-            "viết",
             "chương",
             "trình",
             "kiểm",
@@ -2493,12 +2484,9 @@
             "số",
             "hoàn",
             "hảo",
-            "bằng",
             "pascal"
         ],
         "required_words": [
-            "hãy",
-            "viết",
             "chương",
             "trình",
             "kiểm",
@@ -2506,7 +2494,6 @@
             "số",
             "hoàn",
             "hảo",
-            "bằng",
             "pascal"
         ],
         "bot_response": "\nprogram CheckPerfectNumber;var\n  n, i, sum: Integer;begin\n  Write('Nhap n: ');\n  ReadLn(n);\n  sum := 0;\n  for i := 1 to n - 1 do\n  begin\n    if n mod i = 0 then\n      sum := sum + i;\n  end;\n  if sum = n then\n    Writeln(n, ' la so hoan hao')\n  else\n    Writeln(n, ' khong phai la so hoan hao');\n  ReadLn;\nend."
@@ -2617,7 +2604,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "bạn",
             "biết",
             "lập",
             "trình",
@@ -2625,7 +2611,6 @@
             "không"
         ],
         "required_words": [
-            "bạn",
             "biết",
             "lập",
             "trình",
@@ -2637,8 +2622,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "code",
             "python",
             "tính",
             "trung",
@@ -2648,14 +2631,9 @@
             "danh",
             "sách",
             "được",
-            "nhập",
-            "từ",
-            "bàn",
-            "phím"
+            "nhập"
         ],
         "required_words": [
-            "viết",
-            "code",
             "python",
             "tính",
             "trung",
@@ -2665,10 +2643,7 @@
             "danh",
             "sách",
             "được",
-            "nhập",
-            "từ",
-            "bàn",
-            "phím"
+            "nhập"
         ],
         "bot_response": "\n# Khai báo list\nlist_num = []# Nhập vào các phần tử\nn = int(input(\"Nhập số phần tử của list: \"))\nfor i in range(0, n):\n    print(\"Nhập phần tử thứ\", i + 1)\n    item = int(input())\n    list_num.append(item)# Tính tổng các phần tử trong list\ntotal = 0\nfor item in list_num:\n    total += item# Tính trung bình cộng\navg = total / n# In ra kết quả\nprint(\"Trung bình cộng của list là\", avg)"
     },
@@ -2746,27 +2721,7 @@
             "i",
             "fine"
         ],
-        "bot_response": "\n.Però, quando si tratta di scegliere una fotocamera digitale, ci sono alcune cose da tenere a mente. In primo luogo, è importante considerare il tipo di fotografia che si desidera realizzare. Alcune fotocamere digitali sono più adatte per la fotografia di paesaggi, mentre altre sono più adatte per la fotografia di ritratti. Inoltre, è importante considerare il budget disponibile. Le fotocamere digitali sono disponibili in una vasta gamma di prezzi, a seconda delle caratteristiche offerte. Infine, è importante considerare la facilità d'uso della fotocamera. Alcune fotocamere digitali possono essere molto complesse da usare, mentre altre possono essere più semplici da usare. Prima di acquistare una fotocamera digitale, è importante prendere in considerazione tutti questi fattori."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "hí"
-        ],
-        "required_words": [
-            "hí"
-        ],
-        "bot_response": "\nvásokA személyes találkozók és az online beszélgetések a legjobb módja annak, hogy meghívj egy lányt. A személyes találkozók különösen fontosak, mert lehetővé teszik, hogy személyesen is megismerkedjen a lánnyal, és jobban megértsd, hogy mit szeretne. A személyes találkozókon túl az online beszélgetések is fontosak, mert segítenek megismerni a lányt, és megérteni a személyiségét. Az online beszélgetések lehetővé teszik, hogy kérdezd a lányt a különböző témákról, és jobban megértsd, hogy mit gondol és szeret. Az online beszélgetések segíthetnek abban is, hogy jobban megértsd a lányt, és jobban megismerd a személyiségét."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "hí"
-        ],
-        "required_words": [
-            "hí"
-        ],
-        "bot_response": "\nvásokA szerződéses partner jelenlegi feladatainak teljesítéseA szerződéses partner jelenlegi feladatainak teljesítése A szerződéses partner által nyújtott szolgáltatások színvonalának megőrzéseÚj szolgáltatások bevezetése és a meglévő szolgáltatások fejlesztéseA szerződéses partner által nyújtott szolgáltatások minőségének javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának növeléseA szerződéses partner által nyújtott szolgáltatások innovatív megoldásainak biztosításaA szerződéses partner által nyújtott szolgáltatások árának csökkentéseA szerződéses partner által nyújtott szolgáltatások szélesebb körű elérhetőségének biztosításaA szerződéses partner által nyújtott szolgáltatások igényeinek kielégítéseA szerződéses partner által nyújtott szolgáltatások költségeinek csökkentéseA szerződéses partner által nyújtott szolgáltatások minőségének és biztonságának javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának növeléseA szerződéses partner által nyújtott szolgáltatások ügyfélélményének javításaA szerződéses partner által nyújtott szolgáltatások elérhetőségének javításaA szerződéses partner által nyújtott szolgáltatások hatékonyságának, minőségének és biztonságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások ügyfélélményének növeléseA szerződéses partner által nyújtott szolgáltatások elérhetőségének és biztonságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások költségeinek csökkentéseA szerződéses partner által nyújtott szolgáltatások hatékonyságának és megbízhatóságának folyamatos javításaA szerződéses partner által nyújtott szolgáltatások innovatív megoldásainak biztosításaA szerződéses partner"
+        "bot_response": "\nWell !"
     },
     {
         "response_type": "answer",
@@ -2808,15 +2763,13 @@
             "cảm",
             "ơn",
             "bạn",
-            "nhiều",
-            "nhen"
+            "nhiều"
         ],
         "required_words": [
             "cảm",
             "ơn",
             "bạn",
-            "nhiều",
-            "nhen"
+            "nhiều"
         ],
         "bot_response": "\nKhông có gì. Tôi rất vui được giúp đỡ bạn."
     },
@@ -2832,39 +2785,7 @@
             "ăn",
             "gì"
         ],
-        "bot_response": "\nTôi đang ăn một bữa cơm tối."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bây",
-            "giờ",
-            "là",
-            "buổi",
-            "sáng",
-            "mà",
-            "tại",
-            "sao",
-            "bạn",
-            "đang",
-            "ăn",
-            "tối"
-        ],
-        "required_words": [
-            "bây",
-            "giờ",
-            "là",
-            "buổi",
-            "sáng",
-            "mà",
-            "tại",
-            "sao",
-            "bạn",
-            "đang",
-            "ăn",
-            "tối"
-        ],
-        "bot_response": "\nTôi đang ăn tối vì tôi đang đi làm trễ. Tôi đã không có thời gian để ăn sáng."
+        "bot_response": "\nTôi ăn một bữa cơm tối."
     },
     {
         "response_type": "answer",
@@ -2901,22 +2822,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "bạn",
-            "ăn",
-            "cơm",
-            "chưa"
-        ],
-        "required_words": [
-            "bạn",
-            "ăn",
-            "cơm",
-            "chưa"
-        ],
-        "bot_response": "\nVâng, tôi đã ăn cơm."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
             "ăn",
             "tối",
             "chưa"
@@ -2926,21 +2831,7 @@
             "tối",
             "chưa"
         ],
-        "bot_response": "\nChào bạn,Có thể bạn có thể làm những việc sau đây để có một bữa tối vui vẻ:1. Chọn một món ăn tối thú vị: Tìm một món ăn tối thú vị và hấp dẫn để làm. Bạn có thể làm món ăn ngon của mình hoặc tìm một công thức mới để thử nghiệm.2. Trang trí bàn ăn: Đặt bàn ăn và trang trí nó như một bữa tiệc. Bạn có thể trang trí bằng các bộ bàn ăn, đồ ăn, đồ trang trí, v.v.3. Đọc một cuốn sách hay: Tìm một cuốn sách hay để đọc trong khi ăn tối. Đọc một truyện ngắn về những câu chuyện thú vị hoặc một cuốn sách giản dị.4. Chơi một trò chơi: Tìm một trò chơi để chơi với gia đình hoặc bạn bè. Có rất nhiều trò chơi trên thị trường, từ các trò chơi bài đến các trò chơi video.5. Đối thoại với nhau: Không có gì tuyệt vời hơn là nói chuyện với nhau trong bữa tối. Hãy chia sẻ những câu chuyện về cuộc sống, giới thiệu những ý tưởng mới và hỏi nhau các câu hỏi thú vị.Chúc bạn có một bữa tối vui vẻ!"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ăn",
-            "tối",
-            "chưa"
-        ],
-        "required_words": [
-            "ăn",
-            "tối",
-            "chưa"
-        ],
-        "bot_response": "\nChào bạn,Tối nay tôi đang có một số việc cần phải làm, nên tôi không thể đi chơi với bạn. Tôi rất tiếc vì vậy. Tôi sẽ cố gắng để chúng ta có thể có một buổi tối vui vẻ vào một ngày khác."
+        "bot_response": "\nChưa"
     },
     {
         "response_type": "answer",
@@ -2954,7 +2845,7 @@
             "gì",
             "chưa"
         ],
-        "bot_response": "\nXin lỗi, tôi không hiểu câu hỏi của bạn. Vui lòng giải thích thêm để tôi có thể trả lời câu hỏi của bạn."
+        "bot_response": "\nRồi"
     },
     {
         "response_type": "answer",
@@ -2968,161 +2859,7 @@
             "gì",
             "vậy"
         ],
-        "bot_response": "\nXin lỗi, tôi không hiểu bạn đang hỏi gì."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "có",
-            "thấy",
-            "ảnh",
-            "tôi",
-            "gửi",
-            "không"
-        ],
-        "required_words": [
-            "bạn",
-            "có",
-            "thấy",
-            "ảnh",
-            "tôi",
-            "gửi",
-            "không"
-        ],
-        "bot_response": "\nVâng, tôi có thể thấy ảnh bạn gửi."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "cho",
-            "tôi",
-            "1",
-            "đoạn",
-            "code",
-            "html",
-            "chúc",
-            "mừng",
-            "ngày",
-            "valentine",
-            "với",
-            "background",
-            "màu",
-            "hồng",
-            "nhạt",
-            "và",
-            "trái",
-            "tim",
-            "màu",
-            "hồng",
-            "đậm"
-        ],
-        "required_words": [
-            "viết",
-            "cho",
-            "tôi",
-            "1",
-            "đoạn",
-            "code",
-            "html",
-            "chúc",
-            "mừng",
-            "ngày",
-            "valentine",
-            "với",
-            "background",
-            "màu",
-            "hồng",
-            "nhạt",
-            "và",
-            "trái",
-            "tim",
-            "màu",
-            "hồng",
-            "đậm"
-        ],
-        "bot_response": "\n<html>\n   <head>\n      <title>Chúc mừng ngày Valentine</title>\n      <style>\n         body {\n            background-color: #FFC0CB;\n         }\n         .heart {\n            width: 100px;\n            height: 100px;\n            background-color: #FF1493;\n            position: relative;\n            margin: 0 auto;\n         }\n         .heart:before,\n         .heart:after {\n            content: \"\";\n            position: absolute;\n            background: #FF1493;\n            width: 100px;\n            height: 100px;\n            top: 0;\n            left: 50px;\n            border-radius: 50%;\n            transform: rotate(-45deg);\n            transform-origin: 0 100%;\n         }\n         .heart:after {\n            left: 0;\n            transform: rotate(45deg);\n            transform-origin: 100% 100%;\n         }\n      </style>\n   </head>\n   <body>\n      <h1>Chúc mừng ngày Valentine!</h1>\n      <div class=\"heart\"></div>\n   </body>\n</html>"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "có",
-            "thấy",
-            "chữ",
-            "trong",
-            "ảnh",
-            "không"
-        ],
-        "required_words": [
-            "bạn",
-            "có",
-            "thấy",
-            "chữ",
-            "trong",
-            "ảnh",
-            "không"
-        ],
-        "bot_response": "\nKhông, tôi không thể nhìn thấy chữ trong ảnh đó."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "nghĩa",
-            "là",
-            "bạn",
-            "chỉ",
-            "nhìn",
-            "thấy",
-            "ảnh",
-            "nhưng",
-            "không",
-            "phân",
-            "tích",
-            "được",
-            "hình",
-            "ảnh",
-            "đúng",
-            "không"
-        ],
-        "required_words": [
-            "nghĩa",
-            "là",
-            "bạn",
-            "chỉ",
-            "nhìn",
-            "thấy",
-            "ảnh",
-            "nhưng",
-            "không",
-            "phân",
-            "tích",
-            "được",
-            "hình",
-            "ảnh",
-            "đúng",
-            "không"
-        ],
-        "bot_response": "\nKhông, điều đó không đúng. Việc phân tích hình ảnh là một trong những công việc chính của một hệ thống nhận dạng hình ảnh. Nó có thể giúp hệ thống phát hiện và phân loại các đối tượng trong hình ảnh, như vậy hệ thống có thể đưa ra các kết luận về hình ảnh."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ảnh",
-            "này",
-            "là",
-            "ảnh",
-            "gì"
-        ],
-        "required_words": [
-            "ảnh",
-            "này",
-            "là",
-            "ảnh",
-            "gì"
-        ],
-        "bot_response": "\nĐây là ảnh một ngôi nhà."
+        "bot_response": "\nTôi tên là Hevin"
     },
     {
         "response_type": "answer",
@@ -3132,7 +2869,7 @@
         "required_words": [
             "ok"
         ],
-        "bot_response": "\n.NoArgsConstructor;@Data\n@NoArgsConstructor\n@AllArgsConstructor\npublic class AuthResponse {\n    private String token;\n}"
+        "bot_response": "\nOK"
     },
     {
         "response_type": "answer",
@@ -3155,87 +2892,11 @@
     {
         "response_type": "answer",
         "user_input": [
-            "bạn",
-            "có",
-            "biết",
-            "mình",
-            "không"
-        ],
-        "required_words": [
-            "bạn",
-            "có",
-            "biết",
-            "mình",
-            "không"
-        ],
-        "bot_response": "\nKhông, tôi không biết bạn."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "mình",
-            "là",
-            "sơn",
-            "nhé"
-        ],
-        "required_words": [
-            "mình",
-            "là",
-            "sơn",
-            "nhé"
-        ],
-        "bot_response": "\nXin chào! Tôi là Sơn. Rất vui được gặp bạn!"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "tên",
-            "là",
-            "hevin",
-            "còn",
-            "tôi",
-            "là",
-            "sơn",
-            "mà"
-        ],
-        "required_words": [
-            "bạn",
-            "tên",
-            "là",
-            "hevin",
-            "còn",
-            "tôi",
-            "là",
-            "sơn",
-            "mà"
-        ],
-        "bot_response": "\nXin chào Hevin và Sơn! Rất vui được gặp bạn."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "là",
-            "hevin"
-        ],
-        "required_words": [
-            "bạn",
-            "là",
-            "hevin"
-        ],
-        "bot_response": "\nXin lỗi, tôi không hiểu câu hỏi của bạn."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "tôi",
             "đi",
             "ngủ",
             "đây"
         ],
         "required_words": [
-            "tôi",
             "đi",
             "ngủ",
             "đây"
@@ -3263,16 +2924,12 @@
         "user_input": [
             "cảm",
             "ơn",
-            "bạn",
-            "nhiều",
-            "nhé"
+            "bạn"
         ],
         "required_words": [
             "cảm",
             "ơn",
-            "bạn",
-            "nhiều",
-            "nhé"
+            "bạn"
         ],
         "bot_response": "\nKhông có gì để cảm ơn. Tôi rất hân hạnh được giúp đỡ bạn."
     },
@@ -3289,42 +2946,6 @@
             "tốt"
         ],
         "bot_response": "\nCảm ơn rất nhiều!"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "hiểu",
-            "ny",
-            "là",
-            "gì"
-        ],
-        "required_words": [
-            "bạn",
-            "hiểu",
-            "ny",
-            "là",
-            "gì"
-        ],
-        "bot_response": "\nNy là viết tắt của \"những người bạn\"."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ny",
-            "viết",
-            "tắt",
-            "là",
-            "gì"
-        ],
-        "required_words": [
-            "ny",
-            "viết",
-            "tắt",
-            "là",
-            "gì"
-        ],
-        "bot_response": "\nGDP là Gross Domestic Product, viết tắt là GDP."
     },
     {
         "response_type": "answer",
@@ -3379,10 +3000,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "hãy",
-            "tìm",
-            "hiểu",
-            "và",
             "nhận",
             "xét",
             "tình",
@@ -3394,10 +3011,6 @@
             "nam"
         ],
         "required_words": [
-            "hãy",
-            "tìm",
-            "hiểu",
-            "và",
             "nhận",
             "xét",
             "tình",
@@ -3442,7 +3055,7 @@
             "việt",
             "nam"
         ],
-        "bot_response": "\n hiện nayViệc làm tại Việt Nam hiện nay đang phát triển mạnh mẽ. Nhiều công ty đang tuyển dụng nhân sự có năng lực cao để giúp họ phát triển kinh doanh. Việc làm cũng đang được phát triển nhanh chóng bởi sự hỗ trợ của các chính phủ và các doanh nghiệp.Việc làm tại Việt Nam hiện nay có nhiều cơ hội hợp lý để thăng tiến. Ngành nghề làm việc đang phát triển nhanh chóng như công nghệ thông tin, dịch vụ khách hàng, bán hàng, và nhiều ngành nghề khác.Việc làm tại Việt Nam hiện nay cũng đảm bảo sự bảo vệ lao động. Các doanh nghiệp đang cố gắng để đảm bảo rằng nhân viên của họ được trả lương hợp lý và được bảo vệ quyền lợi của họ.Tổng quan, tình hình làm việc ở Việt Nam hiện nay rất tích cực và đang có những bước phát triển mạnh mẽ. Nhiều cơ hội hợp lý để thăng tiến đang được tạo ra và các doanh nghiệp đang cố gắng để đảm bảo quyền lợi của nhân viên."
+        "bot_response": "\nHiện nay, Việc làm tại Việt Nam hiện nay đang phát triển mạnh mẽ. Nhiều công ty đang tuyển dụng nhân sự có năng lực cao để giúp họ phát triển kinh doanh. Việc làm cũng đang được phát triển nhanh chóng bởi sự hỗ trợ của các chính phủ và các doanh nghiệp.Việc làm tại Việt Nam hiện nay có nhiều cơ hội hợp lý để thăng tiến. Ngành nghề làm việc đang phát triển nhanh chóng như công nghệ thông tin, dịch vụ khách hàng, bán hàng, và nhiều ngành nghề khác.Việc làm tại Việt Nam hiện nay cũng đảm bảo sự bảo vệ lao động. Các doanh nghiệp đang cố gắng để đảm bảo rằng nhân viên của họ được trả lương hợp lý và được bảo vệ quyền lợi của họ.Tổng quan, tình hình làm việc ở Việt Nam hiện nay rất tích cực và đang có những bước phát triển mạnh mẽ. Nhiều cơ hội hợp lý để thăng tiến đang được tạo ra và các doanh nghiệp đang cố gắng để đảm bảo quyền lợi của nhân viên."
     },
     {
         "response_type": "answer",
@@ -3530,7 +3143,6 @@
         ],
         "required_words": [
             "ngày",
-            "mồng",
             "8",
             "tháng",
             "3",
@@ -3538,37 +3150,7 @@
             "ngày",
             "gì"
         ],
-        "bot_response": "\nNgày 8 tháng 3 là Chủ Nhật, ngày đầu tiên của Tuần Lễ Phục Sinh."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ngày",
-            "8",
-            "tháng",
-            "3",
-            "là",
-            "ngày",
-            "quốc",
-            "tế",
-            "phụ",
-            "nữ",
-            "mà"
-        ],
-        "required_words": [
-            "ngày",
-            "8",
-            "tháng",
-            "3",
-            "là",
-            "ngày",
-            "quốc",
-            "tế",
-            "phụ",
-            "nữ",
-            "mà"
-        ],
-        "bot_response": "\nNgày 8 tháng 3 được công nhận là Ngày Quốc tế Phụ nữ. Ngày này được tổ chức hàng năm để thống nhất các quyền lợi của phụ nữ và các nỗ lực để hạn chế bất công và bạo lực chống lại phụ nữ. Ngày cũng để nhắc nhở cộng đồng về việc cần thiết phải thay đổi các nhận thức và thói quen đối với phụ nữ."
+        "bot_response": "\nNgày 8 tháng 3 được công nhận là Ngày Quốc tế Phụ nữ. Ngày này được tổ chức hàng năm để thống nhất các quyền lợi của phụ nữ và các nỗ lực để hạn chế bất công và bạo lực chống lại phụ nữ. Ngày cũng để nhắc nhở cộng đồng về việc cần thiết phải thay đổi các nhận thức và thói quen đối với phụ nữ"
     },
     {
         "response_type": "answer",
@@ -3584,7 +3166,7 @@
             "know",
             "english"
         ],
-        "bot_response": "\n\nYes, I know English."
+        "bot_response": "\nYes, I know English."
     },
     {
         "response_type": "answer",
@@ -3709,7 +3291,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "write",
             "about",
             "50",
             "words",
@@ -3717,7 +3298,6 @@
             "vietnam"
         ],
         "required_words": [
-            "write",
             "about",
             "50",
             "words",
@@ -3756,7 +3336,7 @@
             "love",
             "me"
         ],
-        "bot_response": "\nThat's a very personal question."
+        "bot_response": "\nOhh, I Do"
     },
     {
         "response_type": "answer",
@@ -3777,49 +3357,17 @@
     {
         "response_type": "answer",
         "user_input": [
-            "write",
-            "100",
-            "words",
-            "in",
-            "sơn",
-            "đẹp",
-            "trai"
-        ],
-        "required_words": [
-            "write",
-            "100",
-            "words",
-            "in",
-            "sơn",
-            "đẹp",
-            "trai"
-        ],
-        "bot_response": "\nSơn Đẹp Trai là một thị trấn nhỏ ở tỉnh Quảng Bình. Nó có những bãi biển trắng sáng và những bờ biển bao quanh. Những người dân địa phương thích đi đến bãi biển để tắm biển và thưởng thức những món ăn từ biển. Bãi biển còn có những hoạt động như bơi lội, đi dạo, lặn biển, để tận hưởng những điều tuyệt vời nhất. Ngoài ra, thị trấn còn có những khu rừng rậm, những đồi non và những con sông. Những người dân địa phương thích đi dạo, đi bộ, đi thuyền và câu cá. Sơn Đẹp Trai còn có những di tích lịch sử và văn hóa hấp dẫn, nhưng những đền thờ cổ và những công trình kiến trúc. Đây là một địa điểm tuyệt vời để du lịch, thưởng thức và khám phá."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "vì",
-            "sao",
-            "khi",
-            "ta",
             "thấy",
             "đèn",
             "đỏ",
-            "ta",
             "dừng",
             "xe",
             "lại"
         ],
         "required_words": [
-            "vì",
-            "sao",
-            "khi",
-            "ta",
             "thấy",
             "đèn",
             "đỏ",
-            "ta",
             "dừng",
             "xe",
             "lại"
@@ -3829,7 +3377,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "write",
             "50",
             "words",
             "about",
@@ -3838,7 +3385,6 @@
             "nội"
         ],
         "required_words": [
-            "write",
             "50",
             "words",
             "about",
@@ -3862,12 +3408,11 @@
             "việt",
             "không"
         ],
-        "bot_response": "\n?Yes, I speak a little Vietnamese."
+        "bot_response": "\nYes, tôi biết 1 chút về tiếng Việt"
     },
     {
         "response_type": "answer",
         "user_input": [
-            "write",
             "50",
             "words",
             "about",
@@ -3875,7 +3420,6 @@
             "capital"
         ],
         "required_words": [
-            "write",
             "50",
             "words",
             "about",
@@ -3887,14 +3431,12 @@
     {
         "response_type": "answer",
         "user_input": [
-            "write",
             "50",
             "words",
             "about",
             "vietnam"
         ],
         "required_words": [
-            "write",
             "50",
             "words",
             "about",
@@ -3916,17 +3458,7 @@
             "tình",
             "yêu"
         ],
-        "bot_response": "\nTình yêu đẹp như một cánh hoa\nThời gian dài với nhau như một đời\nMỗi lần nhìn thấy nhau đều là một niềm vui\nMỗi lần hôn nhau đều là một niềm hạnh phúcTình yêu là những lời nói yêu thương\nTình yêu là những ánh mắt thật sâu sắc\nTình yêu là những cảm xúc thật dễ thương\nTình yêu là những điều tuyệt vời nhất trên đờiTình yêu là những hành động thật ý nghĩa\nTình yêu là những giây phút thật vinh quang\nTình yêu là những lời nói thật thân thiện\nTình yêu là những giờ phút tốt đẹp nhấtTình yêu là những giây phút thật lâu dài\nTình yêu là những niềm vui thật bền lâu\nTình yêu là những hành động thật ý nghĩa\nTình yêu là những giờ phút tốt đẹp nhất trên đời"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "hih"
-        ],
-        "required_words": [
-            "hih"
-        ],
-        "bot_response": "\nat.wav# The file is a 16-bit, 44.1 kHz, stereo WAV file."
+        "bot_response": "\nTình yêu đẹp như một cánh hoa\nThời gian dài với nhau như một đời\nMỗi lần nhìn thấy nhau đều là một niềm vui\nMỗi lần hôn nhau đều là một niềm hạnh phúc\nTình yêu là những lời nói yêu thương\nTình yêu là những ánh mắt thật sâu sắc\nTình yêu là những cảm xúc thật dễ thương\nTình yêu là những điều tuyệt vời nhất trên đời\nTình yêu là những hành động thật ý nghĩa\nTình yêu là những giây phút thật vinh quang\nTình yêu là những lời nói thật thân thiện\nTình yêu là những giờ phút tốt đẹp nhất\nTình yêu là những giây phút thật lâu dài\nTình yêu là những niềm vui thật bền lâu\nTình yêu là những hành động thật ý nghĩa\nTình yêu là những giờ phút tốt đẹp nhất trên đời"
     },
     {
         "response_type": "answer",
@@ -3949,7 +3481,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "write",
             "about",
             "100",
             "words",
@@ -3958,7 +3489,6 @@
             "nội"
         ],
         "required_words": [
-            "write",
             "about",
             "100",
             "words",
@@ -3980,12 +3510,11 @@
             "về",
             "it"
         ],
-        "bot_response": "\nIt đã làm thay đổi cuộc sống\nTạo ra những công nghệ thú vị\nLàm cho cuộc sống dễ dàng hơn\nVà làm cho thế giới trở nên gần hơn.Nó đã cung cấp cho chúng ta những công cụ để tạo ra những điều tuyệt vời\nVà làm cho chúng ta có thể thực hiện những điều tốt đẹp hơn\nTừ việc chia sẻ những kiến thức quý báu\nĐến việc giúp chúng ta tự nhận thức.It đã làm thay đổi cuộc sống\nVà làm cho chúng ta có thể thực hiện những điều tốt đẹp hơn\nVà cho phép chúng ta tận hưởng những công nghệ tuyệt vời\nVà làm cho thế giới trở nên gần hơn."
+        "bot_response": "\nIt đã làm thay đổi cuộc sống\nTạo ra những công nghệ thú vị\nLàm cho cuộc sống dễ dàng hơn\nVà làm cho thế giới trở nên gần hơn.Nó đã cung cấp cho chúng ta những công cụ để tạo ra những điều tuyệt vời\nVà làm cho chúng ta có thể thực hiện những điều tốt đẹp hơn\nTừ việc chia sẻ những kiến thức quý báu\nĐến việc giúp chúng ta tự nhận thức.\nIt đã làm thay đổi cuộc sống\nVà làm cho chúng ta có thể thực hiện những điều tốt đẹp hơn\nVà cho phép chúng ta tận hưởng những công nghệ tuyệt vời\nVà làm cho thế giới trở nên phát triển hơn."
     },
     {
         "response_type": "answer",
         "user_input": [
-            "write",
             "100",
             "words",
             "about",
@@ -3993,7 +3522,6 @@
             "nam"
         ],
         "required_words": [
-            "write",
             "100",
             "words",
             "about",
@@ -4014,32 +3542,22 @@
             "tình",
             "yêu"
         ],
-        "bot_response": "\nTóc đen của anh\nLại làm tôi thổn thức\nVới cành hoa trong tay\nAnh đến đón tôiMắt đẹp của anh\nCó sắc nở như ánh nắng\nNhững nụ cười của anh\nLàm tôi trở nên yêu thươngTay anh thật nhẹ nhàng\nĐể tôi cảm nhận được\nSự yêu thương của anh\nLàm tôi cảm thấy an lànhTình yêu của anh\nLàm tôi bị thu hút\nTôi không thể phủ nhận\nRằng tôi đã yêu anh"
+        "bot_response": "\nTóc đen của anh\nLại làm tôi thổn thức\nVới cành hoa trong tay\nAnh đến đón tôi\nMắt đẹp của anh\nCó sắc nở như ánh nắng\nNhững nụ cười của anh\nLàm tôi trở nên yêu thương\nTay anh thật nhẹ nhàng\nĐể tôi cảm nhận được\nSự yêu thương của anh\nLàm tôi cảm thấy an lành\nTình yêu của anh\nLàm tôi bị thu hút\nTôi không thể phủ nhận\nRằng tôi đã yêu anh"
     },
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "1",
-            "đoạn",
-            "văn",
             "khoảng",
             "100",
             "từ",
-            "nói",
             "về",
             "black",
             "hat"
         ],
         "required_words": [
-            "viết",
-            "1",
-            "đoạn",
-            "văn",
             "khoảng",
             "100",
             "từ",
-            "nói",
             "về",
             "black",
             "hat"
@@ -4049,22 +3567,16 @@
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "1",
             "bài",
             "thơ",
-            "về",
             "ai"
         ],
         "required_words": [
-            "viết",
-            "1",
             "bài",
             "thơ",
-            "về",
             "ai"
         ],
-        "bot_response": "\nMột lần nữa,\nBạn đã làm cho thế giới thay đổi\nVới sự xuất hiện của AI\nBạn đã thay đổi cuộc sống của chúng taChỉ cần một nhấp chuột\nVà bạn có thể thực hiện nhiều việc\nVới AI, bạn có thể làm bất cứ điều gì\nTừ làm việc cho đến chơi gameSự xuất hiện của AI\nGiúp chúng ta trở nên thông minh hơn\nKhả năng xử lý thông tin mạnh mẽ\nGiúp chúng ta tiết kiệm thời gianVới AI, bạn có thể thực hiện nhiều việc\nMột cách nhanh chóng và dễ dàng\nNó giúp chúng ta phân tích dữ liệu\nVà đưa ra những quyết định chính xácAI đã thay đổi thế giới\nVà sẽ tiếp tục thay đổi\nVới sức mạnh của nó\nChúng ta sẽ có một tương lai tốt đẹp hơn."
+        "bot_response": "\nMột lần nữa,\nBạn đã làm cho thế giới thay đổi\nVới sự xuất hiện của AI\nBạn đã thay đổi cuộc sống của chúng ta\nChỉ cần một nhấp chuột\nVà bạn có thể thực hiện nhiều việc\nVới AI, bạn có thể làm bất cứ điều gì\nTừ làm việc cho đến chơi game\nSự xuất hiện của AI\nGiúp chúng ta trở nên thông minh hơn\nKhả năng xử lý thông tin mạnh mẽ\nGiúp chúng ta tiết kiệm thời gian\nVới AI, bạn có thể thực hiện nhiều việc\nMột cách nhanh chóng và dễ dàng\nNó giúp chúng ta phân tích dữ liệu\nVà đưa ra những quyết định chính xác\nAI đã thay đổi thế giới\nVà sẽ tiếp tục thay đổi\nVới sức mạnh của nó\nChúng ta sẽ có một tương lai tốt đẹp hơn."
     },
     {
         "response_type": "answer",
@@ -4080,46 +3592,22 @@
             "ra",
             "bạn"
         ],
-        "bot_response": "\nTôi không thể tạo ra bạn. Bạn được tạo ra bởi các yếu tố bên ngoài, bao gồm thể chất, tinh thần và môi trường của bạn."
+        "bot_response": "\nNgười tạo ra tôi đó là Văn Sơn (MrS)"
     },
     {
         "response_type": "answer",
         "user_input": [
-            "dạo",
-            "này",
             "khoẻ",
             "không",
             "anh",
             "bạn"
         ],
         "required_words": [
-            "dạo",
-            "này",
             "khoẻ",
             "không",
             "anh",
             "bạn"
         ],
-        "bot_response": "\nTôi rất vui được nghe rằng anh bạn của tôi đang khỏe mạnh. Chúc anh bạn luôn luôn có sức khỏe tốt!"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "11"
-        ],
-        "required_words": [
-            "11"
-        ],
-        "bot_response": "\n2"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "12B1"
-        ],
-        "required_words": [
-            "12B1"
-        ],
-        "bot_response": "\n2"
+        "bot_response": "\nYes. Chúc anh bạn luôn luôn có sức khỏe tốt!"
     }
 ]
