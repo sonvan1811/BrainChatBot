@@ -4111,5 +4111,15 @@
             "11"
         ],
         "bot_response": "\n2"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "12B1"
+        ],
+        "required_words": [
+            "12B1"
+        ],
+        "bot_response": "\n2"
     }
 ]
