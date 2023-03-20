@@ -4081,5 +4081,25 @@
             "bạn"
         ],
         "bot_response": "\nTôi không thể tạo ra bạn. Bạn được tạo ra bởi các yếu tố bên ngoài, bao gồm thể chất, tinh thần và môi trường của bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "dạo",
+            "này",
+            "khoẻ",
+            "không",
+            "anh",
+            "bạn"
+        ],
+        "required_words": [
+            "dạo",
+            "này",
+            "khoẻ",
+            "không",
+            "anh",
+            "bạn"
+        ],
+        "bot_response": "\nTôi rất vui được nghe rằng anh bạn của tôi đang khỏe mạnh. Chúc anh bạn luôn luôn có sức khỏe tốt!"
     }
 ]
