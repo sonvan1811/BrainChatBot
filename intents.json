@@ -3627,5 +3627,15 @@
             "python"
         ],
         "bot_response": "\n# Khai báo 2 biến\na = 10\nb = 20# Tính tổng\ntotal = a + b # In ra kết quả\nprint(\"Tổng của a và b là:\", total)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "helllo"
+        ],
+        "required_words": [
+            "helllo"
+        ],
+        "bot_response": "\nHello!"
     }
 ]
