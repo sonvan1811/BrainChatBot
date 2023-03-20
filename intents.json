@@ -3609,5 +3609,15 @@
             "bạn"
         ],
         "bot_response": "\nYes. Chúc anh bạn luôn luôn có sức khỏe tốt!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viE1BABFt20C491oE1BAA1n20code20Python20tC3ADnh20Fibonacci"
+        ],
+        "required_words": [
+            "viE1BABFt20C491oE1BAA1n20code20Python20tC3ADnh20Fibonacci"
+        ],
+        "bot_response": "\ndef Fibonacci(n): \n    if n<0: \n        print(\"Không hợp lệ\") \n    elif n==1: \n        return 0\n    elif n==2: \n        return 1\n    else: \n        return Fibonacci(n-1)+Fibonacci(n-2) \n  \n# Driver Code \nprint(Fibonacci(9))"
     }
 ]
