@@ -3644,34 +3644,6 @@
             "viết",
             "đoạn",
             "văn",
-            "khoảng",
-            "200",
-            "từ",
-            "về",
-            "nhóm",
-            "headless",
-            "snake"
-        ],
-        "required_words": [
-            "viết",
-            "đoạn",
-            "văn",
-            "khoảng",
-            "200",
-            "từ",
-            "về",
-            "nhóm",
-            "headless",
-            "snake"
-        ],
-        "bot_response": "\nNhóm Headless Snake là một nhóm nhạc rock của Scotland được thành lập vào năm 2004. Nhóm bao gồm hai thành viên chính là John Leckie và Paul Smith. Cả hai đều có nhiều kinh nghiệm trong các lĩnh vực âm nhạc như sản xuất, biên tập và thu âm.Nhóm đã phát hành hai album đầu tay, \"The Sign of the Snake\" và \"The Headless Snake\", và đã tổ chức nhiều chuyến lưu diễn trên toàn thế giới. Những bài hát của họ đã được trình bày trên các bảng xếp hạng âm nhạc, truyền hình và truyền thông.Âm nhạc của nhóm Headless Snake được mô tả là một sự kết hợp giữa rock cổ điển và rock hiện đại, với một nền âm nhạc đa dạng, thể hiện sự tự do và sự tự do trong sự sáng tạo. Âm nhạc của họ được đặc biệt nhận được sự ủng hộ từ cộng đồng fan hâm mộ.Nhóm đã trở thành một trong những nhóm nhạc được nhiều người biết đến và yêu thích nhất ở Scotland. Họ đã tổ chức nhiều sự kiện lớn và đã thu hút hàng triệu người tham gia. Họ đã từng đứng trước một số nhạc sĩ nổi tiếng như The Rolling Stones, Queen, Led Zeppelin và The Who.Nhóm Headless Snake đã trở thành một trong những nhóm nhạc rock hàng đầu của Scotland. Cả hai thành viên của họ đã đạt được nhiều thành công trong nghề nghiệp âm nhạc của họ và đã tạo ra những bài hát độc đ"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "đoạn",
-            "văn",
             "về",
             "nhóm",
             "headless",
