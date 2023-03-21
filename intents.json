@@ -3723,5 +3723,39 @@
             "it"
         ],
         "bot_response": "\nSống trong một thế giới nhỏ bé\nChỉ cần một chút ý nghĩa tốt\nĐể làm cho tình cảm thật sâu sắc\nVà để trở lại với một cảm giác an toàn.Những giây phút đẹp trong lòng\nĐể tạo nên những kỉ niệm trong tâm\nVà những cảm xúc sâu sắc nhất\nĐể để làm cho cuộc sống trở nên tốt hơn.Những niềm vui trong tâm trí\nVà những cảm xúc đẹp trong lòng\nĐể làm cho cuộc sống của chúng ta\nTrở nên đầy ý nghĩa và đẹp hơn.Những giây phút đẹp trong lòng\nVà những kỉ niệm trong tâm\nVà những cảm xúc sâu sắc nhất\nĐể làm cho cuộc sống trở nên tốt hơn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "đoạn",
+            "code",
+            "python",
+            "tích",
+            "hợp",
+            "openai",
+            "xử",
+            "dụng",
+            "model",
+            "gpt",
+            "35",
+            "turbo"
+        ],
+        "required_words": [
+            "viết",
+            "đoạn",
+            "code",
+            "python",
+            "tích",
+            "hợp",
+            "openai",
+            "xử",
+            "dụng",
+            "model",
+            "gpt",
+            "35",
+            "turbo"
+        ],
+        "bot_response": "\nimport openaiopenai.api_key = \"YOUR_API_KEY\"gpt3_model = openai.Engine(\"davinci-gpt3-turbo\")prompt = \"What is the capital of France\"response = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n)print(response[\"choices\"][0][\"text\"])"
     }
 ]
