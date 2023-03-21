@@ -3675,6 +3675,6 @@
             "gpt35",
             "turbo"
         ],
-        "bot_response": "\nimport openai \n openai.api_key = \"YOUR_API_KEY\" \n gpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \n prompt = \"What is the capital of France\" \n response = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \n print(response[\"choices\"][0][\"text\"])"
+        "bot_response": "\nimport openai \nopenai.api_key = \"YOUR_API_KEY\" \ngpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \nprompt = \"What is the capital of France\" \nresponse = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \nprint(response[\"choices\"][0][\"text\"])"
     }
 ]
