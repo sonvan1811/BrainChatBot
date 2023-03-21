@@ -3705,5 +3705,23 @@
             "it"
         ],
         "bot_response": "\nTừng bước, từng ngày,\nTừng giờ, từng phút,\nTừng cơn mơ ước,\nTừng câu thơ ngọt ngào.Từng lời nói dối,\nTừng lời hứa hẹn,\nTừng dòng nhạc nhớ,\nTừng thời gian vô tình.Từng nụ cười, từng đêm trăng,\nTừng nỗi đau, từng đêm nhớ,\nTừng nỗi buồn, từng nỗi nhớ,\nTừng giây phút trầm lặng.Từng lời dối giả,\nTừng lời thề nhưng không thực hiện,\nTừng chuyện cũ, từng lời hời hợt,\nTừng hình ảnh nhớ về quá khứ.Từng cơn mơ ước,\nTừng lời thơ ngọt ngào,\nTừng câu chuyện về tình yêu,\nTừng câu thơ về tình bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "bài",
+            "thơ",
+            "it"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "bài",
+            "thơ",
+            "it"
+        ],
+        "bot_response": "\nSống trong một thế giới nhỏ bé\nChỉ cần một chút ý nghĩa tốt\nĐể làm cho tình cảm thật sâu sắc\nVà để trở lại với một cảm giác an toàn.Những giây phút đẹp trong lòng\nĐể tạo nên những kỉ niệm trong tâm\nVà những cảm xúc sâu sắc nhất\nĐể để làm cho cuộc sống trở nên tốt hơn.Những niềm vui trong tâm trí\nVà những cảm xúc đẹp trong lòng\nĐể làm cho cuộc sống của chúng ta\nTrở nên đầy ý nghĩa và đẹp hơn.Những giây phút đẹp trong lòng\nVà những kỉ niệm trong tâm\nVà những cảm xúc sâu sắc nhất\nĐể làm cho cuộc sống trở nên tốt hơn."
     }
 ]
