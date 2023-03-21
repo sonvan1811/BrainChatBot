@@ -3727,36 +3727,22 @@
     {
         "response_type": "answer",
         "user_input": [
-            "viết",
-            "đoạn",
-            "code",
             "python",
-            "tích",
-            "hợp",
             "openai",
-            "xử",
-            "dụng",
             "model",
             "gpt",
             "35",
             "turbo"
         ],
         "required_words": [
-            "viết",
-            "đoạn",
-            "code",
             "python",
-            "tích",
-            "hợp",
             "openai",
-            "xử",
-            "dụng",
             "model",
             "gpt",
             "35",
             "turbo"
         ],
-        "bot_response": "\nimport openaiopenai.api_key = \"YOUR_API_KEY\"gpt3_model = openai.Engine(\"davinci-gpt3-turbo\")prompt = \"What is the capital of France\"response = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n)print(response[\"choices\"][0][\"text\"])"
+        "bot_response": "\nimport openai \n openai.api_key = \"YOUR_API_KEY\" \n gpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \n prompt = \"What is the capital of France\" \n response = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \n print(response[\"choices\"][0][\"text\"])"
     },
     {
         "response_type": "answer",
@@ -3764,7 +3750,8 @@
             "python",
             "openai",
             "model",
-            "gpt35",
+            "gpt",
+            "35",
             "turbo"
         ],
         "required_words": [
@@ -3774,6 +3761,6 @@
             "gpt35",
             "turbo"
         ],
-        "bot_response": "\nOpenAI's GPT-3 Turbo is a powerful language model that can be used to generate natural-sounding text from input. The model is based on the GPT-3 architecture, which uses a transformer-based neural network to generate text. GPT-3 Turbo has been trained on a large corpus of text and can generate high-quality text in a variety of styles. It is designed to be used in applications such as natural language processing, natural language understanding, and text generation. GPT-3 Turbo is available for free on the OpenAI website."
+        "bot_response": "\nimport openai \n openai.api_key = \"YOUR_API_KEY\" \n gpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \n prompt = \"What is the capital of France\" \n response = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \n print(response[\"choices\"][0][\"text\"])"
     }
 ]
