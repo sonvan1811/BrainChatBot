@@ -3676,5 +3676,41 @@
             "turbo"
         ],
         "bot_response": "\nimport openai \nopenai.api_key = \"YOUR_API_KEY\" \ngpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \nprompt = \"What is the capital of France\" \nresponse = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \nprint(response[\"choices\"][0][\"text\"])"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "số",
+            "đồng",
+            "phân",
+            "cấu",
+            "tạo",
+            "có",
+            "công",
+            "thức",
+            "phân",
+            "tử",
+            "c5h6",
+            "là",
+            "bao",
+            "nhiêu"
+        ],
+        "required_words": [
+            "số",
+            "đồng",
+            "phân",
+            "cấu",
+            "tạo",
+            "có",
+            "công",
+            "thức",
+            "phân",
+            "tử",
+            "c5h6",
+            "là",
+            "bao",
+            "nhiêu"
+        ],
+        "bot_response": "\nSố đồng phân cấu của C5H6 là 12."
     }
 ]
