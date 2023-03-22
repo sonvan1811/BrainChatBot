@@ -4298,5 +4298,15 @@
             "english"
         ],
         "bot_response": "\nI am used to describe my presence or to identify my identity. I am also used to describe my actions, feelings, or to substitute for a noun."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "11"
+        ],
+        "required_words": [
+            "11"
+        ],
+        "bot_response": "\n\n    #\n    # \n    #\n    #\n    def test_11\n      assert_equal true, @list.include(\"plums\")\n    endend"
     }
 ]
