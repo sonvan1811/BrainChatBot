@@ -4028,5 +4028,33 @@
             "không"
         ],
         "bot_response": "\nxau1 = input(\"Nhập xâu thứ nhất: \")\nxau2 = input(\"Nhập xâu thứ hai: \")if xau1[1] == xau2[0]:\n    print(\"Ký tự thứ hai của xâu thứ nhất có chung với ký tự đầu tiên của xâu thứ hai\")\nelse:\n    print(\"Ký tự thứ hai của xâu thứ nhất không chung với ký tự đầu tiên của xâu thứ hai\")"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "chương",
+            "trình",
+            "python",
+            "kiểm",
+            "tra",
+            "số",
+            "nguyên",
+            "tố",
+            "với"
+        ],
+        "required_words": [
+            "viết",
+            "chương",
+            "trình",
+            "python",
+            "kiểm",
+            "tra",
+            "số",
+            "nguyên",
+            "tố",
+            "với"
+        ],
+        "bot_response": "\n các bước sau:# Khai báo hàm kiểm tra số nguyên tố\ndef is_prime(n):\n   # Kiểm tra số nguyên tố\n   if n <= 1:\n       return False\n   for i in range(2, n):\n       if n % i == 0:\n           return False\n   return True# Nhập số cần kiểm tra\nnum = int(input(\"Nhập số cần kiểm tra: \"))# Kiểm tra số nguyên tố\nif is_prime(num):\n   print(num, \"là số nguyên tố\")\nelse:\n   print(num, \"không phải là số nguyên tố\")"
     }
 ]
