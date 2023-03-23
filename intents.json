@@ -4428,5 +4428,39 @@
             "b"
         ],
         "bot_response": "\ndef reverse(a, b): \n  return b, a print(reverse(1, 2))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "def",
+            "reversea",
+            "b",
+            "return",
+            "b",
+            "a",
+            "printreverse1",
+            "2",
+            "giải",
+            "thích",
+            "đoạn",
+            "code",
+            "trên"
+        ],
+        "required_words": [
+            "def",
+            "reversea",
+            "b",
+            "return",
+            "b",
+            "a",
+            "printreverse1",
+            "2",
+            "giải",
+            "thích",
+            "đoạn",
+            "code",
+            "trên"
+        ],
+        "bot_response": "\nĐoạn code trên sẽ in ra chuỗi bằng cách đảo ngược thứ tự các kí tự trong biến b. Ví dụ, nếu biến b có giá trị là \"Hello\", nó sẽ in ra \"olleH\"."
     }
 ]
