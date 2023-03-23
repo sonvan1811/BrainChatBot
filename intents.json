@@ -4398,5 +4398,35 @@
             "nghiệp"
         ],
         "bot_response": "\nA Đạo Luật Ngân Hàng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "hàm",
+            "python",
+            "đảo",
+            "ngược",
+            "giá",
+            "trị",
+            "của",
+            "a",
+            "và",
+            "b"
+        ],
+        "required_words": [
+            "viết",
+            "hàm",
+            "python",
+            "đảo",
+            "ngược",
+            "giá",
+            "trị",
+            "của",
+            "a",
+            "và",
+            "b"
+        ],
+        "bot_response": "\ndef reverse(a, b): \n  return b, a print(reverse(1, 2))"
     }
 ]
