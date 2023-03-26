@@ -4476,5 +4476,24 @@
             "gì"
         ],
         "bot_response": "\nPodcast là một loại hình nội dung âm nhạc có thể được tải về hoặc được phát trực tuyến. Nó thường bao gồm các chương trình âm nhạc, hội thoại, chương trình tin tức, chương trình lịch sử, phim hoạt hình, chương trình truyền hình, chương trình phát thanh, và nhiều hơn nữa. Những người sử dụng podcast thường nghe nội dung bằng cách tải về và phát trên các thiết bị phát như máy tính, điện thoại di động, máy nghe nhạc, và máy tính bảng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "python",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "python",
+            "không"
+        ],
+        "bot_response": {
+            "role": "assistant",
+            "content": "Tôi là một trợ lý ảo được lập trình bằng nhiều ngôn ngữ khác nhau, trong đó bao gồm cả Python. Vì vậy, tôi có thể trả lời các câu hỏi liên quan đến Python. Hãy hỏi tôi điều gì đó về Python nếu bạn muốn."
+        }
     }
 ]
