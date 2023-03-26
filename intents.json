@@ -4595,5 +4595,19 @@
             "vãi"
         ],
         "bot_response": "As an AI language model, I don't have the ability to feel emotions like humans do. However, I can understand that you think something is funny! Can you please provide more context or information about what you find humorous?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "kể",
+            "chuyện",
+            "hài"
+        ],
+        "required_words": [
+            "kể",
+            "chuyện",
+            "hài"
+        ],
+        "bot_response": "Một ngày đẹp trời, con chó tên là Cỏ bỗng nhiên bị tách nhà chủ. Cỏ cảm thấy rất buồn, nhưng may mắn thay, nó đã tìm thấy một căn nhà khác để ở. Tuy nhiên, căn nhà mới này có một điều đặc biệt: cửa sổ nó dễ dàng leo vào được. Vì thế, Cỏ rất vui vẻ và cả ngày nó leo ra và vào nhà xem mọi thứ.\n\nMột ngày, khi đang leo vào nhà, Cỏ bị mắc kẹt giữa khe cửa sổ. Nó cố gắng thoát khỏi nhưng không thành công. Nó hoảng sợ và gọi cầu cứu.\n\nMột chú mèo đi ngang qua nghe tiếng than khóc của Cỏ và đi tới giải cứu nó. Mèo cũng bị mắc kẹt. Nhưng với sự thông minh của mình, Mèo cắt cửa sổ và cả hai con vật an toàn đến được đất liền.\n\nCỏ nhìn Mèo và cảm thấy thật sự biết ơn. Nó đã nói với Mèo: \"Cảm ơn bạn đã giải cứu tôi. Tôi sẽ không bao giờ leo vào nhà qua cửa sổ nữa.\"\n\nMèo nói: \"Được đấy, nhưng bạn phải hứa sẽ không bao giờ kể cho ai về việc này. Nếu không, tôi sẽ mất uy tín và không còn là một chú mèo thông minh nữa.\"\n\nCỏ đã hứa trước Mèo rằng sẽ giữ bí mật. Sau đó, khi Mèo bước lên chiếc xe đạp của người đàn ông điện tử và đi xa, Cỏ đã không thể nhịn được mà bật cười lớn khi nói: \"Tớ sắp có một câu chuyện tuyệt vời để kể cho các bạn nghe đấy!\""
     }
 ]
