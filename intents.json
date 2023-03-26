@@ -4561,5 +4561,21 @@
             "again"
         ],
         "bot_response": "Goodbye!"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "kể",
+            "chuyện",
+            "hài",
+            "đi"
+        ],
+        "required_words": [
+            "kể",
+            "chuyện",
+            "hài",
+            "đi"
+        ],
+        "bot_response": "Có một thằng ngốc đi vào cửa hàng bánh mì và bắt đầu hét lên: \"Tôi muốn mua bánh mì ăn!!!\"\n\nNgười bán hàng nhìn thằng ngốc đó và hỏi: \"Bạn muốn mua loại bánh mì nào?\"\n\nThằng ngốc đó trả lời: \"Tất cả bánh mì đều giống nhau mà!\"\n\nNgười bán hàng nhưng đành phải giải thích: \"Không đâu bạn ạ, có nhiều loại bánh mì khác nhau như bánh mì phô mai, bánh mì kẹp thịt, bánh mì sandwich...\"\n\nThằng ngốc đó vẫn chưa hiểu và nói: \"Tôi muốn mua một cái bánh mì giống như của cha tôi!\"\n\nNgười bán hàng nhưng thấy đây là một cơ hội để đùa vui, nên ông ta hỏi: \"Cha của bạn là ai?\"\n\nThằng ngốc đó trả lời: \"Làm gì có ai khác ngoài cha tôi!\"\n\nNgười bán hàng liền nói: \"Vậy tôi không thể bán cho bạn bánh mì giống như cha của bạn, bởi vì tôi không biết cha của bạn ưa thích loại bánh mì nào!\"\n\nThằng ngốc đó lập tức nắm lấy miếng bánh mì trước mặt và nói: \"Được rồi, tôi sẽ mua miếng bánh mì này, vì đây có lẽ là kiểu bánh mì mà cha tôi thích nhất!\""
     }
 ]
