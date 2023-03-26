@@ -4495,5 +4495,21 @@
             "role": "assistant",
             "content": "Tôi là một trợ lý ảo được lập trình bằng nhiều ngôn ngữ khác nhau, trong đó bao gồm cả Python. Vì vậy, tôi có thể trả lời các câu hỏi liên quan đến Python. Hãy hỏi tôi điều gì đó về Python nếu bạn muốn."
         }
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "c",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "c",
+            "không"
+        ],
+        "bot_response": null
     }
 ]
