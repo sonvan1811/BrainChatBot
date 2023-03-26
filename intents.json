@@ -4511,5 +4511,25 @@
             "không"
         ],
         "bot_response": null
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "kể",
+            "về",
+            "1",
+            "câu",
+            "chuyện",
+            "hài"
+        ],
+        "required_words": [
+            "kể",
+            "về",
+            "1",
+            "câu",
+            "chuyện",
+            "hài"
+        ],
+        "bot_response": null
     }
 ]
