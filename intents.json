@@ -4531,5 +4531,21 @@
             "hài"
         ],
         "bot_response": null
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tình",
+            "yêu",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "tình",
+            "yêu",
+            "là",
+            "gì"
+        ],
+        "bot_response": "Tình yêu là cảm xúc và tình cảm sâu sắc, khó tả được giữa hai người hay nhiều người với nhau. Nó chứa đựng sự yêu, quan tâm, chia sẻ, tôn trọng và chấp nhận lẫn nhau. Tình yêu có thể cho đi và cũng có thể nhận lại, đôi khi nó đơn giản và tinh tế, đôi khi lại rất phức tạp và khó khăn nhưng tất cả đều đem lại cho cuộc sống cảm hứng và ý nghĩa."
     }
 ]
