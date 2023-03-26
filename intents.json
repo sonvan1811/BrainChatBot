@@ -4577,5 +4577,23 @@
             "đi"
         ],
         "bot_response": "Có một thằng ngốc đi vào cửa hàng bánh mì và bắt đầu hét lên: \"Tôi muốn mua bánh mì ăn!!!\"\n\nNgười bán hàng nhìn thằng ngốc đó và hỏi: \"Bạn muốn mua loại bánh mì nào?\"\n\nThằng ngốc đó trả lời: \"Tất cả bánh mì đều giống nhau mà!\"\n\nNgười bán hàng nhưng đành phải giải thích: \"Không đâu bạn ạ, có nhiều loại bánh mì khác nhau như bánh mì phô mai, bánh mì kẹp thịt, bánh mì sandwich...\"\n\nThằng ngốc đó vẫn chưa hiểu và nói: \"Tôi muốn mua một cái bánh mì giống như của cha tôi!\"\n\nNgười bán hàng nhưng thấy đây là một cơ hội để đùa vui, nên ông ta hỏi: \"Cha của bạn là ai?\"\n\nThằng ngốc đó trả lời: \"Làm gì có ai khác ngoài cha tôi!\"\n\nNgười bán hàng liền nói: \"Vậy tôi không thể bán cho bạn bánh mì giống như cha của bạn, bởi vì tôi không biết cha của bạn ưa thích loại bánh mì nào!\"\n\nThằng ngốc đó lập tức nắm lấy miếng bánh mì trước mặt và nói: \"Được rồi, tôi sẽ mua miếng bánh mì này, vì đây có lẽ là kiểu bánh mì mà cha tôi thích nhất!\""
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ha",
+            "ha",
+            "buồn",
+            "cười",
+            "vãi"
+        ],
+        "required_words": [
+            "ha",
+            "ha",
+            "buồn",
+            "cười",
+            "vãi"
+        ],
+        "bot_response": "As an AI language model, I don't have the ability to feel emotions like humans do. However, I can understand that you think something is funny! Can you please provide more context or information about what you find humorous?"
     }
 ]
