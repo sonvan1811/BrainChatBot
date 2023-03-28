@@ -4673,5 +4673,25 @@
             "gì"
         ],
         "bot_response": "\nBackend là bộ phận của một ứng dụng web hoặc hệ thống phần mềm, có nhiệm vụ xử lý các yêu cầu từ phía người dùng và cung cấp dữ liệu cho phía trước. Các tác vụ chính của backend bao gồm:- Xử lý các yêu cầu từ người dùng và cung cấp các dữ liệu tương ứng.- Lập trình các logic xử lý dữ liệu.- Quản lý cơ sở dữ liệu và các hệ thống lưu trữ.- Tạo ra các API để cung cấp dữ liệu cho phía trước.- Xử lý các tác vụ vĩ mô (big data) như phân tích dữ liệu, xử lý ảnh, xử lý âm thanh và nhiều hơn nữa."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "những",
+            "thứ",
+            "khó",
+            "nhất",
+            "trong",
+            "backend"
+        ],
+        "required_words": [
+            "những",
+            "thứ",
+            "khó",
+            "nhất",
+            "trong",
+            "backend"
+        ],
+        "bot_response": "\n1. Xử lý các tác vụ đa luồng.\n2. Xây dựng các ứng dụng phân tán.\n3. Tối ưu hóa cơ sở dữ liệu.\n4. Quản lý bảo mật.\n5. Xử lý các yêu cầu từ người dùng.\n6. Xây dựng các ứng dụng mạng.\n7. Xử lý dữ liệu lớn.\n8. Tối ưu hóa hiệu suất.\n9. Xây dựng các ứng dụng phức tạp.\n10. Xử lý các lỗi phức tạp."
     }
 ]
