@@ -4633,5 +4633,29 @@
             "thừa"
         ],
         "bot_response": "Đây là đoạn code tính giai thừa của một số nguyên dương n:\n\n```\n#include <stdio.h>\n\nint main() {\n    int n, i;\n    long long giaithua = 1;\n\n    printf(\"Nhap vao mot so nguyen duong: \");\n    scanf(\"%d\", &n);\n\n    if (n < 0) {\n        printf(\"Khong tinh duoc giai thua cua so am.\\n\");\n    }\n    else {\n        for (i = 1; i <= n; i++) {\n            giaithua *= i;\n        }\n        printf(\"Giai thua cua %d la: %lld\\n\", n, giaithua);\n    }\n\n    return 0;\n}\n```\n\nGiải thích:\n\n- Ta khai báo biến n là số nguyên dương cần tính giai thừa.\n- Biến i được sử dụng trong vòng lặp for để duyệt các số từ 1 đến n. Tại mỗi bước lặp, ta tính giai thừa của i bằng cách nhân với giai thừa của i - 1.\n- Biến giaithua được khởi tạo ban đầu bằng 1, do 1 là số nhân đầu tiên của tích các số từ 1 đến n.\n- Các trường hợp không tính được giai thừa của số âm được xử lý trong lệnh điều kiện if. Ta sử dụng kiểu long long để lưu trữ giai thừa cho việc tính toán với các số lớn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "c",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "c",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "Đây là đoạn code C++ để tính giai thừa của một số nguyên dương:\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int n, giaithua = 1;\n    cin >> n;\n    for (int i = 1; i <= n; i++) {\n        giaithua *= i;\n    }\n    cout << \"Giai thua cua \" << n << \" la: \" << giaithua << endl;\n    return 0;\n}\n```\n\nGiải thích:\n- Dòng 1: khai báo thư viện iostream để sử dụng cin và cout.\n- Dòng 3: khai báo biến n để lưu giá trị nhập vào và biến giaithua để tính toán kết quả.\n- Dòng 4: nhập giá trị cho biến n.\n- Dòng 5-7: sử dụng vòng lặp for để tính giai thừa của n.\n- Dòng 8: in ra kết quả giai thừa của n.\n- Dòng 9: kết thúc chương trình.\n\nVí dụ, nếu bạn nhập n=5, chương trình sẽ in ra: \"Giai thua cua 5 la: 120\"."
     }
 ]
