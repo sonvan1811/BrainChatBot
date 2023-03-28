@@ -4657,5 +4657,21 @@
             "thừa"
         ],
         "bot_response": "Đây là đoạn code C++ để tính giai thừa của một số nguyên dương:\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int n, giaithua = 1;\n    cin >> n;\n    for (int i = 1; i <= n; i++) {\n        giaithua *= i;\n    }\n    cout << \"Giai thua cua \" << n << \" la: \" << giaithua << endl;\n    return 0;\n}\n```\n\nGiải thích:\n- Dòng 1: khai báo thư viện iostream để sử dụng cin và cout.\n- Dòng 3: khai báo biến n để lưu giá trị nhập vào và biến giaithua để tính toán kết quả.\n- Dòng 4: nhập giá trị cho biến n.\n- Dòng 5-7: sử dụng vòng lặp for để tính giai thừa của n.\n- Dòng 8: in ra kết quả giai thừa của n.\n- Dòng 9: kết thúc chương trình.\n\nVí dụ, nếu bạn nhập n=5, chương trình sẽ in ra: \"Giai thua cua 5 la: 120\"."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "backend",
+            "gồm",
+            "những",
+            "gì"
+        ],
+        "required_words": [
+            "backend",
+            "gồm",
+            "những",
+            "gì"
+        ],
+        "bot_response": "\nBackend là bộ phận của một ứng dụng web hoặc hệ thống phần mềm, có nhiệm vụ xử lý các yêu cầu từ phía người dùng và cung cấp dữ liệu cho phía trước. Các tác vụ chính của backend bao gồm:- Xử lý các yêu cầu từ người dùng và cung cấp các dữ liệu tương ứng.- Lập trình các logic xử lý dữ liệu.- Quản lý cơ sở dữ liệu và các hệ thống lưu trữ.- Tạo ra các API để cung cấp dữ liệu cho phía trước.- Xử lý các tác vụ vĩ mô (big data) như phân tích dữ liệu, xử lý ảnh, xử lý âm thanh và nhiều hơn nữa."
     }
 ]
