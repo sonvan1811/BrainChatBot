@@ -4609,5 +4609,29 @@
             "hài"
         ],
         "bot_response": "Một ngày đẹp trời, con chó tên là Cỏ bỗng nhiên bị tách nhà chủ. Cỏ cảm thấy rất buồn, nhưng may mắn thay, nó đã tìm thấy một căn nhà khác để ở. Tuy nhiên, căn nhà mới này có một điều đặc biệt: cửa sổ nó dễ dàng leo vào được. Vì thế, Cỏ rất vui vẻ và cả ngày nó leo ra và vào nhà xem mọi thứ.\n\nMột ngày, khi đang leo vào nhà, Cỏ bị mắc kẹt giữa khe cửa sổ. Nó cố gắng thoát khỏi nhưng không thành công. Nó hoảng sợ và gọi cầu cứu.\n\nMột chú mèo đi ngang qua nghe tiếng than khóc của Cỏ và đi tới giải cứu nó. Mèo cũng bị mắc kẹt. Nhưng với sự thông minh của mình, Mèo cắt cửa sổ và cả hai con vật an toàn đến được đất liền.\n\nCỏ nhìn Mèo và cảm thấy thật sự biết ơn. Nó đã nói với Mèo: \"Cảm ơn bạn đã giải cứu tôi. Tôi sẽ không bao giờ leo vào nhà qua cửa sổ nữa.\"\n\nMèo nói: \"Được đấy, nhưng bạn phải hứa sẽ không bao giờ kể cho ai về việc này. Nếu không, tôi sẽ mất uy tín và không còn là một chú mèo thông minh nữa.\"\n\nCỏ đã hứa trước Mèo rằng sẽ giữ bí mật. Sau đó, khi Mèo bước lên chiếc xe đạp của người đàn ông điện tử và đi xa, Cỏ đã không thể nhịn được mà bật cười lớn khi nói: \"Tớ sắp có một câu chuyện tuyệt vời để kể cho các bạn nghe đấy!\""
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "c",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "c",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "Đây là đoạn code tính giai thừa của một số nguyên dương n:\n\n```\n#include <stdio.h>\n\nint main() {\n    int n, i;\n    long long giaithua = 1;\n\n    printf(\"Nhap vao mot so nguyen duong: \");\n    scanf(\"%d\", &n);\n\n    if (n < 0) {\n        printf(\"Khong tinh duoc giai thua cua so am.\\n\");\n    }\n    else {\n        for (i = 1; i <= n; i++) {\n            giaithua *= i;\n        }\n        printf(\"Giai thua cua %d la: %lld\\n\", n, giaithua);\n    }\n\n    return 0;\n}\n```\n\nGiải thích:\n\n- Ta khai báo biến n là số nguyên dương cần tính giai thừa.\n- Biến i được sử dụng trong vòng lặp for để duyệt các số từ 1 đến n. Tại mỗi bước lặp, ta tính giai thừa của i bằng cách nhân với giai thừa của i - 1.\n- Biến giaithua được khởi tạo ban đầu bằng 1, do 1 là số nhân đầu tiên của tích các số từ 1 đến n.\n- Các trường hợp không tính được giai thừa của số âm được xử lý trong lệnh điều kiện if. Ta sử dụng kiểu long long để lưu trữ giai thừa cho việc tính toán với các số lớn."
     }
 ]
