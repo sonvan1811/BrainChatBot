@@ -4445,5 +4445,15 @@
             ":)"
         ],
         "bot_response": "Is there anything I can assist you with?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hii"
+        ],
+        "required_words": [
+            "hii"
+        ],
+        "bot_response": "! How can I assist you today?"
     }
 ]
