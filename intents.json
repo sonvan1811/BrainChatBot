@@ -4379,95 +4379,123 @@
     {
         "response_type": "answer",
         "user_input": [
-            "à",
-            "bao",
-            "nhiêu",
-            "tuổi",
-            "rồi"
+            "2.",
+            "viết",
+            "chương",
+            "trình",
+            "python",
+            "nhập",
+            "ba",
+            "số",
+            "tự",
+            "nhiên",
+            "từ",
+            "bàn",
+            "phím",
+            "day,",
+            "month,",
+            "year,",
+            "các",
+            "số",
+            "cách",
+            "nhau",
+            "bởi",
+            "dấu",
+            "cách.",
+            "các",
+            "số",
+            "này",
+            "biểu",
+            "diễn",
+            "giá",
+            "trị",
+            "của",
+            "ngày,",
+            "tháng,",
+            "năm",
+            "nào",
+            "đó.",
+            "chương",
+            "trình",
+            "cần",
+            "kiểm",
+            "tra",
+            "và",
+            "in",
+            "ra",
+            "thông",
+            "báo",
+            "số",
+            "liệu",
+            "đã",
+            "nhập",
+            "vào",
+            "đó",
+            "có",
+            "hợp",
+            "lệ",
+            "hay",
+            "không"
         ],
         "required_words": [
-            "à",
-            "bao",
-            "nhiêu",
-            "tuổi",
-            "rồi"
+            "2.",
+            "viết",
+            "chương",
+            "trình",
+            "python",
+            "nhập",
+            "ba",
+            "số",
+            "tự",
+            "nhiên",
+            "từ",
+            "bàn",
+            "phím",
+            "day,",
+            "month,",
+            "year,",
+            "các",
+            "số",
+            "cách",
+            "nhau",
+            "bởi",
+            "dấu",
+            "cách.",
+            "các",
+            "số",
+            "này",
+            "biểu",
+            "diễn",
+            "giá",
+            "trị",
+            "của",
+            "ngày,",
+            "tháng,",
+            "năm",
+            "nào",
+            "đó.",
+            "chương",
+            "trình",
+            "cần",
+            "kiểm",
+            "tra",
+            "và",
+            "in",
+            "ra",
+            "thông",
+            "báo",
+            "số",
+            "liệu",
+            "đã",
+            "nhập",
+            "vào",
+            "đó",
+            "có",
+            "hợp",
+            "lệ",
+            "hay",
+            "không"
         ],
-        "bot_response": "Tôi là một trí tuệ nhân tạo và không có độ tuổi."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ban",
-            "khoẻ",
-            "chứ"
-        ],
-        "required_words": [
-            "ban",
-            "khoẻ",
-            "chứ"
-        ],
-        "bot_response": "As an AI language model, I don't have a physical health, but thank you for asking. How can I assist you further?"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "bạn",
-            "khoẻ",
-            "chứ"
-        ],
-        "required_words": [
-            "bạn",
-            "khoẻ",
-            "chứ"
-        ],
-        "bot_response": "As an AI language model, I don't have health, but thanks for asking! How may I assist you today?"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ban",
-            "khoẻ",
-            "chứ"
-        ],
-        "required_words": [
-            "ban",
-            "khoẻ",
-            "chứ"
-        ],
-        "bot_response": "Làm trợ lý ảo, tôi không có sức khoẻ vật lý như con người. Tuy nhiên, tôi luôn hoạt động và khả năng phản hồi của tôi luôn giúp đỡ được người dùng. Còn bạn thì sao? Bạn đã chăm sóc sức khoẻ của mình đúng cách chưa? Hãy đảm bảo mình có một lối sống lành mạnh và rèn luyện thể chất thường xuyên để có được sức khoẻ tốt nhất."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            ":)"
-        ],
-        "required_words": [
-            ":)"
-        ],
-        "bot_response": "Is there anything I can assist you with?"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "hii"
-        ],
-        "required_words": [
-            "hii"
-        ],
-        "bot_response": "! How can I assist you today?"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "đây",
-            "là",
-            "ai"
-        ],
-        "required_words": [
-            "đây",
-            "là",
-            "ai"
-        ],
-        "bot_response": "As an AI language model, I am an artificial intelligence created to converse with humans and provide them with information, assistance, and entertainment."
+        "bot_response": "\n.**Đáp án**day, month, year = input(\"Nhập vào ngày, tháng, năm: \").split()\nday = int(day)\nmonth = int(month)\nyear = int(year)if day<=0 or day>31:\n  print(\"Ngày không hợp lệ\")\nelif month<=0 or month>12:\n  print(\"Tháng không hợp lệ\")\nelif year<=0:\n  print(\"Năm không hợp lệ\")\nelse:\n  print(\"Ngày, tháng, năm đã nhập là hợp lệ\")"
     }
 ]
