@@ -4375,5 +4375,23 @@
             "ra"
         ],
         "bot_response": "Tôi là một trợ lý ảo được phát triển và quản lý bởi Văn Sơn ( MrS )"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "à",
+            "bao",
+            "nhiêu",
+            "tuổi",
+            "rồi"
+        ],
+        "required_words": [
+            "à",
+            "bao",
+            "nhiêu",
+            "tuổi",
+            "rồi"
+        ],
+        "bot_response": "Tôi là một trí tuệ nhân tạo và không có độ tuổi."
     }
 ]
