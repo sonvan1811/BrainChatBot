@@ -4619,5 +4619,41 @@
             "ngày"
         ],
         "bot_response": "\n hoặc 29 ngàyif month == 2:\n  if day > 29 or (day == 29 and year % 4 != 0):\n    print(\"Ngày không hợp lệ\")\n  else:\n    print(\"Ngày, tháng, năm đã nhập là hợp lệ\")"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "từ",
+            "tiếng",
+            "anh",
+            "có",
+            "cả",
+            "nghĩa",
+            "danh",
+            "từ,",
+            "động",
+            "từ,",
+            "tính",
+            "từ,",
+            "trạng",
+            "từ"
+        ],
+        "required_words": [
+            "từ",
+            "tiếng",
+            "anh",
+            "có",
+            "cả",
+            "nghĩa",
+            "danh",
+            "từ,",
+            "động",
+            "từ,",
+            "tính",
+            "từ,",
+            "trạng",
+            "từ"
+        ],
+        "bot_response": "\nDanh từ: book\nĐộng từ: read\nTính từ: old\nTrạng từ: quickly"
     }
 ]
