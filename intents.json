@@ -4455,5 +4455,19 @@
             "hii"
         ],
         "bot_response": "! How can I assist you today?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "đây",
+            "là",
+            "ai"
+        ],
+        "required_words": [
+            "đây",
+            "là",
+            "ai"
+        ],
+        "bot_response": "As an AI language model, I am an artificial intelligence created to converse with humans and provide them with information, assistance, and entertainment."
     }
 ]
