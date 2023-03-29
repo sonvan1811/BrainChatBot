@@ -4357,5 +4357,23 @@
             "k"
         ],
         "bot_response": "hông? ừm, tôi là trí tuệ nhân tạo được lập trình để có thể trả lời các câu hỏi và thực hiện nhiều chức năng khác trên máy tính, tuy nhiên tôi cũng có khả năng hiểu và trả lời bằng tiếng Việt đấy. Bạn cần trợ giúp gì không?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "được",
+            "ai",
+            "code",
+            "ra"
+        ],
+        "required_words": [
+            "bạn",
+            "được",
+            "ai",
+            "code",
+            "ra"
+        ],
+        "bot_response": "Tôi là một trợ lý ảo được phát triển và quản lý bởi một nhóm kỹ sư và nhà phát triển phần mềm của OpenAI. Tôi không được gắn liền với một người hay một nhóm người cụ thể nào."
     }
 ]
