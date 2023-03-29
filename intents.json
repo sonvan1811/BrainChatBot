@@ -4693,5 +4693,49 @@
             "backend"
         ],
         "bot_response": "\n1. Xử lý các tác vụ đa luồng.\n2. Xây dựng các ứng dụng phân tán.\n3. Tối ưu hóa cơ sở dữ liệu.\n4. Quản lý bảo mật.\n5. Xử lý các yêu cầu từ người dùng.\n6. Xây dựng các ứng dụng mạng.\n7. Xử lý dữ liệu lớn.\n8. Tối ưu hóa hiệu suất.\n9. Xây dựng các ứng dụng phức tạp.\n10. Xử lý các lỗi phức tạp."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "chương",
+            "trình",
+            "c",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "chương",
+            "trình",
+            "c",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "\n#include <stdio.h>\nint main()\n{\n    int n, i;\n    long long factorial = 1;\n \n    printf(\"Nhap n: \");\n    scanf(\"%d\",&n);\n \n    if (n < 0)\n        printf(\"Khong co giai thua am\");\n \n    else\n    {\n        for(i=1; i<=n; ++i)\n        {\n            factorial *= i;             \n        }\n        printf(\"Giai thua cua %d = %lld\", n, factorial);\n    }\n \n    return 0;\n}"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "chương",
+            "trình",
+            "c++",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "chương",
+            "trình",
+            "c++",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "\n#include <iostream>\nusing namespace std;\n \nint main()\n{\n    int n, i;\n    unsigned long long factorial = 1;\n \n    cout << \"Nhap so nguyen duong: \";\n    cin >> n;\n \n    // show error if the user enters a negative integer\n    if (n < 0)\n        cout << \"Khong co giai thua am.\";\n \n    else\n    {\n        for(i=1; i<=n; ++i)\n        {\n            factorial *= i;              // factorial = factorial*i;\n        }\n        cout << \"Giai thua cua \" << n << \" la: \" << factorial;\n    }\n \n    return 0;\n}"
     }
 ]
