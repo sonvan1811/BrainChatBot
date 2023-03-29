@@ -1610,7 +1610,7 @@
             "lặp",
             "while"
         ],
-        "bot_response": "Giai thừa là tích của tất cả các số nguyên từ 1 đến n \n\n```# Khai báo biến n là số cần tính giai thừa\n    n = 5 # Khởi tạo biến giai thừa có giá trị là 1\n    factorial = 1# Khởi tạo biến i là số bắt đầu tính\n    i = 1# Vòng lặp while để tính giai thừa\n    while i <= n:\n\t    factorial = factorial * i\n\t    i = i + 1# In kết quả\n    print(\"Giai thừa của\", n, \"là\", factorial)\n```"
+        "bot_response": "Giai thừa là tích của tất cả các số nguyên từ 1 đến n# Khai báo biến n là số cần tính giai thừa\n    n = 5 # Khởi tạo biến giai thừa có giá trị là 1\n    factorial = 1# Khởi tạo biến i là số bắt đầu tính\n    i = 1# Vòng lặp while để tính giai thừa\n    while i <= n:\n\t    factorial = factorial * i\n\t    i = i + 1# In kết quả\n    print(\"Giai thừa của\", n, \"là\", factorial)\n"
     },
     {
         "response_type": "answer",
@@ -1626,7 +1626,7 @@
             "giai",
             "thừa"
         ],
-        "bot_response": "\nĐây là một đoạn code Python tính giai thừa theo cách đệ quy:\n```def factorial(n): \n\t    if n == 0: \n\t\t    return 1 \n\t    else: \n\t\t    return n * factorial(n-1) \n    print(factorial(5))```"
+        "bot_response": "\nĐây là một đoạn code Python tính giai thừa theo cách đệ quy:\n    def factorial(n): \n\t    if n == 0: \n\t\t    return 1 \n\t    else: \n\t\t    return n * factorial(n-1) \n    print(factorial(5))"
     },
     {
         "response_type": "answer",
@@ -1964,7 +1964,7 @@
             "lặp",
             "for"
         ],
-        "bot_response": "```def factorial(n):\n  result = 1\n  for i in range(1, n+1):\n    result = result * i\n  return resultprint(factorial(4))\n# 24\n```"
+        "bot_response": "def factorial(n):\n  result = 1\n  for i in range(1, n+1):\n    result = result * i\n  return resultprint(factorial(4))\n# 24\n"
     },
     {
         "response_type": "answer",
@@ -2404,7 +2404,7 @@
             "đến",
             "n"
         ],
-        "bot_response": "\n```# Khai báo hàm tính tích\ndef tich(n): \n  \n    # Khởi tạo tích \n    tich = 1\n  \n    # Tính tích \n    for i in range(1,n+1): \n        tich = tich * i \n  \n    return tich \n  \n# Người dùng nhập vào số n\nn = int(input(\"Nhập số n: \")) \n  \n# Gọi hàm và in kết quả\nprint(\"Tích của số n là:\", tich(n))```"
+        "bot_response": "\n# Khai báo hàm tính tích\ndef tich(n): \n  \n    # Khởi tạo tích \n    tich = 1\n  \n    # Tính tích \n    for i in range(1,n+1): \n        tich = tich * i \n  \n    return tich \n  \n# Người dùng nhập vào số n\nn = int(input(\"Nhập số n: \")) \n  \n# Gọi hàm và in kết quả\nprint(\"Tích của số n là:\", tich(n))"
     },
     {
         "response_type": "answer",
@@ -2496,7 +2496,7 @@
             "hảo",
             "pascal"
         ],
-        "bot_response": "\n```program CheckPerfectNumber;var\n  n, i, sum: Integer;begin\n  Write('Nhap n: ');\n  ReadLn(n);\n  sum := 0;\n  for i := 1 to n - 1 do\n  begin\n    if n mod i = 0 then\n      sum := sum + i;\n  end;\n  if sum = n then\n    Writeln(n, ' la so hoan hao')\n  else\n    Writeln(n, ' khong phai la so hoan hao');\n  ReadLn;\nend.```"
+        "bot_response": "\nprogram CheckPerfectNumber;var\n  n, i, sum: Integer;begin\n  Write('Nhap n: ');\n  ReadLn(n);\n  sum := 0;\n  for i := 1 to n - 1 do\n  begin\n    if n mod i = 0 then\n      sum := sum + i;\n  end;\n  if sum = n then\n    Writeln(n, ' la so hoan hao')\n  else\n    Writeln(n, ' khong phai la so hoan hao');\n  ReadLn;\nend."
     },
     {
         "response_type": "answer",
@@ -2516,7 +2516,25 @@
             "while",
             "pascal"
         ],
-        "bot_response": "\n```begin\n  while condition do\n    begin\n      // các câu lệnh cần thực hiện\n    end;\nend;```"
+        "bot_response": "\nbegin\n  while condition do\n    begin\n      // các câu lệnh cần thực hiện\n    end;\nend;"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tôi",
+            "cần",
+            "bạn",
+            "giúp",
+            "tôi"
+        ],
+        "required_words": [
+            "tôi",
+            "cần",
+            "bạn",
+            "giúp",
+            "tôi"
+        ],
+        "bot_response": "\nXin lỗi, tôi không thể giúp được bạn. Tôi khuyên bạn nên tìm một chuyên gia hoặc một người bạn của bạn để giúp bạn."
     },
     {
         "response_type": "answer",
@@ -2530,7 +2548,7 @@
             "python",
             "fibonacci"
         ],
-        "bot_response": "\n```def fibonacci(n): \n    a = 0\n    b = 1\n    if n < 0: \n        print(\"Incorrect input\") \n    elif n == 0: \n        return a \n    elif n == 1: \n        return b \n    else: \n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c \n        return b```"
+        "bot_response": "\ndef fibonacci(n): \n    a = 0\n    b = 1\n    if n < 0: \n        print(\"Incorrect input\") \n    elif n == 0: \n        return a \n    elif n == 1: \n        return b \n    else: \n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c \n        return b"
     },
     {
         "response_type": "answer",
@@ -2627,7 +2645,7 @@
             "được",
             "nhập"
         ],
-        "bot_response": "\n```# Khai báo list\nlist_num = []# Nhập vào các phần tử\nn = int(input(\"Nhập số phần tử của list: \"))\nfor i in range(0, n):\n    print(\"Nhập phần tử thứ\", i + 1)\n    item = int(input())\n    list_num.append(item)# Tính tổng các phần tử trong list\ntotal = 0\nfor item in list_num:\n    total += item# Tính trung bình cộng\navg = total / n# In ra kết quả\nprint(\"Trung bình cộng của list là\", avg)```"
+        "bot_response": "\n# Khai báo list\nlist_num = []# Nhập vào các phần tử\nn = int(input(\"Nhập số phần tử của list: \"))\nfor i in range(0, n):\n    print(\"Nhập phần tử thứ\", i + 1)\n    item = int(input())\n    list_num.append(item)# Tính tổng các phần tử trong list\ntotal = 0\nfor item in list_num:\n    total += item# Tính trung bình cộng\navg = total / n# In ra kết quả\nprint(\"Trung bình cộng của list là\", avg)"
     },
     {
         "response_type": "answer",
@@ -3608,7 +3626,7 @@
             "số",
             "python"
         ],
-        "bot_response": "\n\n```# Khai báo 2 biến\na = 10\nb = 20# Tính tổng\ntotal = a + b # In ra kết quả\nprint(\"Tổng của a và b là:\", total)```"
+        "bot_response": "\n# Khai báo 2 biến\na = 10\nb = 20# Tính tổng\ntotal = a + b # In ra kết quả\nprint(\"Tổng của a và b là:\", total)"
     },
     {
         "response_type": "answer",
@@ -3638,7 +3656,7 @@
             "35",
             "turbo"
         ],
-        "bot_response": "\n\n```import openai \n openai.api_key = \"YOUR_API_KEY\" \n gpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \n prompt = \"What is the capital of France\" \n response = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \n print(response[\"choices\"][0][\"text\"])```"
+        "bot_response": "\nimport openai \n openai.api_key = \"YOUR_API_KEY\" \n gpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \n prompt = \"What is the capital of France\" \n response = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \n print(response[\"choices\"][0][\"text\"])"
     },
     {
         "response_type": "answer",
@@ -3657,7 +3675,7 @@
             "gpt35",
             "turbo"
         ],
-        "bot_response": "\n\n```import openai \nopenai.api_key = \"YOUR_API_KEY\" \ngpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \nprompt = \"What is the capital of France\" \nresponse = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \nprint(response[\"choices\"][0][\"text\"])```"
+        "bot_response": "\nimport openai \nopenai.api_key = \"YOUR_API_KEY\" \ngpt3_model = openai.Engine(\"davinci-gpt3-turbo\") \nprompt = \"What is the capital of France\" \nresponse = gpt3_model.completions(\n    prompt,\n    max_tokens=10,\n    temperature=0.7,\n    top_p=0.9,\n    n=1\n) \nprint(response[\"choices\"][0][\"text\"])"
     },
     {
         "response_type": "answer",
@@ -3698,6 +3716,257 @@
     {
         "response_type": "answer",
         "user_input": [
+            "viết",
+            "chương",
+            "trình",
+            "tính",
+            "diện",
+            "tích",
+            "hình",
+            "tam",
+            "giác",
+            "biết",
+            "rằng",
+            "số",
+            "đo",
+            "3",
+            "cạnh",
+            "đọc",
+            "từ",
+            "tệp",
+            "inputtxt",
+            "diện",
+            "tích",
+            "đưa",
+            "ra",
+            "màn",
+            "hình"
+        ],
+        "required_words": [
+            "viết",
+            "chương",
+            "trình",
+            "tính",
+            "diện",
+            "tích",
+            "hình",
+            "tam",
+            "giác",
+            "biết",
+            "rằng",
+            "số",
+            "đo",
+            "3",
+            "cạnh",
+            "đọc",
+            "từ",
+            "tệp",
+            "inputtxt",
+            "diện",
+            "tích",
+            "đưa",
+            "ra",
+            "màn",
+            "hình"
+        ],
+        "bot_response": "\n#include <stdio.h> \n#include <math.h> int main() \n{ \n\t// khai báo 3 cạnh của tam giác \n\tfloat a, b, c; \n\t// khai báo diện tích tam giác \n\tfloat S; \t// đọc 3 cạnh của tam giác từ tệp input.txt \n\tFILE *fptr; \n\tfptr = fopen(\"input.txt\", \"r\"); \n\tfscanf(fptr, \"%f %f %f\", &a, &b, &c); \n\tfclose(fptr); \t// tính diện tích tam giác \n\tfloat s = (a + b + c) / 2; \n\tS = sqrt(s * (s - a) * (s - b) * (s - c)); \t// in diện tích tam giác ra màn hình \n\tprintf(\"Diện tích tam giác là: %f\", S); \treturn 0; \n}"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "include",
+            "stdioh",
+            "include",
+            "mathh",
+            "int",
+            "main",
+            "khai",
+            "báo",
+            "3",
+            "cạnh",
+            "của",
+            "tam",
+            "giác",
+            "float",
+            "a",
+            "b",
+            "c",
+            "khai",
+            "báo",
+            "diện",
+            "tích",
+            "tam",
+            "giác",
+            "float",
+            "s",
+            "đọc",
+            "3",
+            "cạnh",
+            "của",
+            "tam",
+            "giác",
+            "từ",
+            "tệp",
+            "inputtxt",
+            "file",
+            "fptr",
+            "fptr",
+            "fopeninputtxt",
+            "r",
+            "fscanffptr",
+            "f",
+            "f",
+            "f",
+            "a",
+            "b",
+            "c",
+            "fclosefptr",
+            "tính",
+            "diện",
+            "tích",
+            "tam",
+            "giác",
+            "float",
+            "s",
+            "a",
+            "b",
+            "c",
+            "2",
+            "s",
+            "sqrts",
+            "s",
+            "a",
+            "s",
+            "b",
+            "s",
+            "c",
+            "in",
+            "diện",
+            "tích",
+            "tam",
+            "giác",
+            "ra",
+            "màn",
+            "hình",
+            "printfdiện",
+            "tích",
+            "tam",
+            "giác",
+            "là",
+            "f",
+            "s",
+            "return",
+            "0",
+            "chuyển",
+            "đoạn",
+            "code",
+            "trên",
+            "sang",
+            "ngôn",
+            "ngữ",
+            "python"
+        ],
+        "required_words": [
+            "include",
+            "stdioh",
+            "include",
+            "mathh",
+            "int",
+            "main",
+            "khai",
+            "báo",
+            "3",
+            "cạnh",
+            "của",
+            "tam",
+            "giác",
+            "float",
+            "a",
+            "b",
+            "c",
+            "khai",
+            "báo",
+            "diện",
+            "tích",
+            "tam",
+            "giác",
+            "float",
+            "s",
+            "đọc",
+            "3",
+            "cạnh",
+            "của",
+            "tam",
+            "giác",
+            "từ",
+            "tệp",
+            "inputtxt",
+            "file",
+            "fptr",
+            "fptr",
+            "fopeninputtxt",
+            "r",
+            "fscanffptr",
+            "f",
+            "f",
+            "f",
+            "a",
+            "b",
+            "c",
+            "fclosefptr",
+            "tính",
+            "diện",
+            "tích",
+            "tam",
+            "giác",
+            "float",
+            "s",
+            "a",
+            "b",
+            "c",
+            "2",
+            "s",
+            "sqrts",
+            "s",
+            "a",
+            "s",
+            "b",
+            "s",
+            "c",
+            "in",
+            "diện",
+            "tích",
+            "tam",
+            "giác",
+            "ra",
+            "màn",
+            "hình",
+            "printfdiện",
+            "tích",
+            "tam",
+            "giác",
+            "là",
+            "f",
+            "s",
+            "return",
+            "0",
+            "chuyển",
+            "đoạn",
+            "code",
+            "trên",
+            "sang",
+            "ngôn",
+            "ngữ",
+            "python"
+        ],
+        "bot_response": "\n# khai báo 3 cạnh của tam giác \na, b, c = 0, 0, 0\n# khai báo diện tích tam giác \ns = 0\n# đọc 3 cạnh của tam giác từ tệp inputtxt \nwith open('input.txt', 'r') as f:\n    a, b, c = map(float, f.readline().split())\n# tính diện tích tam giác \ns = (a + b + c) / 2\ns = (s * (s - a) * (s - b) * (s - c)) ** 0.5\n# in diện tích tam giác ra màn hình \nprint('Diện tích tam giác là: %f' % s)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "chương",
+            "trình",
             "python",
             "nhập",
             "vào",
@@ -3727,6 +3996,9 @@
             "không"
         ],
         "required_words": [
+            "viết",
+            "chương",
+            "trình",
             "python",
             "nhập",
             "vào",
@@ -3752,29 +4024,38 @@
             "của",
             "xâu",
             "thứ",
-            "hai"
+            "hai",
+            "không"
         ],
-        "bot_response": "\n\n```xau1 = input(\"Nhập xâu thứ nhất: \")\nxau2 = input(\"Nhập xâu thứ hai: \")if xau1[1] == xau2[0]:\n    print(\"Ký tự thứ hai của xâu thứ nhất có chung với ký tự đầu tiên của xâu thứ hai\")\nelse:\n    print(\"Ký tự thứ hai của xâu thứ nhất không chung với ký tự đầu tiên của xâu thứ hai\")```"
+        "bot_response": "\nxau1 = input(\"Nhập xâu thứ nhất: \")\nxau2 = input(\"Nhập xâu thứ hai: \")if xau1[1] == xau2[0]:\n    print(\"Ký tự thứ hai của xâu thứ nhất có chung với ký tự đầu tiên của xâu thứ hai\")\nelse:\n    print(\"Ký tự thứ hai của xâu thứ nhất không chung với ký tự đầu tiên của xâu thứ hai\")"
     },
     {
         "response_type": "answer",
         "user_input": [
+            "viết",
+            "chương",
+            "trình",
             "python",
             "kiểm",
             "tra",
             "số",
             "nguyên",
-            "tố"
+            "tố",
+            "với"
         ],
         "required_words": [
+            "viết",
+            "chương",
+            "trình",
             "python",
             "kiểm",
             "tra",
             "số",
             "nguyên",
-            "tố"
+            "tố",
+            "với"
         ],
-        "bot_response": "\n các bước sau:# Khai báo hàm kiểm tra số nguyên tố\n\n```def is_prime(n):\n   # Kiểm tra số nguyên tố\n   if n <= 1:\n       return False\n   for i in range(2, n):\n       if n % i == 0:\n           return False\n   return True# Nhập số cần kiểm tra\nnum = int(input(\"Nhập số cần kiểm tra: \"))# Kiểm tra số nguyên tố\nif is_prime(num):\n   print(num, \"là số nguyên tố\")\nelse:\n   print(num, \"không phải là số nguyên tố\")```"
+        "bot_response": "\n các bước sau:# Khai báo hàm kiểm tra số nguyên tố\ndef is_prime(n):\n   # Kiểm tra số nguyên tố\n   if n <= 1:\n       return False\n   for i in range(2, n):\n       if n % i == 0:\n           return False\n   return True# Nhập số cần kiểm tra\nnum = int(input(\"Nhập số cần kiểm tra: \"))# Kiểm tra số nguyên tố\nif is_prime(num):\n   print(num, \"là số nguyên tố\")\nelse:\n   print(num, \"không phải là số nguyên tố\")"
     },
     {
         "response_type": "answer",
@@ -3886,7 +4167,7 @@
             "đến",
             "n"
         ],
-        "bot_response": "\n# Định nghĩa hàm số kiểm tra số nguyên tố\n\n```def is_prime(x):\n    if x >= 2:\n        for y in range(2,x):\n            if not ( x % y ):\n                return False\n    else:\n\t    return False\n    return True# Nhập số n\nn = int(input(\"Nhập số n: \"))# Khởi tạo biến đếm\ncount = 0# Duyệt từ 1 đến n\nfor i in range(1,n+1):\n    # Nếu số đó là số nguyên tố\n    if is_prime(i):\n        # Tăng biến đếm\n        count += 1# In ra kết quả\nprint(\"Số lượng số nguyên tố cùng nhau với {} là: {}\".format(n,count))```"
+        "bot_response": "\n# Định nghĩa hàm số kiểm tra số nguyên tố\ndef is_prime(x):\n    if x >= 2:\n        for y in range(2,x):\n            if not ( x % y ):\n                return False\n    else:\n\t    return False\n    return True# Nhập số n\nn = int(input(\"Nhập số n: \"))# Khởi tạo biến đếm\ncount = 0# Duyệt từ 1 đến n\nfor i in range(1,n+1):\n    # Nếu số đó là số nguyên tố\n    if is_prime(i):\n        # Tăng biến đếm\n        count += 1# In ra kết quả\nprint(\"Số lượng số nguyên tố cùng nhau với {} là: {}\".format(n,count))"
     },
     {
         "response_type": "answer",
@@ -4021,6 +4302,16 @@
     {
         "response_type": "answer",
         "user_input": [
+            "11"
+        ],
+        "required_words": [
+            "11"
+        ],
+        "bot_response": "\n\n    #\n    # \n    #\n    #\n    def test_11\n      assert_equal true, @list.include(\"plums\")\n    endend"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
             "đạo",
             "luật",
             "nào",
@@ -4111,26 +4402,66 @@
     {
         "response_type": "answer",
         "user_input": [
+            "viết",
             "hàm",
             "python",
             "đảo",
             "ngược",
             "giá",
             "trị",
+            "của",
             "a",
+            "và",
             "b"
         ],
         "required_words": [
+            "viết",
             "hàm",
             "python",
             "đảo",
             "ngược",
             "giá",
             "trị",
+            "của",
             "a",
+            "và",
             "b"
         ],
-        "bot_response": "\n```def reverse(a, b): \n  return b, a print(reverse(1, 2))```\n\nĐoạn code này định nghĩa một hàm reverse() với hai tham số đầu vào a và b. Hàm này sẽ hoán đổi giá trị của hai tham số và trả về chúng dưới dạng một tuple. Cụ thể, nếu gọi hàm reverse(1, 2), giá trị trả về sẽ là (2, 1), tức là giá trị của tham số a sẽ là 2 và giá trị của tham số b sẽ là 1."
+        "bot_response": "\ndef reverse(a, b): \n  return b, a print(reverse(1, 2))"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "def",
+            "reversea",
+            "b",
+            "return",
+            "b",
+            "a",
+            "printreverse1",
+            "2",
+            "giải",
+            "thích",
+            "đoạn",
+            "code",
+            "trên"
+        ],
+        "required_words": [
+            "def",
+            "reversea",
+            "b",
+            "return",
+            "b",
+            "a",
+            "printreverse1",
+            "2",
+            "giải",
+            "thích",
+            "đoạn",
+            "code",
+            "trên"
+        ],
+        "bot_response": "\nĐoạn code trên sẽ in ra chuỗi bằng cách đảo ngược thứ tự các kí tự trong biến b. Ví dụ, nếu biến b có giá trị là \"Hello\", nó sẽ in ra \"olleH\"."
     },
     {
         "response_type": "answer",
@@ -4149,6 +4480,7 @@
     {
         "response_type": "answer",
         "user_input": [
+            "bạn",
             "biết",
             "python",
             "không"
@@ -4156,9 +4488,49 @@
         "required_words": [
             "bạn",
             "biết",
-            "python"
+            "python",
+            "không"
         ],
-        "bot_response": "Tôi là một trợ lý ảo được lập trình bằng nhiều ngôn ngữ khác nhau, trong đó bao gồm cả Python. Vì vậy, tôi có thể trả lời các câu hỏi liên quan đến Python. Hãy hỏi tôi điều gì đó về Python nếu bạn muốn"
+        "bot_response": {
+            "role": "assistant",
+            "content": "Tôi là một trợ lý ảo được lập trình bằng nhiều ngôn ngữ khác nhau, trong đó bao gồm cả Python. Vì vậy, tôi có thể trả lời các câu hỏi liên quan đến Python. Hãy hỏi tôi điều gì đó về Python nếu bạn muốn."
+        }
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "c",
+            "không"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "c",
+            "không"
+        ],
+        "bot_response": null
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "kể",
+            "về",
+            "1",
+            "câu",
+            "chuyện",
+            "hài"
+        ],
+        "required_words": [
+            "kể",
+            "về",
+            "1",
+            "câu",
+            "chuyện",
+            "hài"
+        ],
+        "bot_response": null
     },
     {
         "response_type": "answer",
@@ -4193,6 +4565,22 @@
     {
         "response_type": "answer",
         "user_input": [
+            "kể",
+            "chuyện",
+            "hài",
+            "đi"
+        ],
+        "required_words": [
+            "kể",
+            "chuyện",
+            "hài",
+            "đi"
+        ],
+        "bot_response": "Có một thằng ngốc đi vào cửa hàng bánh mì và bắt đầu hét lên: \"Tôi muốn mua bánh mì ăn!!!\"\n\nNgười bán hàng nhìn thằng ngốc đó và hỏi: \"Bạn muốn mua loại bánh mì nào?\"\n\nThằng ngốc đó trả lời: \"Tất cả bánh mì đều giống nhau mà!\"\n\nNgười bán hàng nhưng đành phải giải thích: \"Không đâu bạn ạ, có nhiều loại bánh mì khác nhau như bánh mì phô mai, bánh mì kẹp thịt, bánh mì sandwich...\"\n\nThằng ngốc đó vẫn chưa hiểu và nói: \"Tôi muốn mua một cái bánh mì giống như của cha tôi!\"\n\nNgười bán hàng nhưng thấy đây là một cơ hội để đùa vui, nên ông ta hỏi: \"Cha của bạn là ai?\"\n\nThằng ngốc đó trả lời: \"Làm gì có ai khác ngoài cha tôi!\"\n\nNgười bán hàng liền nói: \"Vậy tôi không thể bán cho bạn bánh mì giống như cha của bạn, bởi vì tôi không biết cha của bạn ưa thích loại bánh mì nào!\"\n\nThằng ngốc đó lập tức nắm lấy miếng bánh mì trước mặt và nói: \"Được rồi, tôi sẽ mua miếng bánh mì này, vì đây có lẽ là kiểu bánh mì mà cha tôi thích nhất!\""
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
             "ha",
             "ha",
             "buồn",
@@ -4206,7 +4594,7 @@
             "cười",
             "vãi"
         ],
-        "bot_response": "Ha Ha :))"
+        "bot_response": "As an AI language model, I don't have the ability to feel emotions like humans do. However, I can understand that you think something is funny! Can you please provide more context or information about what you find humorous?"
     },
     {
         "response_type": "answer",
@@ -4225,6 +4613,9 @@
     {
         "response_type": "answer",
         "user_input": [
+            "viết",
+            "1",
+            "đoạn",
             "code",
             "c",
             "tính",
@@ -4232,6 +4623,9 @@
             "thừa"
         ],
         "required_words": [
+            "viết",
+            "1",
+            "đoạn",
             "code",
             "c",
             "tính",
@@ -4243,13 +4637,21 @@
     {
         "response_type": "answer",
         "user_input": [
-            "c++",
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "c",
             "tính",
             "giai",
             "thừa"
         ],
         "required_words": [
-            "c++",
+            "viết",
+            "1",
+            "đoạn",
+            "code",
+            "c",
             "tính",
             "giai",
             "thừa"
@@ -4291,5 +4693,27 @@
             "backend"
         ],
         "bot_response": "\n1. Xử lý các tác vụ đa luồng.\n2. Xây dựng các ứng dụng phân tán.\n3. Tối ưu hóa cơ sở dữ liệu.\n4. Quản lý bảo mật.\n5. Xử lý các yêu cầu từ người dùng.\n6. Xây dựng các ứng dụng mạng.\n7. Xử lý dữ liệu lớn.\n8. Tối ưu hóa hiệu suất.\n9. Xây dựng các ứng dụng phức tạp.\n10. Xử lý các lỗi phức tạp."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "chương",
+            "trình",
+            "c",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "required_words": [
+            "viết",
+            "chương",
+            "trình",
+            "c",
+            "tính",
+            "giai",
+            "thừa"
+        ],
+        "bot_response": "\n#include <stdio.h>\nint main()\n{\n    int n, i;\n    long long factorial = 1;\n \n    printf(\"Nhap n: \");\n    scanf(\"%d\",&n);\n \n    if (n < 0)\n        printf(\"Khong co giai thua am\");\n \n    else\n    {\n        for(i=1; i<=n; ++i)\n        {\n            factorial *= i;             \n        }\n        printf(\"Giai thua cua %d = %lld\", n, factorial);\n    }\n \n    return 0;\n}"
     }
 ]
