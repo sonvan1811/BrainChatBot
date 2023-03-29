@@ -4393,5 +4393,19 @@
             "rồi"
         ],
         "bot_response": "Tôi là một trí tuệ nhân tạo và không có độ tuổi."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ban",
+            "khoẻ",
+            "chứ"
+        ],
+        "required_words": [
+            "ban",
+            "khoẻ",
+            "chứ"
+        ],
+        "bot_response": "As an AI language model, I don't have a physical health, but thank you for asking. How can I assist you further?"
     }
 ]
