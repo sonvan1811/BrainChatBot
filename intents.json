@@ -4309,5 +4309,33 @@
             "gì"
         ],
         "bot_response": "Skill của backend bao gồm:\n\n1. Ngôn ngữ lập trình: Backend Developers cần biết ít nhất một trong các ngôn ngữ lập trình như Java, Python, Ruby, JavaScript.\n\n2. Cơ sở dữ liệu: Khi xây dựng các ứng dụng web, Backend Developers cần phải biết cơ sở dữ liệu bao gồm SQL và NoSQL.\n\n3. Web Frameworks: Backend Developers cần hiểu và phát triển các ứng dụng web, sử dụng các Frameworks như Laravel (PHP), Spring Framework, Ruby on Rails, Express.js (JavaScript).\n\n4. RESTful APIs: Backend Developers phải biết thiết kế và xây dựng các RESTful APIs để cho phép các ứng dụng khác sử dụng các tính năng của ứng dụng của họ.\n\n5. Công cụ quản lý mã nguồn: Backend Developers cần biết các công cụ quản lý mã nguồn như Git để quản lý mã nguồn của họ.\n\n6. Infrastructure: Backend Developers cần phải hiểu cách triển khai ứng dụng của họ trên các nền tảng như AWS, Google Cloud, Heroku, Azure.\n\n7. Quản lý và tổ chức dữ liệu: Backend Developers cần hiểu cách quản lý và tổ chức dữ liệu trong hệ thống của họ."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "skill",
+            "của",
+            "backend",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "skill",
+            "của",
+            "backend",
+            "là",
+            "gì"
+        ],
+        "bot_response": "Các kỹ năng chính của một nhà phát triển backend bao gồm:\n\n1. Kiến thức về các ngôn ngữ lập trình như Python, Java, C#, Ruby, PHP, Scala,...\n2. Kiến thức về cơ sở dữ liệu và các công cụ quản lý cơ sở dữ liệu như SQL, NoSQL (MongoDB, Cassandra, DynamoDB,...)\n3. Kiến thức về các framework phổ biến như Django, Flask, Ruby on Rails, Spring,...\n4. Kiến thức về các công nghệ lưu trữ dữ liệu như Redis, Memcached, Elasticsearch,...\n5. Kiến thức về các chuẩn và giao thức mạng như HTTP, TCP/IP, DNS,...\n6. Kỹ năng về quản lý phiên bản và mã nguồn (source code management) như Git, SVN,...\n7. Kiến thức về các hệ thống điều khiển phiên bản như GitHub, Bitbucket,...\n8. Kỹ năng phát triển và triển khai API (Application Programming Interface)\n9. Kỹ năng xử lý nhu cầu của khách hàng để hiểu rõ những gì họ đang cần và đưa ra giải pháp phù hợp\n10. Kỹ năng vận hành và bảo trì hệ thống, đảm bảo tính ổn định và độ tin cậy của ứng dụng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "wtf"
+        ],
+        "required_words": [
+            "wtf"
+        ],
+        "bot_response": "I'm sorry, can you please provide more context or information about what you are referring to?"
     }
 ]
