@@ -4337,5 +4337,25 @@
             "wtf"
         ],
         "bot_response": "I'm sorry, can you please provide more context or information about what you are referring to?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn",
+            "biết",
+            "nói",
+            "tiếng",
+            "việt",
+            "k"
+        ],
+        "required_words": [
+            "bạn",
+            "biết",
+            "nói",
+            "tiếng",
+            "việt",
+            "k"
+        ],
+        "bot_response": "hông? ừm, tôi là trí tuệ nhân tạo được lập trình để có thể trả lời các câu hỏi và thực hiện nhiều chức năng khác trên máy tính, tuy nhiên tôi cũng có khả năng hiểu và trả lời bằng tiếng Việt đấy. Bạn cần trợ giúp gì không?"
     }
 ]
