@@ -4655,5 +4655,57 @@
             "từ"
         ],
         "bot_response": "\nDanh từ: book\nĐộng từ: read\nTính từ: old\nTrạng từ: quickly"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "ra",
+            "2",
+            "câu",
+            "tiếng",
+            "anh",
+            "với",
+            "từ",
+            "dificult.",
+            "câu",
+            "1:",
+            "ở",
+            "dạng",
+            "danh",
+            "từ",
+            "và",
+            "câu",
+            "2",
+            "ở",
+            "dạng",
+            "tính",
+            "từ"
+        ],
+        "required_words": [
+            "viết",
+            "ra",
+            "2",
+            "câu",
+            "tiếng",
+            "anh",
+            "với",
+            "từ",
+            "dificult.",
+            "câu",
+            "1:",
+            "ở",
+            "dạng",
+            "danh",
+            "từ",
+            "và",
+            "câu",
+            "2",
+            "ở",
+            "dạng",
+            "tính",
+            "từ"
+        ],
+        "bot_response": "\nCâu 1: The task was a difficult one.\nCâu 2: The situation was difficult to handle."
     }
 ]
