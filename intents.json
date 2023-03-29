@@ -4421,5 +4421,19 @@
             "chứ"
         ],
         "bot_response": "As an AI language model, I don't have health, but thanks for asking! How may I assist you today?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ban",
+            "khoẻ",
+            "chứ"
+        ],
+        "required_words": [
+            "ban",
+            "khoẻ",
+            "chứ"
+        ],
+        "bot_response": "Làm trợ lý ảo, tôi không có sức khoẻ vật lý như con người. Tuy nhiên, tôi luôn hoạt động và khả năng phản hồi của tôi luôn giúp đỡ được người dùng. Còn bạn thì sao? Bạn đã chăm sóc sức khoẻ của mình đúng cách chưa? Hãy đảm bảo mình có một lối sống lành mạnh và rèn luyện thể chất thường xuyên để có được sức khoẻ tốt nhất."
     }
 ]
