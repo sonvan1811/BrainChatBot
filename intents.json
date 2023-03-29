@@ -4707,5 +4707,53 @@
             "từ"
         ],
         "bot_response": "\nCâu 1: The task was a difficult one.\nCâu 2: The situation was difficult to handle."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "“câu",
+            "1:",
+            "the",
+            "task",
+            "was",
+            "a",
+            "difficult",
+            "one.",
+            "câu",
+            "2:",
+            "the",
+            "situation",
+            "was",
+            "difficult",
+            "to",
+            "handle.”",
+            "dịch",
+            "sang",
+            "tiếng",
+            "việt"
+        ],
+        "required_words": [
+            "“câu",
+            "1:",
+            "the",
+            "task",
+            "was",
+            "a",
+            "difficult",
+            "one.",
+            "câu",
+            "2:",
+            "the",
+            "situation",
+            "was",
+            "difficult",
+            "to",
+            "handle.”",
+            "dịch",
+            "sang",
+            "tiếng",
+            "việt"
+        ],
+        "bot_response": "\n:Câu 1: Nhiệm vụ đó rất khó.\nCâu 2: Tình huống đó khó xử lý."
     }
 ]
