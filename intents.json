@@ -4291,5 +4291,23 @@
             "backend"
         ],
         "bot_response": "\n1. Xử lý các tác vụ đa luồng.\n2. Xây dựng các ứng dụng phân tán.\n3. Tối ưu hóa cơ sở dữ liệu.\n4. Quản lý bảo mật.\n5. Xử lý các yêu cầu từ người dùng.\n6. Xây dựng các ứng dụng mạng.\n7. Xử lý dữ liệu lớn.\n8. Tối ưu hóa hiệu suất.\n9. Xây dựng các ứng dụng phức tạp.\n10. Xử lý các lỗi phức tạp."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "skill",
+            "của",
+            "backend",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "skill",
+            "của",
+            "backend",
+            "là",
+            "gì"
+        ],
+        "bot_response": "Skill của backend bao gồm:\n\n1. Ngôn ngữ lập trình: Backend Developers cần biết ít nhất một trong các ngôn ngữ lập trình như Java, Python, Ruby, JavaScript.\n\n2. Cơ sở dữ liệu: Khi xây dựng các ứng dụng web, Backend Developers cần phải biết cơ sở dữ liệu bao gồm SQL và NoSQL.\n\n3. Web Frameworks: Backend Developers cần hiểu và phát triển các ứng dụng web, sử dụng các Frameworks như Laravel (PHP), Spring Framework, Ruby on Rails, Express.js (JavaScript).\n\n4. RESTful APIs: Backend Developers phải biết thiết kế và xây dựng các RESTful APIs để cho phép các ứng dụng khác sử dụng các tính năng của ứng dụng của họ.\n\n5. Công cụ quản lý mã nguồn: Backend Developers cần biết các công cụ quản lý mã nguồn như Git để quản lý mã nguồn của họ.\n\n6. Infrastructure: Backend Developers cần phải hiểu cách triển khai ứng dụng của họ trên các nền tảng như AWS, Google Cloud, Heroku, Azure.\n\n7. Quản lý và tổ chức dữ liệu: Backend Developers cần hiểu cách quản lý và tổ chức dữ liệu trong hệ thống của họ."
     }
 ]
