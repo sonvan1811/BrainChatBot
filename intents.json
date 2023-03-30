@@ -4801,5 +4801,25 @@
             "thơ"
         ],
         "bot_response": "Gió thoảng qua xứ sở đất trời\nMang theo hương thơm từ trang tươi\nLá rơi giăng kín nỗi lẻ loi\nMàn đêm xuống phủ mời khắp nơi\nSương lạnh đọng trên cành cây hiu hắt\nÁnh trăng tròn soi bóng người đát\nĐêm như khép lại vòng tay tình\nVà nguồn cảm hứng vẫn tột đỉnh."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "yh["
+        ],
+        "required_words": [
+            "yh["
+        ],
+        "bot_response": "Sorry, I don't understand what you mean by \"yh[\" Can you please elaborate or ask a specific question?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "thơ"
+        ],
+        "required_words": [
+            "thơ"
+        ],
+        "bot_response": "Mặt Trời lặn dần về phía tây\nMây trôi dịu dàng khắp bầu trời\nCơn gió thoảng hiu quạnh theo dòng nước\nNgười lang thang nơi đây chợt nhớ người xa.\n\nĐêm đen phủ kín cả nơi đây\nVầng trăng soi sáng ánh nơi đây\nGió lùa từng cánh lá run rẩy\nTình yêu mời gọi bên đời tôi.\n\nCơn mưa rả rích như ngọn lửa\nRớt xuống miền đất khắp nơi\nChân trời sáng lên một ánh sao đêm\nÁnh sao long lanh đẹp thật đẹp."
     }
 ]
