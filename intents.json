@@ -4845,5 +4845,31 @@
             "minecraft"
         ],
         "bot_response": "Minecraft is a popular sandbox video game that was created and developed by Mojang Studios. Players can explore a blocky, procedurally-generated 3D world and use materials to build structures, tools, and other objects. The game has several modes including survival, creative and adventure mode. In the survival mode, players have to gather resources and mine materials to survive and build, while in creative mode, players can build freely without worrying about resources, health or hunger. The game has also spawned countless mods, maps, and game modes created by a passionate community of players."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "bạn"
+        ],
+        "required_words": [
+            "bạn"
+        ],
+        "bot_response": "Chào bạn, tôi là trợ lý ảo của đội ngũ AI của OpenAI. Tôi có thể giúp bạn với các câu hỏi và vấn đề liên quan đến AI và công nghệ. Vui lòng cho tôi biết nếu bạn cần giúp đỡ gì."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tính",
+            "tổng",
+            "2",
+            "số"
+        ],
+        "required_words": [
+            "tính",
+            "tổng",
+            "2",
+            "số"
+        ],
+        "bot_response": "Xin lỗi, cần cung cấp hai số để tính tổng."
     }
 ]
