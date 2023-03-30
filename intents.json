@@ -4871,5 +4871,17 @@
             "số"
         ],
         "bot_response": "Xin lỗi, cần cung cấp hai số để tính tổng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "1",
+            "2"
+        ],
+        "required_words": [
+            "1",
+            "2"
+        ],
+        "bot_response": "As an AI language model, I do not understand the context of the numbers \"1 2\" to provide a meaningful response. Could you please give more information or clarify your question?"
     }
 ]
