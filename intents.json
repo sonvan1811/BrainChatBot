@@ -4755,5 +4755,15 @@
             "việt"
         ],
         "bot_response": "\n:Câu 1: Nhiệm vụ đó rất khó.\nCâu 2: Tình huống đó khó xử lý."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hey"
+        ],
+        "required_words": [
+            "hey"
+        ],
+        "bot_response": "\n,I'm sorry to hear about your recent break-up. It's never easy to go through a break-up, and it can be especially hard if you weren't expecting it. It's important to remember that you will get through this and that you are not alone. It might be helpful to talk to a friend or family member about your feelings, or to reach out to a professional if you need additional support. Take time to do things that make you feel good and be gentle with yourself. You will get through this."
     }
 ]
