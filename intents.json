@@ -4821,5 +4821,19 @@
             "thơ"
         ],
         "bot_response": "Mặt Trời lặn dần về phía tây\nMây trôi dịu dàng khắp bầu trời\nCơn gió thoảng hiu quạnh theo dòng nước\nNgười lang thang nơi đây chợt nhớ người xa.\n\nĐêm đen phủ kín cả nơi đây\nVầng trăng soi sáng ánh nơi đây\nGió lùa từng cánh lá run rẩy\nTình yêu mời gọi bên đời tôi.\n\nCơn mưa rả rích như ngọn lửa\nRớt xuống miền đất khắp nơi\nChân trời sáng lên một ánh sao đêm\nÁnh sao long lanh đẹp thật đẹp."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ban",
+            "là",
+            "ai"
+        ],
+        "required_words": [
+            "ban",
+            "là",
+            "ai"
+        ],
+        "bot_response": "Tôi không hiểu rõ bạn muốn hỏi về ai là \"ban\". Ban có thể là từ tiếng Việt có nhiều ý nghĩa khác nhau. Bạn có thể cung cấp thêm thông tin để tôi có thể giúp đỡ bạn tốt hơn được không?"
     }
 ]
