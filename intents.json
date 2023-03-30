@@ -4765,5 +4765,15 @@
             "hey"
         ],
         "bot_response": "\n,I'm sorry to hear about your recent break-up. It's never easy to go through a break-up, and it can be especially hard if you weren't expecting it. It's important to remember that you will get through this and that you are not alone. It might be helpful to talk to a friend or family member about your feelings, or to reach out to a professional if you need additional support. Take time to do things that make you feel good and be gentle with yourself. You will get through this."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hello"
+        ],
+        "required_words": [
+            "hello"
+        ],
+        "bot_response": "\n,I am writing to express my interest in the position of Senior Software Engineer.I have been a software engineer for the past five years, and I am highly experienced in developing and maintaining web applications. I have extensive knowledge of various programming languages, including Java, Python, and JavaScript. I am also familiar with web frameworks such as Angular, React, and Node.js.In addition, I have a strong understanding of software development processes, such as version control, unit testing, and continuous integration. I have experience in a wide range of technologies, including databases, cloud computing, and mobile development.I am confident that my skills and experience make me an ideal candidate for the position. I am eager to discuss the role and my qualifications in further detail.Thank you for your time and consideration.Sincerely,[Your Name]"
     }
 ]
