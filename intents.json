@@ -4775,5 +4775,15 @@
             "hello"
         ],
         "bot_response": "\n,I am writing to express my interest in the position of Senior Software Engineer.I have been a software engineer for the past five years, and I am highly experienced in developing and maintaining web applications. I have extensive knowledge of various programming languages, including Java, Python, and JavaScript. I am also familiar with web frameworks such as Angular, React, and Node.js.In addition, I have a strong understanding of software development processes, such as version control, unit testing, and continuous integration. I have experience in a wide range of technologies, including databases, cloud computing, and mobile development.I am confident that my skills and experience make me an ideal candidate for the position. I am eager to discuss the role and my qualifications in further detail.Thank you for your time and consideration.Sincerely,[Your Name]"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "nhân"
+        ],
+        "required_words": [
+            "nhân"
+        ],
+        "bot_response": "Sorry, I'm not sure what you mean by \"nhân\". Can you please provide more context or information?"
     }
 ]
