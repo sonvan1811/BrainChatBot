@@ -4785,5 +4785,21 @@
             "nhân"
         ],
         "bot_response": "Sorry, I'm not sure what you mean by \"nhân\". Can you please provide more context or information?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "một",
+            "đoạn",
+            "thơ"
+        ],
+        "required_words": [
+            "viết",
+            "một",
+            "đoạn",
+            "thơ"
+        ],
+        "bot_response": "Gió thoảng qua xứ sở đất trời\nMang theo hương thơm từ trang tươi\nLá rơi giăng kín nỗi lẻ loi\nMàn đêm xuống phủ mời khắp nơi\nSương lạnh đọng trên cành cây hiu hắt\nÁnh trăng tròn soi bóng người đát\nĐêm như khép lại vòng tay tình\nVà nguồn cảm hứng vẫn tột đỉnh."
     }
 ]
