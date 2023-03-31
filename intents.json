@@ -4336,7 +4336,7 @@
         "required_words": [
             "wtf"
         ],
-        "bot_response": "I'm sorry, can you please provide more context or information about what you are referring to?"
+        "bot_response": "?"
     },
     {
         "response_type": "answer",
@@ -4346,7 +4346,7 @@
             "nói",
             "tiếng",
             "việt",
-            "k"
+            "không"
         ],
         "required_words": [
             "bạn",
@@ -4354,7 +4354,7 @@
             "nói",
             "tiếng",
             "việt",
-            "k"
+            "không"
         ],
         "bot_response": "hông? ừm, tôi là trí tuệ nhân tạo được lập trình để có thể trả lời các câu hỏi và thực hiện nhiều chức năng khác trên máy tính, tuy nhiên tôi cũng có khả năng hiểu và trả lời bằng tiếng Việt đấy. Bạn cần trợ giúp gì không?"
     },
@@ -4379,416 +4379,6 @@
     {
         "response_type": "answer",
         "user_input": [
-            "2.",
-            "viết",
-            "chương",
-            "trình",
-            "python",
-            "nhập",
-            "ba",
-            "số",
-            "tự",
-            "nhiên",
-            "từ",
-            "bàn",
-            "phím",
-            "day,",
-            "month,",
-            "year,",
-            "các",
-            "số",
-            "cách",
-            "nhau",
-            "bởi",
-            "dấu",
-            "cách.",
-            "các",
-            "số",
-            "này",
-            "biểu",
-            "diễn",
-            "giá",
-            "trị",
-            "của",
-            "ngày,",
-            "tháng,",
-            "năm",
-            "nào",
-            "đó.",
-            "chương",
-            "trình",
-            "cần",
-            "kiểm",
-            "tra",
-            "và",
-            "in",
-            "ra",
-            "thông",
-            "báo",
-            "số",
-            "liệu",
-            "đã",
-            "nhập",
-            "vào",
-            "đó",
-            "có",
-            "hợp",
-            "lệ",
-            "hay",
-            "không"
-        ],
-        "required_words": [
-            "2.",
-            "viết",
-            "chương",
-            "trình",
-            "python",
-            "nhập",
-            "ba",
-            "số",
-            "tự",
-            "nhiên",
-            "từ",
-            "bàn",
-            "phím",
-            "day,",
-            "month,",
-            "year,",
-            "các",
-            "số",
-            "cách",
-            "nhau",
-            "bởi",
-            "dấu",
-            "cách.",
-            "các",
-            "số",
-            "này",
-            "biểu",
-            "diễn",
-            "giá",
-            "trị",
-            "của",
-            "ngày,",
-            "tháng,",
-            "năm",
-            "nào",
-            "đó.",
-            "chương",
-            "trình",
-            "cần",
-            "kiểm",
-            "tra",
-            "và",
-            "in",
-            "ra",
-            "thông",
-            "báo",
-            "số",
-            "liệu",
-            "đã",
-            "nhập",
-            "vào",
-            "đó",
-            "có",
-            "hợp",
-            "lệ",
-            "hay",
-            "không"
-        ],
-        "bot_response": "\n.**Đáp án**day, month, year = input(\"Nhập vào ngày, tháng, năm: \").split()\nday = int(day)\nmonth = int(month)\nyear = int(year)if day<=0 or day>31:\n  print(\"Ngày không hợp lệ\")\nelif month<=0 or month>12:\n  print(\"Tháng không hợp lệ\")\nelif year<=0:\n  print(\"Năm không hợp lệ\")\nelse:\n  print(\"Ngày, tháng, năm đã nhập là hợp lệ\")"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "“.**đáp",
-            "án**day,",
-            "month,",
-            "year",
-            "=",
-            "input(\"nhập",
-            "vào",
-            "ngày,",
-            "tháng,",
-            "năm:",
-            "\").split()",
-            "day",
-            "=",
-            "int(day)",
-            "month",
-            "=",
-            "int(month)",
-            "year",
-            "=",
-            "int(year)if",
-            "day<=0",
-            "or",
-            "day>31:",
-            "print(\"ngày",
-            "không",
-            "hợp",
-            "lệ\")",
-            "elif",
-            "month<=0",
-            "or",
-            "month>12:",
-            "print(\"tháng",
-            "không",
-            "hợp",
-            "lệ\")",
-            "elif",
-            "year<=0:",
-            "print(\"năm",
-            "không",
-            "hợp",
-            "lệ\")",
-            "else:",
-            "print(\"ngày,",
-            "tháng,",
-            "năm",
-            "đã",
-            "nhập",
-            "là",
-            "hợp",
-            "lệ\")”",
-            "xử",
-            "lý",
-            "tháng",
-            "2",
-            "có",
-            "28",
-            "ngày"
-        ],
-        "required_words": [
-            "“.**đáp",
-            "án**day,",
-            "month,",
-            "year",
-            "=",
-            "input(\"nhập",
-            "vào",
-            "ngày,",
-            "tháng,",
-            "năm:",
-            "\").split()",
-            "day",
-            "=",
-            "int(day)",
-            "month",
-            "=",
-            "int(month)",
-            "year",
-            "=",
-            "int(year)if",
-            "day<=0",
-            "or",
-            "day>31:",
-            "print(\"ngày",
-            "không",
-            "hợp",
-            "lệ\")",
-            "elif",
-            "month<=0",
-            "or",
-            "month>12:",
-            "print(\"tháng",
-            "không",
-            "hợp",
-            "lệ\")",
-            "elif",
-            "year<=0:",
-            "print(\"năm",
-            "không",
-            "hợp",
-            "lệ\")",
-            "else:",
-            "print(\"ngày,",
-            "tháng,",
-            "năm",
-            "đã",
-            "nhập",
-            "là",
-            "hợp",
-            "lệ\")”",
-            "xử",
-            "lý",
-            "tháng",
-            "2",
-            "có",
-            "28",
-            "ngày"
-        ],
-        "bot_response": "\n hoặc 29 ngàyif month == 2:\n  if day > 29 or (day == 29 and year % 4 != 0):\n    print(\"Ngày không hợp lệ\")\n  else:\n    print(\"Ngày, tháng, năm đã nhập là hợp lệ\")"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "từ",
-            "tiếng",
-            "anh",
-            "có",
-            "cả",
-            "nghĩa",
-            "danh",
-            "từ,",
-            "động",
-            "từ,",
-            "tính",
-            "từ,",
-            "trạng",
-            "từ"
-        ],
-        "required_words": [
-            "từ",
-            "tiếng",
-            "anh",
-            "có",
-            "cả",
-            "nghĩa",
-            "danh",
-            "từ,",
-            "động",
-            "từ,",
-            "tính",
-            "từ,",
-            "trạng",
-            "từ"
-        ],
-        "bot_response": "\nDanh từ: book\nĐộng từ: read\nTính từ: old\nTrạng từ: quickly"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "viết",
-            "ra",
-            "2",
-            "câu",
-            "tiếng",
-            "anh",
-            "với",
-            "từ",
-            "dificult.",
-            "câu",
-            "1:",
-            "ở",
-            "dạng",
-            "danh",
-            "từ",
-            "và",
-            "câu",
-            "2",
-            "ở",
-            "dạng",
-            "tính",
-            "từ"
-        ],
-        "required_words": [
-            "viết",
-            "ra",
-            "2",
-            "câu",
-            "tiếng",
-            "anh",
-            "với",
-            "từ",
-            "dificult.",
-            "câu",
-            "1:",
-            "ở",
-            "dạng",
-            "danh",
-            "từ",
-            "và",
-            "câu",
-            "2",
-            "ở",
-            "dạng",
-            "tính",
-            "từ"
-        ],
-        "bot_response": "\nCâu 1: The task was a difficult one.\nCâu 2: The situation was difficult to handle."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "“câu",
-            "1:",
-            "the",
-            "task",
-            "was",
-            "a",
-            "difficult",
-            "one.",
-            "câu",
-            "2:",
-            "the",
-            "situation",
-            "was",
-            "difficult",
-            "to",
-            "handle.”",
-            "dịch",
-            "sang",
-            "tiếng",
-            "việt"
-        ],
-        "required_words": [
-            "“câu",
-            "1:",
-            "the",
-            "task",
-            "was",
-            "a",
-            "difficult",
-            "one.",
-            "câu",
-            "2:",
-            "the",
-            "situation",
-            "was",
-            "difficult",
-            "to",
-            "handle.”",
-            "dịch",
-            "sang",
-            "tiếng",
-            "việt"
-        ],
-        "bot_response": "\n:Câu 1: Nhiệm vụ đó rất khó.\nCâu 2: Tình huống đó khó xử lý."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "hey"
-        ],
-        "required_words": [
-            "hey"
-        ],
-        "bot_response": "\n,I'm sorry to hear about your recent break-up. It's never easy to go through a break-up, and it can be especially hard if you weren't expecting it. It's important to remember that you will get through this and that you are not alone. It might be helpful to talk to a friend or family member about your feelings, or to reach out to a professional if you need additional support. Take time to do things that make you feel good and be gentle with yourself. You will get through this."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "hello"
-        ],
-        "required_words": [
-            "hello"
-        ],
-        "bot_response": "\n,I am writing to express my interest in the position of Senior Software Engineer.I have been a software engineer for the past five years, and I am highly experienced in developing and maintaining web applications. I have extensive knowledge of various programming languages, including Java, Python, and JavaScript. I am also familiar with web frameworks such as Angular, React, and Node.js.In addition, I have a strong understanding of software development processes, such as version control, unit testing, and continuous integration. I have experience in a wide range of technologies, including databases, cloud computing, and mobile development.I am confident that my skills and experience make me an ideal candidate for the position. I am eager to discuss the role and my qualifications in further detail.Thank you for your time and consideration.Sincerely,[Your Name]"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "nhân"
-        ],
-        "required_words": [
-            "nhân"
-        ],
-        "bot_response": "Sorry, I'm not sure what you mean by \"nhân\". Can you please provide more context or information?"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
             "viết",
             "một",
             "đoạn",
@@ -4805,36 +4395,16 @@
     {
         "response_type": "answer",
         "user_input": [
-            "yh["
-        ],
-        "required_words": [
-            "yh["
-        ],
-        "bot_response": "Sorry, I don't understand what you mean by \"yh[\" Can you please elaborate or ask a specific question?"
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "thơ"
-        ],
-        "required_words": [
-            "thơ"
-        ],
-        "bot_response": "Mặt Trời lặn dần về phía tây\nMây trôi dịu dàng khắp bầu trời\nCơn gió thoảng hiu quạnh theo dòng nước\nNgười lang thang nơi đây chợt nhớ người xa.\n\nĐêm đen phủ kín cả nơi đây\nVầng trăng soi sáng ánh nơi đây\nGió lùa từng cánh lá run rẩy\nTình yêu mời gọi bên đời tôi.\n\nCơn mưa rả rích như ngọn lửa\nRớt xuống miền đất khắp nơi\nChân trời sáng lên một ánh sao đêm\nÁnh sao long lanh đẹp thật đẹp."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "ban",
+            "bạn",
             "là",
             "ai"
         ],
         "required_words": [
-            "ban",
+            "bạn",
             "là",
             "ai"
         ],
-        "bot_response": "Tôi không hiểu rõ bạn muốn hỏi về ai là \"ban\". Ban có thể là từ tiếng Việt có nhiều ý nghĩa khác nhau. Bạn có thể cung cấp thêm thông tin để tôi có thể giúp đỡ bạn tốt hơn được không?"
+        "bot_response": "Tôi là Hevin, trợ lý ảo đắc lực của Văn Sơn"
     },
     {
         "response_type": "answer",
@@ -4854,7 +4424,7 @@
         "required_words": [
             "bạn"
         ],
-        "bot_response": "Chào bạn, tôi là trợ lý ảo của đội ngũ AI của OpenAI. Tôi có thể giúp bạn với các câu hỏi và vấn đề liên quan đến AI và công nghệ. Vui lòng cho tôi biết nếu bạn cần giúp đỡ gì."
+        "bot_response": "Chào bạn, tôi là trợ lý ảo của Văn Sơn ( Mrs ). Tôi có thể giúp bạn với các câu hỏi và vấn đề liên quan đến AI và công nghệ. Vui lòng cho tôi biết nếu bạn cần giúp đỡ gì"
     },
     {
         "response_type": "answer",
@@ -4870,18 +4440,6 @@
             "2",
             "số"
         ],
-        "bot_response": "Xin lỗi, cần cung cấp hai số để tính tổng."
-    },
-    {
-        "response_type": "answer",
-        "user_input": [
-            "1",
-            "2"
-        ],
-        "required_words": [
-            "1",
-            "2"
-        ],
-        "bot_response": "As an AI language model, I do not understand the context of the numbers \"1 2\" to provide a meaningful response. Could you please give more information or clarify your question?"
+        "bot_response": "Xin lỗi, cần cung cấp hai số để tính tổng. Ví dụ như: 100 + 800"
     }
 ]
