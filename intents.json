@@ -4453,5 +4453,15 @@
             "không"
         ],
         "bot_response": "Có ! Tôi rất là khỏe"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "asd"
+        ],
+        "required_words": [
+            "asd"
+        ],
+        "bot_response": "I'm sorry, I don't understand what you mean by \"asd\". Could you please provide me with more context or information to better understand your request?"
     }
 ]
