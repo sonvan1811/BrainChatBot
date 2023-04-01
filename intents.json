@@ -4463,5 +4463,55 @@
             "asd"
         ],
         "bot_response": "I'm sorry, I don't understand what you mean by \"asd\". Could you please provide me with more context or information to better understand your request?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "một",
+            "chương",
+            "trình",
+            "python",
+            "tạo",
+            "ra",
+            "1",
+            "hàm",
+            "để",
+            "tìm",
+            "số",
+            "lớn",
+            "nhất",
+            "trong",
+            "một",
+            "danh",
+            "sách",
+            "được",
+            "cung",
+            "cấp."
+        ],
+        "required_words": [
+            "viết",
+            "một",
+            "chương",
+            "trình",
+            "python",
+            "tạo",
+            "ra",
+            "1",
+            "hàm",
+            "để",
+            "tìm",
+            "số",
+            "lớn",
+            "nhất",
+            "trong",
+            "một",
+            "danh",
+            "sách",
+            "được",
+            "cung",
+            "cấp."
+        ],
+        "bot_response": "\ndef find_max(nums): \n  max_num = nums[0] \n  for i in nums: \n    if i > max_num: \n      max_num = i \n  return max_num# Sử dụng hàm\nnums = [3, 5, 1, 6, 8, 2]\nmax_num = find_max(nums)\nprint(\"Số lớn nhất trong danh sách là:\", max_num)"
     }
 ]
