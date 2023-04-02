@@ -4577,5 +4577,37 @@
             "trên"
         ],
         "bot_response": "\ndef find_max(list):\n  max_num = list[0]\n  for i in list:\n    if i > max_num:\n      max_num = i\n  return max_num# Gọi hàm\nmy_list = [5, 8, 10, 3, 2]\nmax_num = find_max(my_list)\nprint(max_num) # In ra số lớn nhất trong danh sách là 10"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "take",
+            "care",
+            "of",
+            "mang",
+            "nghĩa",
+            "là",
+            "“thực",
+            "hiện”",
+            "trong",
+            "trường",
+            "hợp",
+            "nào"
+        ],
+        "required_words": [
+            "take",
+            "care",
+            "of",
+            "mang",
+            "nghĩa",
+            "là",
+            "“thực",
+            "hiện”",
+            "trong",
+            "trường",
+            "hợp",
+            "nào"
+        ],
+        "bot_response": "\n đó.Take care of có thể được hiểu như thực hiện những thao tác cần thiết để đảm bảo một công việc hoặc nhiệm vụ được hoàn thành thành công. Ví dụ, nếu bạn cần phải chăm sóc một cây trong một vườn, bạn sẽ cần thực hiện các thao tác như tưới nước, cắt lột lá, bón phân và cắt cỏ thừa."
     }
 ]
