@@ -4793,5 +4793,27 @@
             "trình"
         ],
         "bot_response": "\n1. Tạo một kế hoạch lập trình: Bạn nên tạo một kế hoạch lập trình với tất cả các bước cần thiết để hoàn thành một dự án. Điều này giúp bạn có thể xem xét một cách tổng quan về một dự án trước khi bắt đầu và cũng có thể giúp bạn định hướng công việc của bạn.2. Tập trung vào mục tiêu: Để cải thiện tư duy lập trình, bạn nên tập trung vào mục tiêu của bạn. Đừng để bạn bị lãng phí thời gian bằng cách bị cuốn hút bởi những chi tiết nhỏ.3. Tập trung vào một bài tập trong một lúc: Để cải thiện tư duy lập trình của bạn, bạn nên tập trung vào một bài tập trong một lúc. Điều này sẽ giúp bạn để lập trình một cách sáng suốt và đạt được kết quả tốt hơn.4. Tìm hiểu về ngôn ngữ lập trình: Để cải thiện tư duy lập trình của bạn, bạn nên tìm hiểu về ngôn ngữ lập trình mà bạn đang sử dụng. Điều này sẽ giúp bạn hiểu rõ hơn về các cú pháp và các khái niệm cơ bản của ngôn ngữ.5. Thực hành thử: Để cải thiện tư duy lập trình của bạn, bạn nên thực hành thử một số bài tập để xem nó hoạt động như thế nào. Điều này sẽ giúp bạn hiểu rõ hơn"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "cách",
+            "cải",
+            "thiện",
+            "tư",
+            "duy",
+            "lập",
+            "trình"
+        ],
+        "required_words": [
+            "cách",
+            "cải",
+            "thiện",
+            "tư",
+            "duy",
+            "lập",
+            "trình"
+        ],
+        "bot_response": "\n1. Tìm hiểu về lập trình: Để cải thiện tư duy lập trình, bạn cần phải có một cơ sở kiến thức về các ngôn ngữ lập trình và các công nghệ liên quan đến nó. Hãy tìm hiểu về các khái niệm cơ bản của lập trình, các công cụ và các kiến thức liên quan đến nó.2. Làm việc theo bài tập: Hãy thực hành lập trình bằng cách làm các bài tập. Điều này sẽ giúp bạn làm quen với các công cụ lập trình và các công nghệ liên quan, cũng như giúp bạn làm quen với các cấu trúc của ngôn ngữ lập trình.3. Thực hành: Sau khi bạn đã tìm hiểu về lập trình và làm quen với các bài tập, hãy tìm ra một dự án lớn để thực hiện. Điều này sẽ giúp bạn thực sự thực hành các kiến thức về lập trình mà bạn đã học được.4. Tìm hiểu thêm: Hãy tìm hiểu thêm về lập trình bằng cách đọc các sách, bài báo và các tài liệu trên mạng. Điều này sẽ giúp bạn cải thiện tư duy lập trình của mình."
     }
 ]
