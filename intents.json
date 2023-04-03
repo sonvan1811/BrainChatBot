@@ -4749,5 +4749,27 @@
             "trên"
         ],
         "bot_response": "\n1. Khởi tạo biến max_num bằng giá trị đầu tiên trong list\n2. Duyệt từng phần tử trong list\n3. So sánh giá trị max_num với từng phần tử trong list\n4. Nếu giá trị của phần tử trong list lớn hơn max_num thì gán max_num bằng giá trị của phần tử đó\n5. Khi duyệt hết list thì trả về giá trị của max_num"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "cách",
+            "cải",
+            "thiện",
+            "tư",
+            "duy",
+            "lập",
+            "trình"
+        ],
+        "required_words": [
+            "cách",
+            "cải",
+            "thiện",
+            "tư",
+            "duy",
+            "lập",
+            "trình"
+        ],
+        "bot_response": "\n1. Học các công cụ lập trình: Hãy tìm hiểu về các công cụ lập trình, cách sử dụng chúng và cách thức chúng hoạt động. Điều này sẽ giúp bạn hiểu cách hoạt động của các ngôn ngữ lập trình và cách sử dụng chúng.2. Viết code để giải quyết các vấn đề: Viết code để giải quyết các vấn đề cụ thể sẽ giúp bạn không chỉ hiểu các ngôn ngữ lập trình mà còn hiểu cách sử dụng chúng để giải quyết các vấn đề.3. Tìm hiểu về các thuật toán: Tìm hiểu về các thuật toán cơ bản sẽ giúp bạn hiểu cách lập trình các bài toán phức tạp hơn.4. Thực hành và luyện tập: Thực hành và luyện tập các bài toán sẽ giúp bạn củng cố kiến thức của mình và cải thiện khả năng lập trình của bạn.5. Tìm hiểu về các ngôn ngữ lập trình khác: Tìm hiểu về các ngôn ngữ lập trình khác sẽ giúp bạn hiểu được các công nghệ mới và tối ưu hóa cách làm việc của bạn."
     }
 ]
