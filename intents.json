@@ -4815,5 +4815,25 @@
             "trình"
         ],
         "bot_response": "\n1. Tìm hiểu về lập trình: Để cải thiện tư duy lập trình, bạn cần phải có một cơ sở kiến thức về các ngôn ngữ lập trình và các công nghệ liên quan đến nó. Hãy tìm hiểu về các khái niệm cơ bản của lập trình, các công cụ và các kiến thức liên quan đến nó.2. Làm việc theo bài tập: Hãy thực hành lập trình bằng cách làm các bài tập. Điều này sẽ giúp bạn làm quen với các công cụ lập trình và các công nghệ liên quan, cũng như giúp bạn làm quen với các cấu trúc của ngôn ngữ lập trình.3. Thực hành: Sau khi bạn đã tìm hiểu về lập trình và làm quen với các bài tập, hãy tìm ra một dự án lớn để thực hiện. Điều này sẽ giúp bạn thực sự thực hành các kiến thức về lập trình mà bạn đã học được.4. Tìm hiểu thêm: Hãy tìm hiểu thêm về lập trình bằng cách đọc các sách, bài báo và các tài liệu trên mạng. Điều này sẽ giúp bạn cải thiện tư duy lập trình của mình."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "học",
+            "thuật",
+            "toán",
+            "để",
+            "làm",
+            "gì"
+        ],
+        "required_words": [
+            "học",
+            "thuật",
+            "toán",
+            "để",
+            "làm",
+            "gì"
+        ],
+        "bot_response": "\nHọc thuật toán là một phần của khoa học máy tính, nó là một quy trình được sử dụng để xử lý các bài toán cụ thể. Nó cung cấp các bước cần thiết để giải quyết một vấn đề cụ thể, đồng thời cũng cung cấp các cách để đánh giá kết quả. Thuật toán có thể được sử dụng trong nhiều lĩnh vực khác nhau, bao gồm cả các lĩnh vực như lập trình, trí tuệ nhân tạo, xử lý ngôn ngữ tự nhiên, đồ họa, bảo mật, tính toán và nhiều lĩnh vực khác."
     }
 ]
