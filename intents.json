@@ -4835,5 +4835,51 @@
             "gì"
         ],
         "bot_response": "\nHọc thuật toán là một phần của khoa học máy tính, nó là một quy trình được sử dụng để xử lý các bài toán cụ thể. Nó cung cấp các bước cần thiết để giải quyết một vấn đề cụ thể, đồng thời cũng cung cấp các cách để đánh giá kết quả. Thuật toán có thể được sử dụng trong nhiều lĩnh vực khác nhau, bao gồm cả các lĩnh vực như lập trình, trí tuệ nhân tạo, xử lý ngôn ngữ tự nhiên, đồ họa, bảo mật, tính toán và nhiều lĩnh vực khác."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "code",
+            "python",
+            "nhập",
+            "ngày",
+            "tháng",
+            "năm",
+            "và",
+            "số",
+            "n,",
+            "in",
+            "ra",
+            "màn",
+            "hình",
+            "ngày",
+            "tháng",
+            "năm",
+            "sau",
+            "n",
+            "ngày"
+        ],
+        "required_words": [
+            "code",
+            "python",
+            "nhập",
+            "ngày",
+            "tháng",
+            "năm",
+            "và",
+            "số",
+            "n,",
+            "in",
+            "ra",
+            "màn",
+            "hình",
+            "ngày",
+            "tháng",
+            "năm",
+            "sau",
+            "n",
+            "ngày"
+        ],
+        "bot_response": "\nfrom datetime import datetime, timedeltadate_input = input('Nhập ngày tháng năm (dd/mm/yyyy): ')# chuyển đổi chuỗi thành đối tượng datetime\ndate_input = datetime.strptime(date_input, '%d/%m/%Y')# lấy số N\nN = int(input('Nhập số N: '))# cộng N ngày vào date_input\ndate_output = date_input + timedelta(days=N)# chuyển đổi đối tượng datetime thành chuỗi\ndate_output = datetime.strftime(date_output, '%d/%m/%Y')# in ra màn hình\nprint('Ngày sau N ngày là:', date_output)"
     }
 ]
