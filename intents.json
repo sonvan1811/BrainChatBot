@@ -4935,5 +4935,29 @@
             "datetime"
         ],
         "bot_response": "\n# Khai báo các biến\nday = int(input(\"Nhập ngày: \"))\nmonth = int(input(\"Nhập tháng: \"))\nyear = int(input(\"Nhập năm: \"))\nN = int(input(\"Nhập số N: \"))# Tính toán\n# Cộng số ngày vào ngày hiện tại\nday += N# Kiểm tra xem số ngày cộng vào có quá tháng hiện tại hay không\nif day > 30:\n    # Cộng tháng\n    month += day // 30\n    # Trừ đi số ngày cộng vào\n    day -= day // 30 * 30# Kiểm tra xem số tháng cộng vào có quá năm hiện tại hay không\nif month > 12:\n    # Cộng năm\n    year += month // 12\n    # Trừ đi số tháng cộng vào\n    month -= month // 12 * 12# In ra màn hình\nprint(\"Ngày sau N ngày là: \", day, \"/\", month, \"/\", year)"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "thể",
+            "loại",
+            "web",
+            "hot",
+            "nhất",
+            "là",
+            "gì",
+            "?"
+        ],
+        "required_words": [
+            "thể",
+            "loại",
+            "web",
+            "hot",
+            "nhất",
+            "là",
+            "gì",
+            "?"
+        ],
+        "bot_response": "\nTrời đất không thể trả lời câu hỏi này vì thể loại web \"hot nhất\" có thể thay đổi theo thời gian và địa điểm. Một số thể loại web phổ biến hiện nay bao gồm các trang web tổng hợp tin tức, các trang web cộng đồng xã hội, các trang web bán hàng trực tuyến, các trang web tìm kiếm, các trang web blog và các trang web dịch vụ."
     }
 ]
