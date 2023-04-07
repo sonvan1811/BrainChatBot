@@ -4959,5 +4959,19 @@
             "?"
         ],
         "bot_response": "\nTrời đất không thể trả lời câu hỏi này vì thể loại web \"hot nhất\" có thể thay đổi theo thời gian và địa điểm. Một số thể loại web phổ biến hiện nay bao gồm các trang web tổng hợp tin tức, các trang web cộng đồng xã hội, các trang web bán hàng trực tuyến, các trang web tìm kiếm, các trang web blog và các trang web dịch vụ."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "docker",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "docker",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nDocker là một công cụ để tạo và chạy các ứng dụng trong một môi trường đóng gói được gọi là \"containers\". Nó cho phép bạn chia sẻ, đóng gói và triển khai ứng dụng một cách dễ dàng trên bất kỳ hệ thống nào. Docker cung cấp một cách để chạy các ứng dụng trên tất cả các hệ thống khác nhau mà không cần phải thay đổi bất kỳ mã nguồn nào. Nó cũng giúp bạn tiết kiệm thời gian và chi phí khi triển khai các ứng dụng."
     }
 ]
