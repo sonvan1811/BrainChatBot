@@ -5117,5 +5117,21 @@
             "sống"
         ],
         "bot_response": "\nVai trò của nghị lực, sự kiên trì và biết chấp nhận thất bại là không thể thiếu trên con đường vươn đến mục tiêu trong cuộc sống. Nghị lực là lực lượng đẩy mạnh chúng ta để tiến tới mục tiêu. Nó giúp chúng ta thực hiện những gì chúng ta đã quyết định. Sự kiên trì là khả năng của chúng ta để tiếp tục đến mục tiêu dù có thể có những khó khăn, thử thách và khó khăn. Biết chấp nhận thất bại là khả năng của chúng ta để nhận ra rằng chúng ta không thể luôn luôn thành công và học hỏi từ những thất bại để đi đến mục tiêu. Nếu chúng ta muốn thành công trong cuộc sống, chúng ta cần phải có nghị lực, sự kiên trì và biết chấp nhận thất bại."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "nghị",
+            "lực",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "nghị",
+            "lực",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nNghị lực là một lực lượng đẩy hoặc kéo mà một vật có thể gây ra trên một vật khác. Nghị lực có thể được tạo bởi các lực lượng hấp dẫn hoặc mạnh mẽ tác động lên một vật. Nghị lực có thể được tính bằng cách đo lường sự ngăn cản của vật đối với di chuyển. Nghị lực là một trong những lực lượng cơ bản được sử dụng trong vật lý học."
     }
 ]
