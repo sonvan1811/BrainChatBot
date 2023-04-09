@@ -5197,5 +5197,27 @@
             "?"
         ],
         "bot_response": "\nC++ có thể sử dụng một mảng 2 chiều để làm ma trận. Mỗi phần tử của mảng là một phần tử của ma trận. Ví dụ, để tạo một ma trận 3x3, bạn có thể sử dụng một mảng 2 chiều có 3 hàng và 3 cột:int matrix[3][3];Bạn cũng có thể sử dụng một vector của các vector để tạo ma trận. Mỗi vector là một hàng của ma trận. Ví dụ, để tạo một ma trận 3x3, bạn có thể sử dụng một vector của 3 vector:vector<vector<int> > matrix(3, vector<int>(3));"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "khai",
+            "báo",
+            "dữ",
+            "liệu",
+            "ma",
+            "trận",
+            "c++"
+        ],
+        "required_words": [
+            "khai",
+            "báo",
+            "dữ",
+            "liệu",
+            "ma",
+            "trận",
+            "c++"
+        ],
+        "bot_response": "\nint matrixC[3][3] = \n{\n    {1, 2, 3},\n    {4, 5, 6},\n    {7, 8, 9}\n};"
     }
 ]
