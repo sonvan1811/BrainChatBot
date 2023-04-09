@@ -5431,5 +5431,21 @@
             "i++)"
         ],
         "bot_response": "\n\n{\n    for (int j = 0; j < 3; j++)\n    {\n        std::cout << matrixC[i][j] << \" \";\n    }\n    std::cout << std::endl;\n}Dòng code này sử dụng vòng lặp để in ra một ma trận 3x3. Vòng lặp đầu tiên (i) được sử dụng để di chuyển qua các hàng của ma trận. Vòng lặp thứ hai (j) được sử dụng để di chuyển qua các cột của ma trận. Sau đó, hàm cout được sử dụng để in ra các phần tử của ma trận và kết thúc bằng xuống dòng."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "ma",
+            "trận",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "ma",
+            "trận",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nMột trận chiến là cuộc đối đầu giữa hai nhóm quân sự hoặc nhiều nhóm quân sự khác nhau, thường được diễn ra trên một phạm vi địa lý cụ thể. Trận chiến có thể diễn ra trên một vùng đất cụ thể, trong không gian, trên biển hoặc trên không."
     }
 ]
