@@ -5133,5 +5133,45 @@
             "gì"
         ],
         "bot_response": "\nNghị lực là một lực lượng đẩy hoặc kéo mà một vật có thể gây ra trên một vật khác. Nghị lực có thể được tạo bởi các lực lượng hấp dẫn hoặc mạnh mẽ tác động lên một vật. Nghị lực có thể được tính bằng cách đo lường sự ngăn cản của vật đối với di chuyển. Nghị lực là một trong những lực lượng cơ bản được sử dụng trong vật lý học."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "những",
+            "website",
+            "cập",
+            "nhật",
+            "tình",
+            "hình",
+            "tin",
+            "tức",
+            "công",
+            "nghệ",
+            "thông",
+            "tin",
+            "uy",
+            "tín",
+            "thế",
+            "giới"
+        ],
+        "required_words": [
+            "những",
+            "website",
+            "cập",
+            "nhật",
+            "tình",
+            "hình",
+            "tin",
+            "tức",
+            "công",
+            "nghệ",
+            "thông",
+            "tin",
+            "uy",
+            "tín",
+            "thế",
+            "giới"
+        ],
+        "bot_response": "\n1. Reuters: https://www.reuters.com/\n2. BBC News: https://www.bbc.com/news\n3. The Verge: https://www.theverge.com/\n4. TechCrunch: https://techcrunch.com/\n5. Engadget: https://www.engadget.com/\n6. CNET: https://www.cnet.com/\n7. Wired: https://www.wired.com/\n8. ZDNet: https://www.zdnet.com/\n9. Gizmodo: https://gizmodo.com/\n10. The Next Web: https://thenextweb.com/"
     }
 ]
