@@ -5173,5 +5173,29 @@
             "giới"
         ],
         "bot_response": "\n1. Reuters: https://www.reuters.com/\n2. BBC News: https://www.bbc.com/news\n3. The Verge: https://www.theverge.com/\n4. TechCrunch: https://techcrunch.com/\n5. Engadget: https://www.engadget.com/\n6. CNET: https://www.cnet.com/\n7. Wired: https://www.wired.com/\n8. ZDNet: https://www.zdnet.com/\n9. Gizmodo: https://gizmodo.com/\n10. The Next Web: https://thenextweb.com/"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "c++",
+            "làm",
+            "ma",
+            "trận",
+            "như",
+            "thế",
+            "nào",
+            "?"
+        ],
+        "required_words": [
+            "c++",
+            "làm",
+            "ma",
+            "trận",
+            "như",
+            "thế",
+            "nào",
+            "?"
+        ],
+        "bot_response": "\nC++ có thể sử dụng một mảng 2 chiều để làm ma trận. Mỗi phần tử của mảng là một phần tử của ma trận. Ví dụ, để tạo một ma trận 3x3, bạn có thể sử dụng một mảng 2 chiều có 3 hàng và 3 cột:int matrix[3][3];Bạn cũng có thể sử dụng một vector của các vector để tạo ma trận. Mỗi vector là một hàng của ma trận. Ví dụ, để tạo một ma trận 3x3, bạn có thể sử dụng một vector của 3 vector:vector<vector<int> > matrix(3, vector<int>(3));"
     }
 ]
