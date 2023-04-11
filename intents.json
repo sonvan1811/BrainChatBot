@@ -5465,5 +5465,31 @@
             "gì"
         ],
         "bot_response": "\nFormat trong Python là cách định dạng chuỗi, số và các đối tượng khác bằng cách sử dụng các biểu thức định dạng (format expression). Điều này cho phép bạn chuẩn bị dữ liệu cho hiển thị trên màn hình hoặc lưu trữ trong tệp."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "lấy",
+            "ví",
+            "dụ",
+            "về",
+            "các",
+            "dạng",
+            "format",
+            "trong",
+            "python"
+        ],
+        "required_words": [
+            "lấy",
+            "ví",
+            "dụ",
+            "về",
+            "các",
+            "dạng",
+            "format",
+            "trong",
+            "python"
+        ],
+        "bot_response": "\n1. Số nguyên:Ví dụ:a = 102. Số thực:Ví dụ:b = 3.143. Chuỗi:Ví dụ:c = \"Hello World!\"4. Boolean:Ví dụ:d = True"
     }
 ]
