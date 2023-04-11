@@ -5447,5 +5447,23 @@
             "gì"
         ],
         "bot_response": "\nMột trận chiến là cuộc đối đầu giữa hai nhóm quân sự hoặc nhiều nhóm quân sự khác nhau, thường được diễn ra trên một phạm vi địa lý cụ thể. Trận chiến có thể diễn ra trên một vùng đất cụ thể, trong không gian, trên biển hoặc trên không."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "format",
+            "trong",
+            "python",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "format",
+            "trong",
+            "python",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nFormat trong Python là cách định dạng chuỗi, số và các đối tượng khác bằng cách sử dụng các biểu thức định dạng (format expression). Điều này cho phép bạn chuẩn bị dữ liệu cho hiển thị trên màn hình hoặc lưu trữ trong tệp."
     }
 ]
