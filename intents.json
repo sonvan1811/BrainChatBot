@@ -5511,5 +5511,35 @@
             "?"
         ],
         "bot_response": "\nf”{}” là một cú pháp để định dạng chuỗi. Nó cho phép bạn đặt biến trong một chuỗi bằng cách sử dụng dấu ngoặc vuông. Ví dụ: f\"Chào {name}\" sẽ định dạng chuỗi với biến name."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "làm",
+            "cổng",
+            "thanh",
+            "toán",
+            "trên",
+            "website",
+            "bán",
+            "hàng",
+            "có",
+            "dễ",
+            "không"
+        ],
+        "required_words": [
+            "làm",
+            "cổng",
+            "thanh",
+            "toán",
+            "trên",
+            "website",
+            "bán",
+            "hàng",
+            "có",
+            "dễ",
+            "không"
+        ],
+        "bot_response": "\nCó thể dễ dàng làm cổng thanh toán trên website bán hàng bằng cách sử dụng một trong những dịch vụ thanh toán trực tuyến phổ biến như PayPal, Stripe hoặc Square. Ngoài ra, bạn cũng có thể tích hợp các cổng thanh toán như Apple Pay, Google Pay và các cổng thanh toán truyền thống như Visa, MasterCard, American Express."
     }
 ]
