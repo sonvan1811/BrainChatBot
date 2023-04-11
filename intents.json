@@ -5541,5 +5541,37 @@
             "không"
         ],
         "bot_response": "\nCó thể dễ dàng làm cổng thanh toán trên website bán hàng bằng cách sử dụng một trong những dịch vụ thanh toán trực tuyến phổ biến như PayPal, Stripe hoặc Square. Ngoài ra, bạn cũng có thể tích hợp các cổng thanh toán như Apple Pay, Google Pay và các cổng thanh toán truyền thống như Visa, MasterCard, American Express."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "cách",
+            "hoạt",
+            "động",
+            "của",
+            "cổng",
+            "thanh",
+            "toán",
+            "paypal",
+            "trên",
+            "website",
+            "của",
+            "tôi"
+        ],
+        "required_words": [
+            "cách",
+            "hoạt",
+            "động",
+            "của",
+            "cổng",
+            "thanh",
+            "toán",
+            "paypal",
+            "trên",
+            "website",
+            "của",
+            "tôi"
+        ],
+        "bot_response": "\n1. Đầu tiên, khách hàng sẽ nhấp vào nút \"Thanh toán bằng Paypal\" trên trang web của bạn.2. Sau đó, khách hàng sẽ được chuyển đến trang đăng nhập của Paypal để đăng nhập vào tài khoản của mình.3. Sau khi đăng nhập, khách hàng sẽ được yêu cầu nhập thông tin thanh toán của họ, bao gồm số thẻ tín dụng, ngày hết hạn và mã bảo mật.4. Sau khi điền đầy đủ thông tin, khách hàng sẽ nhấp vào nút \"Xác nhận thanh toán\" để hoàn tất việc thanh toán.5. Paypal sẽ xác nhận thanh toán và gửi email xác nhận cho khách hàng.6. Khách hàng sẽ nhận được email xác nhận và được chuyển đến trang web của bạn để xem thông tin đơn hàng và xác nhận đã thanh toán thành công."
     }
 ]
