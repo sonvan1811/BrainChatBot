@@ -5601,5 +5601,19 @@
             "hằng"
         ],
         "bot_response": "As an AI language model, I do not have access to personal information such as the identity of individuals. Therefore, I cannot provide information about \"Vũ Thu Hằng.\" Please provide me with more specific information so I can assist you better."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "vũ",
+            "thu",
+            "hằng"
+        ],
+        "required_words": [
+            "vũ",
+            "thu",
+            "hằng"
+        ],
+        "bot_response": "Xin lỗi, tôi không thể cung cấp thêm thông tin về Vũ Thu Hằng vì không rõ cụ thể ai là người đó. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể để tôi có thể giúp đỡ tốt hơn."
     }
 ]
