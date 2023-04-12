@@ -5629,5 +5629,41 @@
             "gì"
         ],
         "bot_response": "\nQuy trình giâm cành rau ngót:1. Chuẩn bị: Chọn rau ngót tươi, sạch và không bị hỏng.2. Xử lý: Rửa sạch rau ngót và để ráo nước trước khi giâm cành.3. Giâm cành: Đặt rau ngót trên bề mặt lì và cứng, và cẩn thận khi thu hẹp.4. Kiểm tra: Kiểm tra kỹ các rau ngót đã được giâm cành để đảm bảo chất lượng.Chú ý:- Cẩn thận khi thu hẹp để tránh rau ngót bị vỡ.\n- Chọn độ phân giải thích hợp để đảm bảo chất lượng của rau ngót.\n- Sử dụng thiết bị để giâm cành để đảm bảo chính xác."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "trong",
+            "quá",
+            "trình",
+            "làm",
+            "đất",
+            "giâm",
+            "cành",
+            "rau",
+            "ngót",
+            "cần",
+            "chú",
+            "ý",
+            "điều",
+            "gì"
+        ],
+        "required_words": [
+            "trong",
+            "quá",
+            "trình",
+            "làm",
+            "đất",
+            "giâm",
+            "cành",
+            "rau",
+            "ngót",
+            "cần",
+            "chú",
+            "ý",
+            "điều",
+            "gì"
+        ],
+        "bot_response": "\n1. Chọn đất phù hợp với loại rau ngót được trồng.2. Tạo điều kiện ô nhiễm cho môi trường, đặc biệt là nước và không khí.3. Đảm bảo các điều kiện để cung cấp đủ năng lượng cho rau ngót.4. Chọn phương pháp trồng phù hợp với loại rau ngót.5. Sử dụng phương pháp thích hợp để bảo vệ rau ngót khỏi các động vật và các bệnh thường gặp.6. Sử dụng phương pháp thích hợp để kiểm soát các côn trùng, cỏ cây và các loài thực vật khác.7. Thực hiện đúng thời gian gieo trồng và bón phân.8. Bảo vệ rau ngót khỏi ánh nắng quá mạnh và mưa quá nhiều."
     }
 ]
