@@ -5679,5 +5679,45 @@
             "sin(pi/6)"
         ],
         "bot_response": "Phương trình lượng giác sin(pi/6) có thể được giải bằng cách sử dụng công thức lượng giác:\n\nsin(x) = opposite/hypotenuse\n\nVới x = pi/6, chúng ta có thể vẽ một tam giác đều với góc pi/6 tại đỉnh và hai cạnh bằng nhau. Vì đây là một tam giác đều, nên hai cạnh bằng nhau đều bằng 1 và đường chéo còn lại có giá trị bằng 2.\n\nTừ đó, ta tính được:\n\nsin(pi/6) = opposite/hypotenuse = 1/2\n\nĐáp số: sin(pi/6) = 1/2."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "phương",
+            "trình",
+            "tiếp",
+            "tuyến",
+            "y",
+            "=",
+            "-x^3",
+            "-",
+            "2x^2",
+            "+",
+            "1",
+            "tại",
+            "x",
+            "=",
+            "1"
+        ],
+        "required_words": [
+            "viết",
+            "phương",
+            "trình",
+            "tiếp",
+            "tuyến",
+            "y",
+            "=",
+            "-x^3",
+            "-",
+            "2x^2",
+            "+",
+            "1",
+            "tại",
+            "x",
+            "=",
+            "1"
+        ],
+        "bot_response": "Để tìm phương trình tiếp tuyến của đồ thị hàm số tại một điểm xác định, ta cần thực hiện các bước sau đây:\n\nBước 1: Tính đạo hàm của hàm số tại điểm đó.\n\nBước 2: Tính giá trị của hàm số tại điểm đó.\n\nBước 3: Dùng công thức phương trình tiếp tuyến, kết hợp giá trị đạo hàm và giá trị hàm số tại điểm đó để tìm phương trình tiếp tuyến.\n\nÁp dụng các bước trên vào bài toán:\n\nBước 1: Tính đạo hàm của hàm số y = - x^3 - 2x^2 + 1 tại điểm x = 1.\n\ny' = -3x^2 - 4x\n\nVới x = 1, ta có y' = -3(1)^2 - 4(1) = -7.\n\nBước 2: Tính giá trị của hàm số tại điểm x = 1.\n\ny = -1 - 2 + 1 = -2\n\nBước 3: Dùng công thức phương trình tiếp tuyến y - y0 = m(x - x0), kết hợp giá trị đạo hàm và giá trị hàm số tại điểm x = 1 để tìm phương trình tiếp tuyến.\n\nVới x0 = 1, y0 = -2 và m = -7 (giá trị đạo hàm tại x = 1), ta có:\n\ny - (-2) = -7(x - 1)\n\ny + 7x = -9\n\nVậy phương trình tiếp tuyến của đồ thị hàm số y = -x^3 - 2x^2 + 1 tại điểm x = 1 là y + 7x = -9."
     }
 ]
