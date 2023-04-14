@@ -5615,5 +5615,15 @@
             "hằng"
         ],
         "bot_response": "Xin lỗi, tôi không thể cung cấp thêm thông tin về Vũ Thu Hằng vì không rõ cụ thể ai là người đó. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể để tôi có thể giúp đỡ tốt hơn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hì"
+        ],
+        "required_words": [
+            "hì"
+        ],
+        "bot_response": "Hello! How can I assist you today?"
     }
 ]
