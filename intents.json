@@ -5659,5 +5659,25 @@
             "10"
         ],
         "bot_response": "Ta có:\n\n3x + 9 = 10\n\nĐưa 9 qua bên trái, ta có:\n\n3x = 10 - 9\n\n3x = 1\n\nChia cả 2 vế cho 3, ta được:\n\nx = 1/3\n\nVậy x = 1/3 là nghiệm của phương trình."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "giải",
+            "phương",
+            "trình",
+            "lượng",
+            "giác",
+            "sin(pi/6)"
+        ],
+        "required_words": [
+            "giải",
+            "phương",
+            "trình",
+            "lượng",
+            "giác",
+            "sin(pi/6)"
+        ],
+        "bot_response": "Phương trình lượng giác sin(pi/6) có thể được giải bằng cách sử dụng công thức lượng giác:\n\nsin(x) = opposite/hypotenuse\n\nVới x = pi/6, chúng ta có thể vẽ một tam giác đều với góc pi/6 tại đỉnh và hai cạnh bằng nhau. Vì đây là một tam giác đều, nên hai cạnh bằng nhau đều bằng 1 và đường chéo còn lại có giá trị bằng 2.\n\nTừ đó, ta tính được:\n\nsin(pi/6) = opposite/hypotenuse = 1/2\n\nĐáp số: sin(pi/6) = 1/2."
     }
 ]
