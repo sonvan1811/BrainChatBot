@@ -5635,5 +5635,29 @@
             "hì"
         ],
         "bot_response": "Hello! How can I assist you today?"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "giải",
+            "phương",
+            "trình",
+            "3x",
+            "+",
+            "9",
+            "=",
+            "10"
+        ],
+        "required_words": [
+            "giải",
+            "phương",
+            "trình",
+            "3x",
+            "+",
+            "9",
+            "=",
+            "10"
+        ],
+        "bot_response": "Ta có:\n\n3x + 9 = 10\n\nĐưa 9 qua bên trái, ta có:\n\n3x = 10 - 9\n\n3x = 1\n\nChia cả 2 vế cho 3, ta được:\n\nx = 1/3\n\nVậy x = 1/3 là nghiệm của phương trình."
     }
 ]
