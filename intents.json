@@ -5749,5 +5749,33 @@
             "tên"
         ],
         "bot_response": "Bạn có thể sử dụng đoạn code sau để in ra thông tin về tuổi và họ tên của một người:\n\n```cpp\n#include <iostream>\n#include <string>\nusing namespace std;\n\nint main() {\n  int age = 25; // tuổi\n  string name = \"John Smith\"; // họ tên\n\n  cout << \"My name is \" << name << \" and I am \" << age << \" years old.\" << endl;\n\n  return 0;\n}\n```\n Kết quả in ra sẽ là:\n\n```\nMy name is John Smith and I am 25 years old.\n```"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tôi",
+            "có",
+            "câu",
+            "hỏi.",
+            "bạn",
+            "có",
+            "thể",
+            "trợ",
+            "giúp",
+            "không?"
+        ],
+        "required_words": [
+            "tôi",
+            "có",
+            "câu",
+            "hỏi.",
+            "bạn",
+            "có",
+            "thể",
+            "trợ",
+            "giúp",
+            "không?"
+        ],
+        "bot_response": "\nVâng, tôi có thể trợ giúp. Hãy nhắc lại câu hỏi của bạn để tôi có thể giúp đỡ bạn."
     }
 ]
