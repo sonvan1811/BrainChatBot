@@ -5777,5 +5777,27 @@
             "không?"
         ],
         "bot_response": "\nVâng, tôi có thể trợ giúp. Hãy nhắc lại câu hỏi của bạn để tôi có thể giúp đỡ bạn."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "iterable",
+            "trong",
+            "python",
+            "là",
+            "gì,",
+            "nêu",
+            "rõ"
+        ],
+        "required_words": [
+            "iterable",
+            "trong",
+            "python",
+            "là",
+            "gì,",
+            "nêu",
+            "rõ"
+        ],
+        "bot_response": "\n các ví dụIterable là một đối tượng trong Python mà có thể được duyệt qua, để truy cập từng phần tử trong đối tượng đó. Một iterable có thể là một chuỗi, danh sách, tập hợp hoặc một lớp đối tượng có thể lặp qua.Ví dụ:1. Chuỗi:my_string = \"Hello World\"for char in my_string:\n    print(char)2. Danh sách:my_list = [1, 2, 3, 4, 5]for item in my_list:\n    print(item)3. Tập hợp:my_set = {1, 2, 3, 4, 5}for item in my_set:\n    print(item)4. Lớp đối tượng:class MyClass:\n    def __init__(self, x, y):\n        self.x = x\n        self.y = ymy_object = MyClass(1, 2)for attr in my_object:\n    print(attr)"
     }
 ]
