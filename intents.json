@@ -5823,5 +5823,33 @@
             "python"
         ],
         "bot_response": "\nIterable là một từ khóa trong Python được sử dụng để chỉ một đối tượng có thể được lặp qua. Một đối tượng được xem là iterable nếu nó có thể được xử lý bằng cách sử dụng một vòng lặp. Những đối tượng iterable thường bao gồm các đối tượng như danh sách, tập hợp, và các đối tượng duy nhất như các chuỗi hoặc số."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "\"đọc",
+            "file",
+            "bằng",
+            "constructor",
+            "nhận",
+            "iterable\"",
+            "dịch",
+            "sang",
+            "tiếng",
+            "việt"
+        ],
+        "required_words": [
+            "\"đọc",
+            "file",
+            "bằng",
+            "constructor",
+            "nhận",
+            "iterable\"",
+            "dịch",
+            "sang",
+            "tiếng",
+            "việt"
+        ],
+        "bot_response": "\n là:Đọc file bằng constructor nhận iterable là một cách để đọc dữ liệu từ một tập hợp các đối tượng được xem như là một dãy."
     }
 ]
