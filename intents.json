@@ -5919,5 +5919,49 @@
             "python"
         ],
         "bot_response": "\n__radd__() là một phương thức đặc biệt trong Python. Nó được gọi khi một đối tượng được cộng với một số nguyên. Điều này cho phép các đối tượng tự định nghĩa cách họ cộng với số nguyên."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "code",
+            "python",
+            "nhập",
+            "1",
+            "xâu",
+            "bàn",
+            "phím,",
+            "in",
+            "ra",
+            "màn",
+            "hình",
+            "xâu",
+            "đó",
+            "có",
+            "bao",
+            "nhiêu",
+            "từ"
+        ],
+        "required_words": [
+            "viết",
+            "code",
+            "python",
+            "nhập",
+            "1",
+            "xâu",
+            "bàn",
+            "phím,",
+            "in",
+            "ra",
+            "màn",
+            "hình",
+            "xâu",
+            "đó",
+            "có",
+            "bao",
+            "nhiêu",
+            "từ"
+        ],
+        "bot_response": "\ns = input(\"Nhập xâu: \")\nwords = s.split()\nprint(\"Xâu có\", len(words), \"từ\")"
     }
 ]
