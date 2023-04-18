@@ -5891,5 +5891,33 @@
             "gì"
         ],
         "bot_response": "\nGiá trị băm là quá trình sử dụng thuật toán băm để tạo ra một chuỗi ký tự hoặc số có độ dài cố định. Chuỗi băm này thường được sử dụng để xác thực tính toàn vẹn của dữ liệu."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "__radd__(n)",
+            "với",
+            "n",
+            "là",
+            "số",
+            "nguyên",
+            "là",
+            "gì",
+            "trong",
+            "python"
+        ],
+        "required_words": [
+            "__radd__(n)",
+            "với",
+            "n",
+            "là",
+            "số",
+            "nguyên",
+            "là",
+            "gì",
+            "trong",
+            "python"
+        ],
+        "bot_response": "\n__radd__() là một phương thức đặc biệt trong Python. Nó được gọi khi một đối tượng được cộng với một số nguyên. Điều này cho phép các đối tượng tự định nghĩa cách họ cộng với số nguyên."
     }
 ]
