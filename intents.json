@@ -5851,5 +5851,27 @@
             "việt"
         ],
         "bot_response": "\n là:Đọc file bằng constructor nhận iterable là một cách để đọc dữ liệu từ một tập hợp các đối tượng được xem như là một dãy."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hashable",
+            "và",
+            "unhashable",
+            "là",
+            "gì",
+            "trong",
+            "python"
+        ],
+        "required_words": [
+            "hashable",
+            "và",
+            "unhashable",
+            "là",
+            "gì",
+            "trong",
+            "python"
+        ],
+        "bot_response": "\nHashable là các đối tượng trong Python có thể được sử dụng để tạo ra một giá trị băm duy nhất. Các đối tượng hashable bao gồm các kiểu dữ liệu cơ bản như số nguyên, số thực, chuỗi và tuple.Unhashable là các đối tượng trong Python không thể được sử dụng để tạo ra một giá trị băm duy nhất. Các đối tượng unhashable bao gồm các kiểu dữ liệu như danh sách, tập hợp, bộ định nghĩa và bất kỳ đối tượng động nào khác."
     }
 ]
