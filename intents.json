@@ -5963,5 +5963,53 @@
             "từ"
         ],
         "bot_response": "\ns = input(\"Nhập xâu: \")\nwords = s.split()\nprint(\"Xâu có\", len(words), \"từ\")"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "chương",
+            "trình",
+            "python",
+            "nhập",
+            "1",
+            "xâu",
+            "bàn",
+            "phím,",
+            "in",
+            "ra",
+            "màn",
+            "hình",
+            "xâu",
+            "đó",
+            "có",
+            "bao",
+            "nhiêu",
+            "chữ",
+            "cái"
+        ],
+        "required_words": [
+            "viết",
+            "chương",
+            "trình",
+            "python",
+            "nhập",
+            "1",
+            "xâu",
+            "bàn",
+            "phím,",
+            "in",
+            "ra",
+            "màn",
+            "hình",
+            "xâu",
+            "đó",
+            "có",
+            "bao",
+            "nhiêu",
+            "chữ",
+            "cái"
+        ],
+        "bot_response": "\n.x = input(\"Nhập chuỗi: \")\nprint(\"Chuỗi có\", len(x), \"chữ cái.\")"
     }
 ]
