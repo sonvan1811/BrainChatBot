@@ -5873,5 +5873,23 @@
             "python"
         ],
         "bot_response": "\nHashable là các đối tượng trong Python có thể được sử dụng để tạo ra một giá trị băm duy nhất. Các đối tượng hashable bao gồm các kiểu dữ liệu cơ bản như số nguyên, số thực, chuỗi và tuple.Unhashable là các đối tượng trong Python không thể được sử dụng để tạo ra một giá trị băm duy nhất. Các đối tượng unhashable bao gồm các kiểu dữ liệu như danh sách, tập hợp, bộ định nghĩa và bất kỳ đối tượng động nào khác."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "giá",
+            "trị",
+            "băm",
+            "là",
+            "gì"
+        ],
+        "required_words": [
+            "giá",
+            "trị",
+            "băm",
+            "là",
+            "gì"
+        ],
+        "bot_response": "\nGiá trị băm là quá trình sử dụng thuật toán băm để tạo ra một chuỗi ký tự hoặc số có độ dài cố định. Chuỗi băm này thường được sử dụng để xác thực tính toàn vẹn của dữ liệu."
     }
 ]
