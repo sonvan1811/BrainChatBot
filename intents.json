@@ -6011,5 +6011,35 @@
             "cái"
         ],
         "bot_response": "\n.x = input(\"Nhập chuỗi: \")\nprint(\"Chuỗi có\", len(x), \"chữ cái.\")"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "viết",
+            "code",
+            "python",
+            "in",
+            "ra",
+            "10",
+            "lần",
+            "từ",
+            "1",
+            "đến",
+            "100"
+        ],
+        "required_words": [
+            "viết",
+            "code",
+            "python",
+            "in",
+            "ra",
+            "10",
+            "lần",
+            "từ",
+            "1",
+            "đến",
+            "100"
+        ],
+        "bot_response": "\nfor i in range(1,101):\n    print(i)"
     }
 ]
