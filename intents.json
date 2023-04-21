@@ -6229,5 +6229,33 @@
             "you?"
         ],
         "bot_response": "\na. have we\nb. aren't they\nc. Shall we\nd. Aren't you\ne. Didn't he\nf. Will you\ng. didn't it\nh. isn't she\ni. do you\nj. won't you"
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "100",
+            "năm",
+            "trước",
+            "những",
+            "người",
+            "đi",
+            "du",
+            "lịch",
+            "bằng",
+            "gì"
+        ],
+        "required_words": [
+            "100",
+            "năm",
+            "trước",
+            "những",
+            "người",
+            "đi",
+            "du",
+            "lịch",
+            "bằng",
+            "gì"
+        ],
+        "bot_response": "\n100 năm trước, người đi du lịch thường sử dụng các phương tiện giao thông như xe ngựa, xe buýt, xe lửa hoặc thuyền. Những người có thể sở hữu được có thể sử dụng xe ô tô hoặc máy bay."
     }
 ]
