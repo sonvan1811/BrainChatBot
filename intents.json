@@ -6257,5 +6257,15 @@
             "gì"
         ],
         "bot_response": "\n100 năm trước, người đi du lịch thường sử dụng các phương tiện giao thông như xe ngựa, xe buýt, xe lửa hoặc thuyền. Những người có thể sở hữu được có thể sử dụng xe ô tô hoặc máy bay."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "hi"
+        ],
+        "required_words": [
+            "hi"
+        ],
+        "bot_response": "\n,I'm sorry to hear that you're having trouble with your printer. It can be very frustrating when a device isn't working as it should.The first thing you should do is to check the power connection and make sure it is securely plugged in. If the power cord is plugged in correctly, try unplugging it and plugging it back in. If that doesn't work, try checking the USB connection to ensure that it is securely connected.If the connections are secure, then you may need to reset the printer. To do this, turn off the printer and unplug the power cord. Wait for 10 seconds and then plug the power cord back in and turn the printer back on.If none of these steps work, then you may need to contact the manufacturer of your printer for further assistance.I hope this helps. Good luck!"
     }
 ]
