@@ -6287,5 +6287,33 @@
             "hi"
         ],
         "bot_response": "\n,I'm trying to create a new application in Visual Studio 2015. I want to use the Windows Forms Application template, but when I try to open the project, I get an error saying \"The application for project is not installed. Make sure the application for the project type (.NET Framework) is installed\".I've tried reinstalling Visual Studio, but the error still appears.Please help me.Thanks."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "tôi",
+            "có",
+            "câu",
+            "hỏi.",
+            "bạn",
+            "có",
+            "thể",
+            "trợ",
+            "giúp",
+            "không?"
+        ],
+        "required_words": [
+            "tôi",
+            "có",
+            "câu",
+            "hỏi.",
+            "bạn",
+            "có",
+            "thể",
+            "trợ",
+            "giúp",
+            "không?"
+        ],
+        "bot_response": "\nVâng, tôi có thể trợ giúp bạn. Hãy cho biết câu hỏi của bạn để tôi có thể giúp bạn tìm ra câu trả lời."
     }
 ]
