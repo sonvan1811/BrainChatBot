@@ -6315,5 +6315,45 @@
             "không?"
         ],
         "bot_response": "\nVâng, tôi có thể trợ giúp bạn. Hãy cho biết câu hỏi của bạn để tôi có thể giúp bạn tìm ra câu trả lời."
+    },
+    {
+        "response_type": "answer",
+        "user_input": [
+            "làm",
+            "thế",
+            "nào",
+            "để",
+            "ghép",
+            "các",
+            "từ",
+            "trong",
+            "bảng",
+            "ipa",
+            "lại",
+            "thành",
+            "một",
+            "từ",
+            "tiếng",
+            "anh"
+        ],
+        "required_words": [
+            "làm",
+            "thế",
+            "nào",
+            "để",
+            "ghép",
+            "các",
+            "từ",
+            "trong",
+            "bảng",
+            "ipa",
+            "lại",
+            "thành",
+            "một",
+            "từ",
+            "tiếng",
+            "anh"
+        ],
+        "bot_response": "\n/ˈdʒɔː.ləs/Jolly"
     }
 ]
